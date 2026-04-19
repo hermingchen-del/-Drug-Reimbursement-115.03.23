@@ -386,20 +386,27 @@
     /* ── Format rule text into indented HTML lines ── */
     function formatRule(text) {
       if (!text) return '';
-      let result = text
-        .replace(/(?<!\d)(?=\d+\.\s)/g, '\n')
-        .replace(/(?=\(\d+\))/g, '\n')
-        .replace(/(?=[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ]\.)/g, '\n')
-        .replace(/(?=[ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹ](?=[^\d]))/g, '\n')
+
+      // Insert newline BEFORE each level marker:
+      // Level 0: 數字+句點  → 1. 2. 3.  (not preceded by another digit, e.g. not "1.1.")
+      // Level 1: 括號數字   → (1) (2) (3)
+      // Level 2: 全形大寫羅馬數字+句點 → Ⅰ. Ⅱ. Ⅲ.
+      // Level 3: 全形小寫羅馬數字      → ⅰ ⅱ ⅲ
+      const result = text
+        .replace(/(?<![.\d])(?=\d+\.[^.\d])/g, '\n')   // 1. 2. 3. (not 1.1.)
+        .replace(/(?=\(\d+\))/g, '\n')                  // (1) (2)
+        .replace(/(?=[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ]\.)/g, '\n')     // Ⅰ. Ⅱ.
+        .replace(/(?=[ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹ])/g, '\n')           // ⅰ ⅱ
         .replace(/^\n+/, '');
 
       const lines = result.split('\n').filter(l => l.trim() !== '');
       return lines.map(line => {
         const t = line.trim();
         let cls = 'rule-line';
-        if (/^[ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹ]/.test(t))      cls += ' indent-3';
-        else if (/^[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ]\./.test(t)) cls += ' indent-2';
-        else if (/^\(\d+\)/.test(t))           cls += ' indent-1';
+        if      (/^[ⅰⅱⅲⅳⅴⅵⅶⅷⅸⅹ]/.test(t))          cls += ' indent-3';
+        else if (/^[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫ]\./.test(t))       cls += ' indent-2';
+        else if (/^\(\d+\)/.test(t))                    cls += ' indent-1';
+        // level 0 (1. 2. 3.) gets no indent
         return `<div class="${cls}">${t}</div>`;
       }).join('');
     }
