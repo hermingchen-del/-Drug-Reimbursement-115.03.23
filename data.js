@@ -15,7 +15,7 @@ const drugData = [
     "code": "1.1.2.",
     "category": "神經系統藥物 Drugs acting on the nervous system",
     "name": "非類固醇抗發炎劑 (NSAIDs) 之注射劑",
-    "rule": "1.非類固醇抗發炎劑 (NSAIDs) 之注射劑（ketorolac成分之注射劑除外）： (1)限不能口服，且不能使用肛門栓劑之病患使用。 (2)本類藥品不可作為急性上呼吸道感染之例行或長期性使用。(3)使用本類藥品，每次不可連續超過五天。2.Ketorolac成分之注射劑： 限用於無法口服之病人且為手術後中重度急性疼痛之短期治療（治療期間為≦5天），惟禁止使用於產科止痛。"
+    "rule": "1.非類固醇抗發炎劑 (NSAIDs) 之注射劑（ketorolac成分之注射劑除外）： (1)限不能口服，且不能使用肛門栓劑之病患使用。 (2)本類藥品不可作為急性上呼吸道感染之例行或長期性使用。 (3)使用本類藥品，每次不可連續超過五天。 2.Ketorolac成分之注射劑： 限用於無法口服之病人且為手術後中重度急性疼痛之短期治療（治療期間為≦5天），惟禁止使用於產科止痛。"
   },
   {
     "code": "1.1.3.",
@@ -361,19 +361,19 @@ const drugData = [
   },
   {
     "code": "1.6.8.",
-    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
+    "category": "神經系統藥物 Drugs acting on the nervous system",
     "name": "Eladocagene exuparvovec(如Upstaza)",
     "rule": "1.限用於經衛生福利部國民健康署認定之治療年齡在18個月以上至未滿6歲，且經臨床、生化和基因證實確診為具嚴重表現型之芳香族L-胺基酸類脫羧基酶缺乏症(Aromatic L-Amino acid decarboxylase deficiency, AADC deficiency)病人，並符合下列所有條件者： (1)年齡在12個月以上但無頭部控制能力或頭部控制不佳。 (2)已使用多巴胺促效劑和單胺氧化酶抑制劑（MAOIs, Monoamine oxidase inhibitor）藥物治療後，仍無法控制疾病。 2.需經特殊專案審查核准後使用： (1)檢附神經外科醫師評估病人頭蓋骨發育已足以進行立體定位手術之病歷。 (2)檢附病歷資料，包括治療前的標準運動功能評估(參見第7點療效評估)，確認病人雖已接受標準藥物療法2個月，仍存在由AADC缺乏症繼發的持續性神經症狀。 (3)檢附醫病共享決策(Shared Decision Making,SDM)之輔助評估表資料，並請病人(或法定代理人)簽名，正本留存病歷。 (4)檢附病人(或法定代理人)簽署「全民健康保險保險對象使用eladocagene exuparvovec基因療法製劑協議書」影本，正本留存病歷。 3.醫院及執行治療之醫師資格須先經保險人審核同意後，後續始得依個案申請特殊專案審查，另醫院及執行治療之醫師變更時應重新向保險人申請。 4.執行治療之醫院須符合下列所有資格： (1)須為台灣神經外科醫學會所認定之專科醫師訓練的醫學中心。 (2)應有專任具兒童麻醉、兒童重症加護專長之醫師。 (3)需有腦瘤立體定位手術(但不包括放射治療手術)每年30例以上經驗。 (4)須具備兒童加護病房及基因治療調劑室，並有基因治療調劑經驗之醫學中心。 (5)備有完善腦部精準定位手術導航系統，深層腦部刺激器之立體定位套組。 5.執行治療之醫師須符合下列資格： (1)手術主持醫師：須為神經外科專科醫師，曾參與完成30例以上之立體定位手術經驗，其中至少5例為兒童(包括1例為未滿3歲)之立體定位手術，並有「AADC基因療法」(含病毒注射)經驗者。 (2)處方醫師：須為小兒專科醫師5年以上經驗，並具小兒遺傳或小兒神經次專科證書者，且具有參與AADC基因治療人體試驗之試驗主持人或該團隊中具處方本藥品之經歷。 6.排除條件： (1)病人存在其他重大的醫學或神經"
   },
   {
     "code": "2.1.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "抗血栓劑Antithrombotic agents",
     "rule": ""
   },
   {
     "code": "2.1.1.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "血小板凝集抑制劑 Platelet aggregation inhibitors",
     "rule": ""
   },
@@ -457,13 +457,13 @@ const drugData = [
   },
   {
     "code": "2.1.2.3.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "刪除",
     "rule": ""
   },
   {
     "code": "2.1.3.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "肝素類Heparin group",
     "rule": ""
   },
@@ -517,13 +517,13 @@ const drugData = [
   },
   {
     "code": "2.2.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "血管擴張劑 Vasodilators",
     "rule": ""
   },
   {
     "code": "2.2.1.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "(刪除)",
     "rule": ""
   },
@@ -535,13 +535,13 @@ const drugData = [
   },
   {
     "code": "2.2.3.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "Papaverine inj",
     "rule": "限血管攝影及血管手術病例使用。"
   },
   {
     "code": "2.3.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "血管收縮劑 Vasoconstrictors",
     "rule": ""
   },
@@ -553,7 +553,7 @@ const drugData = [
   },
   {
     "code": "2.4.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "泌尿道疾患治療藥物 Agents used to treat urological disorders",
     "rule": ""
   },
@@ -577,13 +577,13 @@ const drugData = [
   },
   {
     "code": "2.5.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "(刪除)",
     "rule": ""
   },
   {
     "code": "2.6.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "降血脂藥物 Drugs used for dyslipidemia",
     "rule": ""
   },
@@ -607,7 +607,7 @@ const drugData = [
   },
   {
     "code": "2.6.4.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "PCSK9 血脂調節劑",
     "rule": ""
   },
@@ -625,13 +625,13 @@ const drugData = [
   },
   {
     "code": "2.7.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "乙型擬交感神經阻斷劑Beta blocking agents：metoprolol succinate 23.75mg（如Betaloc ZOK 25mg）",
     "rule": "限用於慢性心衰竭病患。"
   },
   {
     "code": "2.8.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "其他 Miscellaneous",
     "rule": ""
   },
@@ -703,7 +703,7 @@ const drugData = [
   },
   {
     "code": "2.9.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "利尿劑 Diuretics",
     "rule": ""
   },
@@ -727,7 +727,7 @@ const drugData = [
   },
   {
     "code": "2.10.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "抗心律不整劑Antiarrhythmics",
     "rule": ""
   },
@@ -739,7 +739,7 @@ const drugData = [
   },
   {
     "code": "2.11.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "抗痛風劑 Antigout agents",
     "rule": ""
   },
@@ -763,7 +763,7 @@ const drugData = [
   },
   {
     "code": "2.13.",
-    "category": "心臟血管系統藥物 Drugs acting on the cardiovascular system",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "Tolvaptan(105/9/1、108/7/1、109/3/1、109/10/1)",
     "rule": ""
   },
@@ -811,25 +811,25 @@ const drugData = [
   },
   {
     "code": "2.19.",
-    "category": "代謝及營養劑 Metabolic & nutrient agents",
+    "category": "心臟血管及腎臟藥物 Cardiovascular-renal drugs",
     "name": "Mavacamten（如Camzyos）",
     "rule": "1.限用於治療症狀性紐約心臟學會(NYHA)分級第二級及第三級阻塞型肥厚性心肌病變(HCM)之18歲以上成人病人，用以改善功能容量與症狀。病人須符合以下條件： - 左心室壁厚度(leftventricularwallthickness)≥15mm(具有HCM家族史者則≥13mm)。 - 經心臟超音波檢測之靜止時、伐式操作(Valsalva maneuver)或運動後之LVOT壓力差≥50mmHg且LVEF≥55%。 - 曾接受過乙型阻斷劑或鈣離子阻斷劑（verapamil或diltiazem）治療並已達最大LVOT壓力差下降效果的劑量後，在治療期間仍無法控制LVOT壓力差；但具禁忌症或無法耐受者不在此限。 2.須經事前審查核准後使用，第一次申請以6個月為限，期滿需經再次申請核准後使用，每次續用申請以12個月為限。 3.續用條件：使用藥物治療達6個月以上，LVEF≥55%，並且靜止時、伐式操作(Valsalva maneuver)或運動後之LVOT壓力差<50mmHg或治療前後LVOT壓力差下降幅度達20mmHg。 4.停藥條件： (1)當LVEF<50%時應中斷治療，每4週再次確認心臟超音波參數，直到LVEF≥50%為止，並依仿單用法重啟治療。 (2)當每日劑量2.5mg時，發生2次LVEF<50%或1次LVEF≤30%時，須永久停藥。 5.限心臟專科醫師處方。 6.Camzyos 2.5mg每日至多給付2粒，Camzyos 10mg或15mg每日至多給付1粒，且2.5mg不得與10mg或15mg併用。"
   },
   {
     "code": "3.1.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "靜脈營養輸液 Parenteral nutritions",
     "rule": ""
   },
   {
     "code": "3.1.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "歲以下患有血液動力學上顯著異常之先天性心臟病童。需符合以下條件(111/2/1)",
     "rule": "(1)納入條件：符合下列條件之一 Ⅰ非發紺性先天性心臟病合併心臟衰竭：符合下列三項中至少兩項：(1)生長遲滯，體重小於第三百分位；(2)有明顯心臟擴大現象；(3)需兩種以上抗心臟衰竭藥物控制症狀。 Ⅱ發紺性先天性心臟病：完全矯正手術（含心導管或是外科手術矯正）前或是矯正手術後仍有發紺或是心臟衰竭症狀者。 (2)排除條件： Ⅰ非嚴重性先天性心臟病：不需藥物控制心臟衰竭，如心房中隔缺損，單純動脈瓣膜輕微狹窄等。 Ⅱ嚴重性先天性心臟病，但經心導管或外科手術治療，目前僅殘存輕微血行動力學異常，且無發紺症狀。 (3)施打方式： Ⅰ一歲之內每個月給予15mg/kg palivizumab肌肉注射一次，直到年齡滿一歲或直到矯正手術(包括開心及心導管手術)為止。 Ⅱ一歲之內接受體外循環開心矯正手術者，術後出院前再給一劑。 Ⅲ最多施打六劑。"
   },
   {
     "code": "3.1.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "~2項規定內之疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。",
     "rule": "4.Bosutinib、nilotinib與dasatinib不得合併使用。"
   },
@@ -865,7 +865,7 @@ const drugData = [
   },
   {
     "code": "3.3.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "其他 Miscellaneous",
     "rule": ""
   },
@@ -883,7 +883,7 @@ const drugData = [
   },
   {
     "code": "3.3.3.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "(刪除)",
     "rule": ""
   },
@@ -907,7 +907,7 @@ const drugData = [
   },
   {
     "code": "3.3.7.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "Sodium bicarbonate成分之口服製劑給付規定",
     "rule": "限用於代謝性酸中毒。"
   },
@@ -961,7 +961,7 @@ const drugData = [
   },
   {
     "code": "3.3.16.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "(刪除)(107/3/1、107/9/1、108/5/1、111/5/1)。",
     "rule": ""
   },
@@ -1051,19 +1051,19 @@ const drugData = [
   },
   {
     "code": "3.3.31.",
-    "category": "血液治療藥物 Hematological drugs",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "Givosiran(如Givlaari)",
     "rule": "1.限用於確診為衛生福利部國民健康署認定之罕見疾病紫質症(porphyria)中屬急性肝紫質症(acute hepatic porphyria, AHP)[如：急性間歇性紫質症(AIP)、遺傳性紫質症(HCP)、異位型紫質症(VP)、ALAD缺乏紫質症(ADP)]，且符合下列全部條件者： (1)年滿18歲以上。 (2)具HMBS(PBGD)、ALAD、CPOX、PPOX致病基因變異者(需檢附基因診斷報告)。 (3)經過適當醫療處置2年後，仍於申請本藥品前1年內，發生4次(含)以上急性發作，急性發作時需急診或住院治療，且使用靜脈輸注血基質藥品(hemin)治療反應不佳或耐受性不良(intolerance)或無效者。 (4)過去1年內尿液檢查曾經偵測出高量(大於等於正常值之4倍以上)的胺基酮戊酸(aminolevulinic acid, ALA)與膽色素原(porphobilinogen, PBG)(需檢附實驗室檢查報告)。 備註： I.反應不佳定義：使用hemin治療後，每年平均發作次數仍大於4次，且每次發作都需連續使用hemin。 II.耐受性不良定義：使用hemin後，造成與hemin相關之嚴重且具有臨床顯著意義，會限制生活、對健康有立即或長期影響，或必須住院或延長住院處理的不良反應，例如：反覆人工血管感染或菌血症、敗血症、其他感染、鐵質沉積、靜脈炎等。 (5)無任一下列情形： I.曾接受過肝移植患者。 II.病人合併有其他嚴重疾病，無法從本藥品治療得到長期效益。 III.病人無生活自理能力。 2.限由神經內科、血液科、肝膽腸胃科、遺傳科醫師處方。 3.治療中有輕微不良反應(如轉胺酶或血清肌酸酐升高)而暫停使用者，得於狀況排除後使用。 4.需經事前審查核准後使用，每次申請以1年為限，期滿需再次申請並經核准後始得續用： (1)送審時應檢附病歷紀錄及原始治療醫囑單、治療紀錄單且載明hemin使用劑量、發作症狀、次數及嚴重程度及對hemin耐受性不良或無效之證明。 (2)治療目標：相較於治療前，治療後胺基酮戊酸(ALA)、膽色素原(PBG)及年發作率(急性發作次數)下降需達50%。 (3)申請續用者： I.需達治療目標及檢附至少3次療效評估項目資料，方可續用。 II.經第1年治療後未達治療目標者，可續申請1次(共6個月)之藥物，不受治療目標之限制。 5.療效評估項目(每"
   },
   {
     "code": "3.6.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "歲以上(risankizumab限使用於16歲以上未滿18歲)，經診斷為小兒克隆氏症且領有重大傷病證明，並排除第6項之情形及符合下列條件之一；且申請時應附上影像診斷評估報告；(111/2/1、113/9/1)。",
     "rule": "(1)克隆氏症病情發作，經皮質類固醇及免疫抑制劑(azathioprine, 6-mercaptopurine, methotrexate)充分治療超過三個月，仍然無法控制病情(PCDAI>30)或產生過敏或其他嚴重副作用者。 (2)小兒克隆氏症病童腹部或肛門廔管合併生長遲緩者(height velocity Z Score -1 to -2.5)。 (3)小兒克隆氏症病情發作且生長遲緩(height velocity Z Score -1 to -2.5)病童，經營養治療與免疫抑制劑治療失敗者。 4.療效評估與繼續使用： (1)初次申請adalimumab以6週(使用4劑為限)；infliximab以6週(使用3劑為限)；risankizumab以8週(使用靜脈注射3劑為限)，治療第3劑後，達到臨床反應(PCDAI降低>=15)者，方得申請繼續使用。誘導緩解失敗者，得提出申請轉換他類生物製劑，然同一療程不得合併使用。（106/5/1、113/9/1） (2)繼續使用者: adalimumab需每24週(使用12劑)；infliximab需每16週(使用2劑)或每24週(使用3劑)；risankizumab需每16週(使用皮下注射2劑)或每24週(使用皮下注射3劑)評估一次。評估仍維持前一次療程有效或部份有效緩解時之PCDAI分數者，方得提出申請續用。每次申請adalimumab以16週(使用8劑)；infliximab以每16週(使用2劑)或每24週(使用3劑)；risankizumab以每16週(使用2劑)或每24週(使用3劑)為限。（106/5/1、108/10/1、113/9/1） (3)總療程:adalimumab治療54週使用28劑；infliximab治療46週使用8劑 (療效持續至54週)；risankizumab治療44週使用8劑，靜脈注射3劑，皮下注射5劑(療效持續至52週)。必須至少再間隔超過3個月後，因病情復發或以其他治療難以控制達上述3.之(1)(2)(3)之標準才能再次提出申請使用。（106/5/1、108/10/1、113/9/1） (4)連續2次於總療程結束後復發者，且第2次復發於藥效終止後3個月內發生，則可持續使用，惟需每24週提出續用事前審查。連續2年(4次評估)達到PCDAI<10分則應考慮停藥。（113/7/1） 5.使用劑量： (1)adalimumab：體重>=40公斤者，最初第一劑160mg，兩週後第二劑 80mg，第四週給予第三劑40mg，之後每隔兩週給予維持劑量40mg；體重<40公斤者，最初第一劑80mg，兩週後第二劑40mg，第四週給予第三劑20mg，之後每隔兩週給予維持劑量20mg。 (2)Infliximab：第0.2.6週給予靜脈輸注5mg/kg作為緩解之誘導，之後每8週給予5mg/kg。可持續治療至第46週 (總共使用8劑，療效持續至54週)，作為緩解之維持。（106/5/1） (3)Risankizumab：第0、4、8週給予靜脈輸注600mg作為緩解之誘導，之後每8週給予皮下注射360mg，可持續治療至第44週 (總共8劑，使用靜脈注射3劑，皮下注射5劑，療效持續至52週)，作為緩解之維持。（113/9/1） 6.須排除使用之情形 應參照藥物仿單，重要之排除使用狀況包括： (1)罹患活動性感染症(active infection)之病患。 (2)未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。 (3)惡性腫瘤或具有癌症前兆(pre-malignancy)之病患。 (4)具高度感染機會之病患：慢性腿部潰瘍、導尿管置留、身上有引流管、頑固性或復發性之胸腔感染症病患。 (5)多發性硬化症(multiple sclerosis)。 7.須停止治療的情形 (1)療效不彰：療效評估未達繼續使用標準者。 (2)其他事項：包括 i惡性腫瘤 ii該藥物引起之嚴重毒性 (白血球過低、嚴重過敏) iii嚴重感染(暫時停藥即可)。 ◎附表二十六之三：全民健康保險小兒克隆氏症使用adalimumab、infliximab、risankizumab申請表(106/5/1、108/10/1、113/7/1、113/9/1) ◎附表二十六之四：PCDAI（Pediatric Crohn’s disease activity index）"
   },
   {
     "code": "3.19.",
-    "category": "消化系統藥物 Drugs acting on the gastrointestinal system",
+    "category": "代謝及營養劑 Metabolic & nutrient agents",
     "name": "歲以上至未滿41歲才第一次診斷者，須符合下列條件並檢附詳細病歷紀錄及相關資料，經事前審查核准後使用(限用含atomoxetine HCl成分一般錠劑膠囊劑藥品)",
     "rule": "(1)注意力測驗(Continuous Performance Test ,CPT)或Gordon Diagnostic System,GDS。 (2)世界衛生組織公告之Adult ADHD Self report Scale, ASRS (傳統中 文版)、Global Assessment of Functioning Scaling ,GAF。 (3)需由精神科醫師診斷及處方，臨床醫師對個案之診斷及處方有疑慮 時，宜由具有兒童青少年精神科訓練之專科醫師確認診斷。 (4)排除其他疾病因素： Ⅰ.任何使用之藥品/物質、身體及注意力不全過動症以外之各種精神 病等對注意力及衝動控制功能、症狀之影響作用。 Ⅱ.一年內患有物質使用/物質成癮、嚴重憂鬱症。 Ⅲ.思覺失調症 (Schizophrenia）、雙極性疾患(Bipolar disorder）、人格疾患、失智症及器質性因素 (5)換藥條件：若使用原藥物3個月無效(如ASRS得分大於24或較治療前 增加)，得以更換methylphenidate成分藥品之短效劑型。 (6)退場機制： Ⅰ.19歲以上並已接受治療之病患，超過一年未回診，再開立藥物 前，須重新經事前審查核准。 Ⅱ.換藥後半年應予評估，症狀未改善應予停用；症狀持續穩定逾一 年者，得改為每年評估。 4.Atomoxetine HCl之口服錠劑、或膠囊劑原則上每日限使用1粒，惟每日劑量需超過60mg時，應於病歷中記載理由，則每日至多可使用2粒，每日最大劑量為100mg。（97/5/1、113/11/1） 5.Atomoxetine HCl口服液劑，限用於6歲以上至18歲以下無法口服錠劑之病人，每日劑量需超過60mg時，應於病歷中記載理由，每日最大劑量為100mg。（113/11/1） 6.Methydur原則上每日限使用1粒，惟每日劑量需超過33mg時，應於病歷中記載理由，則每日至多可使用2粒，每日最大劑量為44mg。(109/9/1)"
   },
@@ -1075,13 +1075,13 @@ const drugData = [
   },
   {
     "code": "4.1.1.",
-    "category": "抗感染藥物 Antiinfective drugs",
+    "category": "血液治療藥物 Hematological drugs",
     "name": "紅血球生成素(簡稱EPO) hu-erythropoietin (如Eprex、Recormon)、darbepoetin alfa（如Aranesp ）、methoxy polyethylene glycol-epoetin beta（如 Mircera solution for injection in pre-filled syringe）",
     "rule": "1.使用前和治療後每三至六個月應作體內鐵質貯存評估，如Hb在8 gm/dL以下，且ferritin小於100 mg/dL(非透析病人)、或200 mg/dL(透析病人)，有可能是鐵質缺乏。(104/12/1)。 2.使用期間應排除維他命B12或葉酸缺乏，腸胃道出血，全身性感染或發炎疾病等情況，始得繼續。(104/12/1)。 3.限腎臟病並符合下列條件使用：(104/12/1) (1)末期腎臟病接受透析病人，其Hb <9gm/dL，或第五期慢性腎臟病病人 (eGFR < 15 mL/min/1.73 m2)，其Hb < 9gm/dL。 Ⅰ.使用時，應從小劑量開始，Hb目標為10 gm/dL，符合下列情形之病人，應即暫停使用本類藥品： i. Hb超過11gm/dL。 ii.接受治療第6週到第8週內Hb之上升值未達1 gm/dL。 Ⅱ.如Hb值維持在目標值一段時間 (一至二個月)，宜逐次減量，以求得最低維持劑量。 (2)每名病人所用劑量，一個月不超過20,000U (如Eprex、Recormon)或100mcg (如Aranesp 、Mircera solution for injection in pre-filled syringe)為原則，如需超量使用，應附病人臨床資料(如年齡、前月Hb值、前月所用劑量、所定目標值…等等)及使用理由。(93/5/1、98/9/1)。 (3)使用本類藥品之血液透析、腹膜透析(CAPD)及未透析患者因病情需要使用本類藥品時，應依下列頻率定期檢查Hb值，其檢查費用包含於透析費用內，不另給付(未接受透析病人除外)：(105/9/1) Ⅰ.血液透析及腹膜透析患者：每月應檢查乙次。(105/9/1) Ⅱ.未透析患者：至少每3個月應檢查乙次。初次使用者，治療後6至8週應檢查乙次。(105/9/1) (4)使用本類藥品期間如需輸血，請附輸血時Hb值及原因。 4.限癌症病人合併化學治療有關的貧血。不含使用Mircera solution for injection in pre-filled syringe：（95/11/1、96/10/1、98/1/1、98/9/1、104/12/1） (1)限患有固態腫瘤接受化學藥物治療而引起之症狀性貧血，且Hb＜8 gm/dL之病人使用。對於癌症患者預期有合理且足夠的存活時間者（含治癒性治療及預期輔助性化學治療等），不應使用EPO治療貧血。（98/1/1、104/12/1） (2)Epoetin beta（如Recormon）與epoetin alfa（如Eprex）初劑量為150U/Kg 每週3次，最高劑量300U/Kg每週3次，或epoetin beta（如Recormon）初劑量30,000單位，epoetin alfa（如Eprex）初劑量40,000單位，每週1次，最高劑量60,000單位，每週1次；Darbepoetin alfa（如Aranesp）初劑量2.25mcg/kg，每週1次，最高劑量4.5mcg/kg，每週1次。（96/10/1）。 (3)每次療程最長24週，如化學治療療程完全結束後4週也應停止EPO使用。(104/12/1） (4)符合下列情形之病人，應即停止使用本類藥品： Ⅰ.Hb超過10 gm/dL (Hb＞10gm/dL)。 Ⅱ.於接受治療第6週到第8週內Hb之上升值未達1 gm/dL。 Ⅲ.化學治療結束後4週(104/12/1）。"
   },
   {
     "code": "4.1.2.",
-    "category": "抗感染藥物 Antiinfective drugs",
+    "category": "血液治療藥物 Hematological drugs",
     "name": "白血球生長激素(G-CSF)(101/6/1)",
     "rule": ""
   },
@@ -1099,7 +1099,7 @@ const drugData = [
   },
   {
     "code": "4.2.",
-    "category": "抗感染藥物 Antiinfective drugs",
+    "category": "血液治療藥物 Hematological drugs",
     "name": "血液代用製劑及血液成分製劑 blood substituents and blood components",
     "rule": ""
   },
@@ -1147,7 +1147,7 @@ const drugData = [
   },
   {
     "code": "4.3.",
-    "category": "抗感染藥物 Antiinfective drugs",
+    "category": "血液治療藥物 Hematological drugs",
     "name": "其他",
     "rule": ""
   },
@@ -1159,7 +1159,7 @@ const drugData = [
   },
   {
     "code": "4.3.2.",
-    "category": "抗感染藥物 Antiinfective drugs",
+    "category": "血液治療藥物 Hematological drugs",
     "name": "Eltrombopag(如Revolade)、romiplostim(如Romiplate)",
     "rule": ""
   },
@@ -1201,13 +1201,13 @@ const drugData = [
   },
   {
     "code": "4.3.7.",
-    "category": "激素及影響內分泌機轉藥物",
+    "category": "血液治療藥物 Hematological drugs",
     "name": "Lanadelumab(如Takhzyro)",
     "rule": "1.限用於經衛生福利部國民健康署認定12歲以上，體內C1酯酶抑制劑不足之遺傳性血管性水腫(HAE)患者，作為遺傳性血管性水腫反覆發作之預防，患者必須經確診為C1-酯酶抑製劑缺乏症(C1-esterase inhibitor deficiency)，並符合下列任一臨床條件： (1)使用口服預防性藥物，但於過去連續8週每週有2次以上急性發作(定義：需要以急性藥物【如：新鮮冷凍血漿或icatibant或C1-esterase inhibitor】緊急注射治療之發作)。 (2)因禁忌症、耐受性而無法接受口服預防性治療者，在開始使用lanadelumab治療前，患者必須在過去4週內至少具3次以上之急性發作，或曾經有過危及生命之發作(定義：需接受侵入性治療【如：氣管切開造口術、氣管內管插管】之發作)。 2.使用劑量：維持劑量至多300mg/4週。 3.減少使用劑量： (1)減量時機：超過6個月沒有發作紀錄。 (2)減量方式：申請續用之事前審查時，應依據患者個別狀況提出延長給藥間隔之治療計畫。 (3)減量期間若有疾病復發得申請回復減量前之使用量。 4.需經事前審查核准後使用，每次申請以6個月為限。 5.續用條件：在開始使用lanadelumab治療3個月後，即應對患者進行療效評估，且迄後仍應每3個月持續評估，均需達療效指標(定義：使用lanadelumab治療3個月內，無危及生命發作，且需HAE發作接受急性注射治療之次數<開始使用lanadelumab治療前8週內所觀察到之發作次數)。 6.停用條件：HAE發作之次數≧開始使用lanadelumab治療前8週內所觀察到之發作次數。 Hormones & drugs affecting hormonal mechanism"
   },
   {
     "code": "4.112.",
-    "category": "抗感染藥物 Antiinfective drugs",
+    "category": "血液治療藥物 Hematological drugs",
     "name": "年3月31日以前已核定用藥之病人，得經事前審查核准後，使用至總療程上限（第一線治療以總共16輸注為上限，第二線以上治療以總共22次輸注為上限，接受第一線治療以後，不再給付第二線以上治療）或使用期間發生疾病惡化為止。",
     "rule": "5.Daratumumab與isatuximab二者僅能擇一使用，除因藥物耐受不良以外，不可以其他原因申請互換使用。（113/4/1）"
   },
@@ -1225,13 +1225,13 @@ const drugData = [
   },
   {
     "code": "5.1.2.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "Guar gum (如Guarina；Guarem )限糖尿病治療使用。",
     "rule": ""
   },
   {
     "code": "5.1.3.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "GLP-1受體促效劑",
     "rule": ""
   },
@@ -1255,7 +1255,7 @@ const drugData = [
   },
   {
     "code": "5.1.4.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "(刪除)",
     "rule": ""
   },
@@ -1285,7 +1285,7 @@ const drugData = [
   },
   {
     "code": "5.2.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "雄性激素類製劑與同化作用類固醇及其拮抗劑 Androgens and anabolic steroids and antagonists",
     "rule": ""
   },
@@ -1297,7 +1297,7 @@ const drugData = [
   },
   {
     "code": "5.2.2.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "含testosterone 5-alpha reductase inhibitor製劑",
     "rule": ""
   },
@@ -1315,13 +1315,13 @@ const drugData = [
   },
   {
     "code": "5.3.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "動情激素、黃體激素及治療不孕症藥物 Estrogens, progestins & drugs used for infertility",
     "rule": ""
   },
   {
     "code": "5.3.1.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "Estradiol之經皮吸收製劑",
     "rule": ""
   },
@@ -1333,25 +1333,25 @@ const drugData = [
   },
   {
     "code": "5.3.1.2.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "Estradiol 3.8mg/12.5cm2/patch （如Climara 50 Transdermal Patch）之給付規定：（90/4/1）限每週一片。",
     "rule": ""
   },
   {
     "code": "5.3.2.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "FSH (pure FSH)用於誘發排卵時，限hypothalamus failure (下視丘功能衰竭)患者，事前專案報准後使用(85/1/1)。",
     "rule": ""
   },
   {
     "code": "5.3.3.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "HMG用於誘發排卵時，限hypothalamus failure (下視丘功能衰竭)患者，事前專案報准後使用(85/1/1)。",
     "rule": ""
   },
   {
     "code": "5.3.4.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "(刪除)",
     "rule": ""
   },
@@ -1369,7 +1369,7 @@ const drugData = [
   },
   {
     "code": "5.4.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "作用於腦下腺前葉與下視丘的藥物 Drugs related to anterior pituitary & hypothalamic function",
     "rule": ""
   },
@@ -1435,7 +1435,7 @@ const drugData = [
   },
   {
     "code": "5.5.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "其他 Miscellaneous",
     "rule": ""
   },
@@ -1459,7 +1459,7 @@ const drugData = [
   },
   {
     "code": "5.5.3.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "Bisphosphonate",
     "rule": ""
   },
@@ -1471,7 +1471,7 @@ const drugData = [
   },
   {
     "code": "5.5.3.2.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "Zoledronic acid",
     "rule": ""
   },
@@ -1495,7 +1495,7 @@ const drugData = [
   },
   {
     "code": "5.5.3.4.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "Ibandronic acid",
     "rule": ""
   },
@@ -1531,7 +1531,7 @@ const drugData = [
   },
   {
     "code": "5.6.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "骨質疏鬆症治療藥物",
     "rule": ""
   },
@@ -1549,135 +1549,135 @@ const drugData = [
   },
   {
     "code": "5.6.3.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "Romosozumab(如Evenity)",
     "rule": "1.限用於停經後骨質疏鬆婦女。 2.需符合下列條件： (1)引起遠端橈骨、近端肱骨、脊椎或髖部多於2（含）處骨折，經評估（須於病歷載明）無法耐受副作用或在持續配合使用抗骨質吸收劑至少連續12個月的情況下仍發生至少1處新的骨折之病患。 (2)骨質疏鬆之程度，須經DXA檢測BMD之T-score小於或等於-3.0。 3.使用不得超過24支並於一年內使用完畢。 4.使用期間內不得併用其他骨質疏鬆症治療藥物。 5.與teriparatide僅得擇一使用，除因耐受性不良，不得互換。 1.支氣管擴張劑(含乙二型擬交感神經劑β2-agonists、抗膽鹼劑anticholinergics)、吸入型類固醇(inhaled corticosteroid)等，依「成人呼吸道疾患吸入製劑給付規定表」及「兒童呼吸道疾患吸入製劑給付規定表」規定辦理；呼吸道藥物複方製劑比照辦理。 2.Fluticasone furoate/ umeclidinium bromide/vilanterol trifenatate (如Trelegy Ellipta 92/55/22 mcg Inhalation Powder、Trelegy Ellipta 184/55/22 mcg Inhalation Powder) ： (1)慢性阻塞性肺病患者的維持治療(限用Trelegy Ellipta 92/55/22 mcg Inhalation Powder)，且須同時符合以下條件： I.Gold Guideline Group D 病人。 Ⅱ.已接受吸入性皮質類固醇與長效β2 作用劑或長效β2 作用劑與長效抗膽鹼劑合併治療，仍然有顯著症狀或惡化控制不佳者。 (2)用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。 (3)每28天限用1盒(30 劑)。 (4)不得與中/高劑量吸入性皮質類固醇(ICS)/長效型乙二型擬交感神經劑(LABA)之固定劑量組合 (fixed dose combination,FDC) 藥品併用。 3.Beclometasone dipropionate/ formoterol fumarate dihydrate/glycopyrronium bromide(如Trimbow) ： (1)用於慢性阻塞性肺病病人的維持治療(限用Tr"
   },
   {
     "code": "5.109.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "年5月1日前已依生效前之給付規定使用本類藥物之病人，得繼續使用原藥物至醫師更新其處方內容（109/8/1）。",
     "rule": ""
   },
   {
     "code": "5.111.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "年5月1日前已依修訂前之給付規定使用本藥品之病人，得繼續使用本藥品至醫師更新其處方內容。",
     "rule": ""
   },
   {
     "code": "5.112.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "年3月31日以前已核定用藥之病人，得經事前審查核准後，使用至總療程上限（即終生10個療程）或使用期間發生疾病惡化為止。",
     "rule": ""
   },
   {
     "code": "5.112.",
-    "category": "抗腫瘤藥物 Antineoplastic drugs",
+    "category":  "激素及影響內分泌機轉藥物",
     "name": "年3月31日以前已核定用藥之病人，得經事前審查核准後，使用至總療程",
     "rule": "上限（即終生12個療程）或使用期間發生疾病惡化為止。（112/4/1）"
   },
   {
     "code": "6.1.",
-    "category": "免疫調節藥物 Immunomodulating drugs",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "吸入劑 Inhalants",
     "rule": "1.支氣管擴張劑(含乙二型擬交感神經劑β2-agonists、抗膽鹼劑anticholinergics)、吸入型類固醇(inhaled corticosteroid)等，依「成人呼吸道疾患吸入製劑給付規定表」(91/8/1、111/3/1、113/8/1)及「兒童呼吸道疾患吸入製劑給付規定表」(111/3/1、113/8/1)規定辦理；呼吸道藥物複方製劑比照辦理。 2.Fluticasone furoate/ umeclidinium bromide/vilanterol trifenatate (如Trelegy Ellipta 92/55/22 mcg Inhalation Powder、Trelegy Ellipta 184/55/22 mcg Inhalation Powder) (108/7/1、109/11/1、112/2/1、113/8/1)： (1)慢性阻塞性肺病患者的維持治療(限用Trelegy Ellipta 92/55/22 mcg Inhalation Powder)，且須同時符合以下條件：(112/2/1) I.Gold Guideline Group D 病人。（109/11/1） Ⅱ.已接受吸入性皮質類固醇與長效β2 作用劑或長效β2 作用劑與長效抗膽鹼劑合併治療，仍然有顯著症狀或惡化控制不佳者。(109/11/1) (2)用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳的成年病人，做為氣喘維持治療。(112/2/1) (3)每28天限用1盒(30 劑)。(113/8/1) (4)不得與中/高劑量吸入性皮質類固醇(ICS)/長效型乙二型擬交感神經劑(LABA)之固定劑量組合 (fixed dose combination,FDC) 藥品併用。 3.Beclometasone dipropionate/ formoterol fumarate dihydrate/glycopyrronium bromide(如Trimbow) (109/3/1、113/8/1、115/3/1)： (1)用於慢性阻塞性肺病病人的維持治療(限用Trimbow 100/6/12.5 mcg/dose)，且須同時符合以下條件(109/3/1、115/3/1)： I.重度以上(FEV1 少於預測值之50%)及有反覆惡化病史之成人病人。 Ⅱ.已接受吸入型皮質類固醇與長效β2作用劑合併治療，仍然有顯著症狀或惡化控制不佳者。 (2)用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳，且在過去一年至少發生一次急性惡化的成人病人，做為氣喘維持治療。(115/3/1) (3)每28天限用1盒(120劑)。(113/8/1) 4.Indacaterol acetate/glycopyrronium bromide/mometasone furoate (如Enerzair breezhaler)（111/4/1、113/8/1） (1)適用於併用吸入性長效型β2-腎上腺受體作用劑和吸入性皮質類固醇治療氣喘仍控制不佳，且在過去一年至少發生一次急性惡化的成人，做為氣喘維持治療。 (2)每28天限用1盒。(113/8/1) 5.Budesonide/glycopyrronium bromide/formoterol fumarate dihydrate (如 Breztri aerosphere)（112/4/1、113/8/1） (1)限用於慢性阻塞性肺病患者的維持治療，且須符合以下任一條件： I.Gold Guideline Group D病人，已接受吸入性皮質類固醇與長效β2作用劑或長效β2作用劑與長效抗膽鹼劑合併治療，仍然有顯著症狀或惡化控制不佳者。 Ⅱ.Gold Guideline Group B病人，並須符合以下任一條件： i.已接受兩個裝置以上(multiple inhaler triple therapy,MITT)給藥之吸入性皮質類固醇與長效β2作用劑與長效抗膽鹼劑合併治療者。 ii.已接受吸入性皮質類固醇與長效β2作用劑或長效β2作用劑與長效抗膽鹼劑合併治療，仍然有顯著症狀或惡化控制不佳。 (2)每28天限用1盒(120劑)。(113/8/1) (3)不得與其他含吸入性皮質類固醇或長效β2作用劑或長效抗膽鹼劑合併使用。"
   },
   {
     "code": "6.2.",
-    "category": "免疫調節藥物 Immunomodulating drugs",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "其他 Miscellaneous",
     "rule": ""
   },
   {
     "code": "6.2.1.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Surfactant (如Survanta、Curosurf)",
     "rule": "1.用於新生兒(包含早產兒)因表面張力素不足引起的呼吸窘迫症候群 (respiratory distress syndrome, RDS)。 2.符合下列治療條件之一： (1)需使用非侵襲性陽壓呼吸治療且氧氣(FiO2)設定於30%以上者。 (2)使用侵襲性呼吸輔助器者。 3.使用時機： (1)Survanta：出生後48小時內最多使用4劑量，第一劑量建議在出生後8小時內使用。 (2)Curosurf： Ⅰ.起始劑量最多每公斤使用200mg。 Ⅱ.重複劑量以每12小時，可額外再給予最高兩次每公斤100mg的重複劑量(最高總量為每公斤400mg)。 4.Survanta與Curosurf兩藥品不得併用。"
   },
   {
     "code": "6.2.2.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Loratadine syrup（如Clarityne）：(88/6/1、97/ 12/ 1)",
     "rule": "依全民健康保險藥品給付規定之通則八使用本項藥品。"
   },
   {
     "code": "6.2.3.",
-    "category": "免疫調節藥物 Immunomodulating drugs",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Zafirlukast (如Accolate tabs）：(88/8/1，90/1/1、113/8/1)(刪除)",
     "rule": ""
   },
   {
     "code": "6.2.4.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Montelukast sodium (如Singulair Coated Tab、Singulair Chewable Tabs)",
     "rule": "1.限用於6歲以上「輕度至中度持續性支氣管哮喘」疾患。 2.病歷上應詳細記載上個月發作次數、頻率及PEFR值之變化。 3.每日限用1粒。 ※「輕度持續支氣管哮喘 (mild persistent asthma)」之定義： (1)氣喘發作次數每週多於一次，但並非每天發作。 (2)發作時會影響日常生活及睡眠。 (3)夜晚發作次數每月多於二次。 (4)尖峰呼氣流速 (Peak Expiratory Flow Rate；PEFR) 或第一秒呼氣量大於80%預測值；每日變異值為20-30%。"
   },
   {
     "code": "6.2.5.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Montelukast sodium 4mg(如Singulair Chewable Tab. 4mg、Singulair oral granules 4mg)",
     "rule": "須符合下列各項條件： 1.限用於「輕度至中度持續支氣管哮喘病患」。 2.Chewable Tab. 4mg限用於2歲以上未滿6歲、oral granules 4mg限用於6個月以上未滿6歲。 3.病歷上應詳細記載上個月發作次數、頻率。 4.每日限用1粒(包)。"
   },
   {
     "code": "6.2.6.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Omalizumab (如Xolair)",
     "rule": "1.限用於 (1)12歲以上之青少年或成人經胸腔內科或小兒科或過敏免疫專科醫師診斷為「重度持續性氣喘」病患，為非抽煙或正積極戒煙者，需符合下列條件。 I.臨床病史顯示對某過敏原過敏或經由體內試驗 (如skin prick test)或體外IgE試驗(如CAP、MAST、RAST、FAST、ELISA test等)呈陽性反應者。 II.必須檢附「免疫球蛋白IgE檢驗結果」。免疫球蛋白Total IgE檢驗結果必須介於 30~1300IU/mL，但使用抗IgE製劑後IgE值降低者不在此限。 III.已接受高劑量類固醇藥物吸入劑 (青少年大於400 mcg belcomethasone dipropionate/day以上或他類固醇藥物吸入劑相等劑量；成人大於800mcg beclomethasone dipropionate/day以上或其他類固醇藥物吸入劑相等劑量) 及併用其他治療，如：長效乙二型作用劑 (β2-agonist)、口服類固醇治療、口服theophylline或抗白三烯素類藥品仍控制不良者，且過去四週氣喘控制仍不穩定者(包括:日間症狀每週超過2次、日常活動受到限制、有夜間氣喘症狀發作或到醒來、需要緩解型藥物每週超過2次或以上，符合上述條件2者或以上者) 。 IV.病歷記載有氣喘病史或需經證實為氣喘病患，支氣管擴張試驗顯示FEV1 reversibility超過12%與絕對值增加200mL以上，或使用類固醇後FEV1增加20%以上。 (2)6歲以上未滿13歲兒童經胸腔內科或小兒科或過敏免疫專科醫師診斷為「重度持續性氣喘」病患，需符合下列條件。 I.臨床病史顯示對某過敏原過敏或經由體內試驗(如skin prick test)或體外IgE試驗(如CAP、MAST、RAST、FAST、ELISA test等)呈陽性反應者。 II.必須檢附「免疫球蛋白IgE檢驗結果」。免疫球蛋白Total IgE檢驗結果必須介於 30~1300IU/mL，但使用抗IgE製劑後IgE值降低者不在此限。 III.已接受高劑量類固醇藥物吸入劑 (大於400mcg Beclomethasone dipropionate/day以上或其他類固醇藥物吸入劑相等劑量) 及併用其他治療，如：長效乙二型作用劑 (β2-agonist)、口服類固醇治療、口服theophylline或抗白三烯素類藥品"
   },
   {
     "code": "6.2.7.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Nintedanib(如Ofev)、pirfenidone（如Pirespa）",
     "rule": "1.特發性肺纖維化： (1)需檢附肺部HRCT (High resolution computed tomography)影像檢查。 (2)經專科醫師確診為特發性肺纖維化(Idiopathic pulmonary fibrosis,IPF)後，首次申請時病人的用力肺活量預測值(forced vital capacity,FVC predicted)在50~80%之間。 (3)用於經專科醫師確診為特發性肺纖維化，且FVC預測值>80%之病患，需具明顯症狀(病歷須清楚記載如呼吸困難、喘或咳嗽等臨床症狀)。(108/12/1、109/9/1、112/7/1） (4)停止治療條件：肺功能出現惡化（即確認病人的用力肺活量預測值與最近一次申請時的FVC預測值(%)相比降低10%絕對值或以上時），則進入12週的緩衝期(grace period)，這段期間可先給予續用或得申請使用不同機轉的藥物治療12週，緩衝期後再測之FVC預測值(%)與緩衝期前相比仍降低時，則認定為未改善，應該停止用藥。(106/7/1、108/12/1、109/9/1、112/7/1） (5)需經事前審查核准後使用，每24週需檢送評估資料再次申請。 (6)Nintedanib與pirfenidone不得同時併用。(106/7/1） 2.Nintedanib用於全身性硬化症有關之間質性肺病：需符合下列所有條件 (1)需經免疫風濕專科醫師確診為全身性硬化症。 (2)需檢附肺部HRCT影像及檢查報告，經胸腔內科及放射科醫師證實具有肺部纖維化且肺纖維化侵犯至少10% 肺野(lung field)，並符合間質性肺病之診斷。 (3)經胸腔內科及免疫風濕專科醫師確診為全身性硬化症有關之間質性肺病(SSc-ILD)，且病人的用力肺活量(forced vital capacity，FVC)≧40%且DLCO (Diffusing capacity of the lung for carbon monoxide)為預估值之30-89%，病歷須清楚記載病人之相關臨床症狀(如呼吸困難、喘或咳嗽等)。 (4)使用cyclophosphamide (CYC)或azathioprine (AZA)或mycophenolate mofetil (MMF)6個月最高可耐受劑量後治療失敗的SSc-ILD病人。 (5)需經事前審查核准後使用，每26"
   },
   {
     "code": "6.2.8.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Mepolizumab (如Nucala) 、Benralizumab (如Fasenra)",
     "rule": "1.限用於經胸腔專科(含兒童)或過敏免疫專科(含兒童)醫師診斷為嗜伊紅性(嗜酸性)白血球的嚴重氣喘且控制不良(severe refractory eosinophilic asthma)之病人，且需符合下列條件：(109/11/1、115/4/1） (1) Mepolizumab 限用於6歲以上病人；benralizumab限用於18歲以上成人病人。(109/11/1、115/4/1） (2) 投藥前12個月內的血中嗜伊紅性(嗜酸性)白血球≧300cells/mcL。 (3) 病人已遵循最適切的標準療法，並依下列規定持續使用口服類固醇prednisolone每天至少5mg或等價當量(equivalence)。(109/11/1、115/4/1） I.18歲以上病人過去3個月持續使用口服類固醇。 II.6歲以上至未滿18歲病人過去1個月持續使用口服類固醇。 (4) 過去12個月內有2次或2次以上因氣喘急性惡化而需要使用全身性類固醇，且其中至少一次是因為氣喘惡化而需急診或住院治療。 2.需經事前審查核准後使用。 3.使用頻率： (1)Mepolizumab每4週使用不得超過1次。 (2)Benralizumab第一個8週使用不得超過3次(第0、4、8週)，以後每8週使用不得超過1次。 4.使用32週後進行評估，與未使用前比較，若「惡化」情形減少，方可繼續使用。 備註： 1.「惡化」的定義為必須使用口服/全身性類固醇治療、或住院治療、或送急診治療的氣喘惡化現象。 2.「最適切的標準療法」係指符合GINA治療指引Step 5之規範。(109/11/1）"
   },
   {
     "code": "6.2.9.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Dupilumab (如Dupixent)",
     "rule": "1.限用於嗜伊紅性(嗜酸性)白血球表現型的嚴重氣喘且控制不良(severe refractory eosinophilic asthma)之12歲以上病人，且需符合下列各項條件： (1)須經胸腔專科或過敏免疫或兒科專科醫師診斷。 (2)投藥前12個月內的血中嗜伊紅性(嗜酸性)白血球≧300 cells/mcL。 (3)病人已使用最適切的標準療法。 (4)18歲以上病人過去6個月、12歲以上至未滿18歲過去1至3個月，持續使用口服類固醇prednisolone每天至少5mg或等價當量(equivalence)。 (5)過去12個月內有2次或2次以上因氣喘急性惡化而需要使用全身性類固醇，且其中至少一次是因為氣喘惡化而需急診或住院治療。 2.需經事前審查核准後使用。 3.使用頻率： (1)口服皮質類固醇依賴型的氣喘，或合併有中度至重度異位性皮膚炎，或合併有慢性鼻竇炎合併鼻息肉：起始劑量為600 mg(300 mg注射兩劑)，接著以300 mg每2週注射一次。 (2)其他病人為起始劑量為400 mg(200 mg注射兩劑)，接著以200 mg每2週注射一次。 4.使用32週後進行評估，與未使用前比較，若「惡化」情形減少，方可繼續使用。 5.不得併用其他治療氣喘之生物製劑。 備註： - 「惡化」的定義為必須使用口服/全身性類固醇治療、或住院治療、或送急診治療的氣喘惡化現象。 - 「最適切的標準療法」係指符合GINA治療指引Step 5之規範。"
   },
   {
     "code": "6.2.10.",
-    "category": "吸入劑 Inhalants(91/8/1、108/7/1、109/3/1、109/11/1、111/3/1、111/4/1、112/2/1、113/8/1、115/3/1)",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Tezepelumab (如Tezspire)",
     "rule": "1.限用於經胸腔專科或過敏免疫專科醫師診斷為嚴重氣喘且控制不良(severe asthma)之18歲以上成人病人，且須符合下列條件： (1)病人已遵循最適切的標準療法。 (2)過去12個月內有2次或2次以上因氣喘急性惡化而需要使用全身性類固醇，且其中至少一次是因為氣喘惡化而需急診或住院治療。 2.需經事前審查核准後使用。 3.使用頻率：Tezepelumab每4週使用不得超過1次。 4.使用32週後進行評估，與未使用前比較，若惡化情形減少，方可繼續使用。 備註： - 「惡化」的定義為必須使用口服/全身性類固醇治療、或住院治療、或送急診治療的氣喘惡化現象。 - 「最適切的標準療法」係指符合GINA治療指引Step 5之規範。"
   },
   {
     "code": "6.2.11.",
-    "category": "腸胃藥物 Gastrointestinal drugs",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "Caffeine citrate (如Peyona)",
     "rule": "- 用於治療原發性早產兒呼吸暫停。 - 治療條件：受孕後週數(postmenstral age, PMA)未滿35週(35+0)早產兒，經臨床診斷具顯著呼吸暫停或心搏過緩情形。 - 停用時機(符合下列任一情形)： (1)受孕後週數(postmenstral age, PMA)33+0週以前，停用正壓呼吸器後，持續觀察5至7天，無臨床顯著呼吸暫停或心搏過緩發生，則停止用藥。 (2)受孕後週數(postmenstral age, PMA)33+0至35+0週，無臨床顯著呼吸暫停或心搏過緩發生，則停止用藥。 成人呼吸道疾患吸入製劑給付規定表 | | **定量吸入劑(MDI)** | **乾粉吸入劑(DPI)** | **霧化吸入劑 (nebulizer) ** | | --- | --- | --- | --- | | 支氣管擴張劑(bronchodilators) | 一、短效劑型 有症狀時使用，使用頻率每日一般不要超過4到6次。 每28天處方不得超過1支短效擴張劑。 不建議長期規則使用。 二、長效劑型 長效劑型每日1至2次(QD~BID)。 限與類固醇藥物吸入劑合併使用於治療氣喘。 可用於治療肺阻塞。 合併低劑量吸入型類固醇與formoterol之吸入劑於GINA輕度氣喘可用於有症狀或急性發作時之緩解治療，於中度與重度氣喘則可用於每日維持以及緩解治療。此類吸入劑於輕度與中度氣喘每28天至多使用1支；於重度氣喘每28天至多可使用2支，但開立時病歷上應詳細記載氣喘發作與控制狀況，並註明上次取藥日期。 | 使用劑量及調整方式同固定劑量吸入劑(MDI)。 | 一、阻塞性肺疾病急性發作時，每20分鐘至1小時使用1次。 二、急性症狀消失後恢復為每日4到6次。 三、乙二型刺激劑(β2-agonists) (一)視情況繼續居家使用，每次處方以1週為限。 (二)每28天最大劑量為56小瓶(vial)。 四、抗膽鹼藥物(anticholinergics) 視情況(＊)繼續居家使用，每28天最大劑量為112小瓶(vial)。 | | 吸入型類固醇 (inhaled corticosteroid) | 氣喘治療之維持劑量依嚴重度及控制程度，以及所使用之類固醇藥物吸入劑之不同，依最新版GINA指引之建議給予適當劑量。 少數控制不佳之患者，以BDP (CFC)為例，其劑量可增加至每日1000 m"
   },
   {
     "code": "6.24.",
-    "category": "免疫調節藥物 Immunomodulating drugs",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "小時內限用",
     "rule": "(1)Icatibant（如Firazyr）：3支。 (2)C1 esterase inhibitor 1次。(111/6/1)"
   },
   {
     "code": "6.110.",
-    "category": "免疫調節藥物 Immunomodulating drugs",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "年9月30日以前已核定用藥之病人，得經事前審查核准後，使用至總療程(即終生24個月)或總療程期間疾病惡化為止，且後續不得再申請使用本類藥品。",
     "rule": "7.若先前使用 everolimus 無效後，不得再申請本類藥品。(109/4/1)"
   },
   {
     "code": "6.112.",
-    "category": "免疫調節藥物 Immunomodulating drugs",
+    "category": "呼吸道藥物 Respiratory tract drugs",
     "name": "年3月31日以前已核定用藥之病人，得經事前審查核准後，使用至總療程上限（即終生10個療程，Pomado則每人6個療程）或使用期間發生疾病惡化為止。",
     "rule": "7.每日最多處方1粒(113/9/1)"
   },
   {
     "code": "7.1.",
-    "category": "泌尿生殖系統及性激素 Genito urinary system and sex hormones",
+    "category": "腸胃藥物 Gastrointestinal drugs",
     "name": ".消化性潰瘍用藥",
-    "rule": "      1.藥品種類：      (1)制酸懸浮劑： 各廠牌瓶裝、袋裝制酸懸浮劑及袋裝顆粒制酸劑。      (2)乙型組織胺受體阻斷劑： 各廠牌乙型組織胺受體阻斷劑之口服製劑與針劑。      (3)氫離子幫浦阻斷劑： 各廠牌氫離子幫浦阻斷劑。      (4)細胞保護劑：如gefarnate、cetraxate、carbenoxolone等。      (5)其他消化性潰瘍用藥： dibismuth trioxide, sucralfate, pirenzepine HCl, Gaspin, Caved-S, misoprostol, proglumide及其他未列入之同類藥品，價格與其相當者比照辦理。       2.使用規定：(106/12/1、110/12/1) (1)使用於治療活動性（active）或癒合中（healing）之消化性潰瘍及逆流性食道炎。(92/10/1) (2)瘢痕期（scar stage）之消化性潰瘍復發預防，其劑量依照醫理減量使用。 (3)消化性潰瘍及逆流性食道炎符合洛杉磯食道炎分級表（The Los Angeles Classification of Esophagitis※備註）Grade A或Grade B者，欲使用消化性潰瘍用藥，其使用期間以四個月為限，申報費用時需檢附四個月內有效之上消化道內視鏡檢查或上消化道Ｘ光攝影報告，其針劑限使用於消化道出血不能口服之病人急性期替代療法。(92/10/1) (4)經上消化道內視鏡檢查，診斷為重度逆流性食道炎，且符合洛杉磯食道炎分級表（The Los Angeles Classification of Esophagitis※備註）Grade C或Grade D者，得經消化系專科醫師之確認後可長期使用消化性潰瘍用藥一年。另外，下列病患得比照辦理：(92/10/1) Ⅰ.胃切除手術縫接處產生之潰瘍。 Ⅱ.經消化系專科醫師重覆多次（三次以上）上消化道內視鏡檢查確認屬難治癒性之潰瘍。經診斷確定為Zollinger-Ellision症候群之病患，得長期使用氫離子幫浦阻斷劑而不受一年之限制。 (5)因腦中風，冠狀動脈疾病或周邊血管疾病，或易出血體質(備註)而需使用雙重抗血小板藥物及抗凝血藥物，如aspirin、warfarin、tirofiban、cilostazol、 P2Y12 inhibitor（如clopidogrel、ticagrelor、ticlopidine、prasugrel）或新一代口服抗凝血藥物（如rivaroxaban、apixaban、edoxaban、dabigatran）病人得以使用每日藥費6.5元以下之氫離子幫浦阻斷劑(PPI)，最長以16週為限；若為曾接受過內視鏡檢查，經彩色內視鏡圖譜證實有活動性消化性潰瘍或上消化道出血，最長以一年為限，如使用期間或停藥後，活動性消化性潰瘍再發或上消化道出血，得再治療一年。(110/12/1) 備註：易出血性體質建議如下(110/12/1)： I. 第五期慢性腎臟病(eGFR<15mL/min/1.73M2)或透析治治療中 II. 血小板＜80,000 /mm3。 III. 肝臟疾病且INR>1.7。 IV. 其他凝血功能不全疾病。 (6)需使用NSAIDs而曾經上消化道內視鏡或Ｘ光攝影證實有過潰瘍，得於使用NSAIDs期間內，使用消化性潰瘍用藥。(92/10/1、110/12/1) (7)對於症狀擬似逆流性食道炎之患者，但其上消化道內視鏡檢查無異常，若欲使用消化性潰瘍用藥，則需檢附其他相關檢查（如24小時pH監測）的結果。(92/10/1) (8)消化性潰瘍穿孔病人經手術證實者，且所施手術僅為單純縫合，未作胃酸抑制相關手術者，可檢附手術記錄或病理檢驗報告，申請使用消化性潰瘍用藥，但以四個月內為限，如需繼續使用，仍請檢附胃鏡檢查或上腸胃道Ｘ光檢查四個月內有效報告影本。(92/10/1) (9)嚴重外傷、大手術、腦手術、嚴重燙傷、休克、嚴重胰臟炎及急性腦中風者為預防壓力性潰瘍，得使用消化性潰瘍藥品。此類藥物之針劑限使用於不能口服之前述病患短期替代療法。 (10)經由碳13尿素呼氣檢查、或幽門螺旋桿菌糞便抗原檢查、或上消化道內視鏡切片檢查，確診為幽門螺旋桿菌感染之病人，得進行初次幽門螺旋桿菌消除治療，使用時需檢附檢測報告並註明初次治療。(92/10/1、113/8/1) (11)幽門螺旋桿菌之消除治療療程以二週為原則，特殊病例需延長治療或再次治療，需檢附相關檢驗報告說明理由。 (12)下列病患若因長期服用NSAIDs而需使用前列腺素劑(如misoprostol)，得免附胃鏡報告：(99/7/1) Ⅰ紅斑性狼瘡。 Ⅱ五十歲以上罹患類風濕性關節炎或僵直性脊椎炎之病患。 (13)經消化系專科醫師上消化道內視鏡檢查，並經病理切片確診為Barrett’s esophagus之病患，可使用消化性潰瘍用藥一年，一年內至少須經上消化道內視鏡檢查追蹤一次。(101/1/1) (14)腦性麻痺、先天性心臟病、消化道畸形及其他有施行胃鏡檢查困難之兒科病患有消化道出血、消化性潰瘍、逆流性食道炎者，可使用消化性潰瘍用藥六個月。上述病人若經上消化道X光攝影或經食道酸鹼度測定為重度逆流者，得經兒科消化醫學次專科醫師確認後長期使用消化性潰瘍用藥一年。(106/12/1) 備註： 1.The Los Angeles Classification of Esophagitis Grade A: One or more mucosal break,each ≦5mm long,confined to the mucosal folds。 Grade B: One or more mucosal break > 5mm long, confined to the mucosal folds but not continuous between the tops of two mucosal folds。 Grade C: One or more mucosal break continuous between the tops of two or more mucosal folds but which involve less than 75% of the esophageal circumference。 Grade D: Mucosal breaks which involve less than 75% of the esophageal circumference。 2. 醫療院所使用單價新台幣四元(含)以下之消化性潰瘍用藥時，得由醫師視病情決定是否需要上消化道內視鏡檢查。(92/10/1)"
+    "rule": "1.藥品種類： (1)制酸懸浮劑： 各廠牌瓶裝、袋裝制酸懸浮劑及袋裝顆粒制酸劑。 (2)乙型組織胺受體阻斷劑： 各廠牌乙型組織胺受體阻斷劑之口服製劑與針劑。 (3)氫離子幫浦阻斷劑： 各廠牌氫離子幫浦阻斷劑。 (4)細胞保護劑：如gefarnate、cetraxate、carbenoxolone等。 (5)其他消化性潰瘍用藥： dibismuth trioxide, sucralfate, pirenzepine HCl, Gaspin, Caved-S, misoprostol, proglumide及其他未列入之同類藥品，價格與其相當者比照辦理。 2.使用規定：(106/12/1、110/12/1) (1)使用於治療活動性（active）或癒合中（healing）之消化性潰瘍及逆流性食道炎。(92/10/1) (2)瘢痕期（scar stage）之消化性潰瘍復發預防，其劑量依照醫理減量使用。 (3)消化性潰瘍及逆流性食道炎符合洛杉磯食道炎分級表（The Los Angeles Classification of Esophagitis※備註）Grade A或Grade B者，欲使用消化性潰瘍用藥，其使用期間以四個月為限，申報費用時需檢附四個月內有效之上消化道內視鏡檢查或上消化道Ｘ光攝影報告，其針劑限使用於消化道出血不能口服之病人急性期替代療法。(92/10/1) (4)經上消化道內視鏡檢查，診斷為重度逆流性食道炎，且符合洛杉磯食道炎分級表（The Los Angeles Classification of Esophagitis※備註）Grade C或Grade D者，得經消化系專科醫師之確認後可長期使用消化性潰瘍用藥一年。另外，下列病患得比照辦理：(92/10/1) Ⅰ.胃切除手術縫接處產生之潰瘍。 Ⅱ.經消化系專科醫師重覆多次（三次以上）上消化道內視鏡檢查確認屬難治癒性之潰瘍。經診斷確定為Zollinger-Ellision症候群之病患，得長期使用氫離子幫浦阻斷劑而不受一年之限制。 (5)因腦中風，冠狀動脈疾病或周邊血管疾病，或易出血體質(備註)而需使用雙重抗血小板藥物及抗凝血藥物，如aspirin、warfarin、tirofiban、cilostazol、 P2Y12 inhibitor（如clopidogrel、ticagrelor、ticlopidine、prasugrel）或新一代口服抗凝血藥物（如rivaroxaban、apixaban、edoxaban、dabigatran）病人得以使用每日藥費6.5元以下之氫離子幫浦阻斷劑(PPI)，最長以16週為限；若為曾接受過內視鏡檢查，經彩色內視鏡圖譜證實有活動性消化性潰瘍或上消化道出血，最長以一年為限，如使用期間或停藥後，活動性消化性潰瘍再發或上消化道出血，得再治療一年。(110/12/1) 備註：易出血性體質建議如下(110/12/1)： I. 第五期慢性腎臟病(eGFR<15mL/min/1.73M2)或透析治治療中 II. 血小板＜80,000 /mm3。 III. 肝臟疾病且INR>1.7。 IV. 其他凝血功能不全疾病。 (6)需使用NSAIDs而曾經上消化道內視鏡或Ｘ光攝影證實有過潰瘍，得於使用NSAIDs期間內，使用消化性潰瘍用藥。(92/10/1、110/12/1) (7)對於症狀擬似逆流性食道炎之患者，但其上消化道內視鏡檢查無異常，若欲使用消化性潰瘍用藥，則需檢附其他相關檢查（如24小時pH監測）的結果。(92/10/1) (8)消化性潰瘍穿孔病人經手術證實者，且所施手術僅為單純縫合，未作胃酸抑制相關手術者，可檢附手術記錄或病理檢驗報告，申請使用消化性潰瘍用藥，但以四個月內為限，如需繼續使用，仍請檢附胃鏡檢查或上腸胃道Ｘ光檢查四個月內有效報告影本。(92/10/1) (9)嚴重外傷、大手術、腦手術、嚴重燙傷、休克、嚴重胰臟炎及急性腦中風者為預防壓力性潰瘍，得使用消化性潰瘍藥品。此類藥物之針劑限使用於不能口服之前述病患短期替代療法。 (10)經由碳13尿素呼氣檢查、或幽門螺旋桿菌糞便抗原檢查、或上消化道內視鏡切片檢查，確診為幽門螺旋桿菌感染之病人，得進行初次幽門螺旋桿菌消除治療，使用時需檢附檢測報告並註明初次治療。(92/10/1、113/8/1) (11)幽門螺旋桿菌之消除治療療程以二週為原則，特殊病例需延長治療或再次治療，需檢附相關檢驗報告說明理由。 (12)下列病患若因長期服用NSAIDs而需使用前列腺素劑(如misoprostol)，得免附胃鏡報告：(99/7/1) Ⅰ紅斑性狼瘡。 Ⅱ五十歲以上罹患類風濕性關節炎或僵直性脊椎炎之病患。 (13)經消化系專科醫師上消化道內視鏡檢查，並經病理切片確診為Barrett’s esophagus之病患，可使用消化性潰瘍用藥一年，一年內至少須經上消化道內視鏡檢查追蹤一次。(101/1/1) (14)腦性麻痺、先天性心臟病、消化道畸形及其他有施行胃鏡檢查困難之兒科病患有消化道出血、消化性潰瘍、逆流性食道炎者，可使用消化性潰瘍用藥六個月。上述病人若經上消化道X光攝影或經食道酸鹼度測定為重度逆流者，得經兒科消化醫學次專科醫師確認後長期使用消化性潰瘍用藥一年。(106/12/1) 備註： 1.The Los Angeles Classification of Esophagitis Grade A: One or more mucosal break,each ≦5mm long,confined to the mucosal folds。 Grade B: One or more mucosal break > 5mm long, confined to the mucosal folds but not continuous between the tops of two mucosal folds。 Grade C: One or more mucosal break continuous between the tops of two or more mucosal folds but which involve less than 75% of the esophageal circumference。 Grade D: Mucosal breaks which involve less than 75% of the esophageal circumference。 2. 醫療院所使用單價新台幣四元(含)以下之消化性潰瘍用藥時，得由醫師視病情決定是否需要上消化道內視鏡檢查。(92/10/1)"
   },
   {
     "code": "7.2.",
@@ -1705,7 +1705,7 @@ const drugData = [
   },
   {
     "code": "7.3.",
-    "category": "泌尿生殖系統及性激素 Genito urinary system and sex hormones",
+    "category": "腸胃藥物 Gastrointestinal drugs",
     "name": "其他 Miscellaneous",
     "rule": ""
   },
@@ -1723,7 +1723,7 @@ const drugData = [
   },
   {
     "code": "7.3.3.",
-    "category": "泌尿生殖系統及性激素 Genito urinary system and sex hormones",
+    "category": "腸胃藥物 Gastrointestinal drugs",
     "name": "Racecadotril (如Hidrasec)",
     "rule": "每療程使用不得超過5 天。"
   },
@@ -1753,19 +1753,19 @@ const drugData = [
   },
   {
     "code": "7.3.8.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "腸胃藥物 Gastrointestinal drugs",
     "name": "Teduglutide (如Revestive)",
     "rule": "1.限用於1歲以上18歲以下患有短腸症，且依賴靜脈營養的兒童病人，應完全符合下列條件： (1)處於腸道手術適應期後之穩定狀態(6個月內無腸胃道手術)。 (2)須排除以下任一情形： - 腸阻塞或腸道狹窄。 - 最近5年內有胃腸道惡性腫瘤病史或活動性惡性腫瘤。 2.需經事前審查核准後使用。 3.初次使用條件需符合以下各項條件： (1)依賴靜脈營養輸注達持續12個月以上。 (2)在過去4週中，超過30%的熱量或液體/電解質需求依賴靜脈輸注。 4.續用申請條件： (1)應定期追蹤評估治療效果，每次門診時應記錄靜脈營養及輸液使用量。 (2)初次治療6個月後評估治療反應，相較於初次治療前之基期，應降低依賴靜脈營養輸液量之總量達20%以上者，方可再申請6個月。 5.停用條件： (1)經藥物治療後，每6個月評估一次靜脈營養輸注時，相較於初次治療前之基期，減少依賴靜脈營養輸液量之總量未達20%以上者，應予以停用。 (2)經藥物治療6個月以上，於治療期滿評估時，已完全脫離靜脈支持療法，達到腸道自主，連續達1個月以上者，應予以停用。 6.每位病人限給付2年。"
   },
   {
     "code": "8.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "疫苗及免疫球蛋白 Vaccines and Immunoglobulins",
     "rule": ""
   },
   {
     "code": "8.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "~7項規定內之疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。",
     "rule": ""
   },
@@ -1777,7 +1777,7 @@ const drugData = [
   },
   {
     "code": "8.1.2.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "(刪除)",
     "rule": ""
   },
@@ -1801,13 +1801,13 @@ const drugData = [
   },
   {
     "code": "8.1.6.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "破傷風類毒素Tetanus toxoid",
     "rule": "每人每次處方限申報0.5mL。"
   },
   {
     "code": "8.2.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "免疫調節劑 Immunomodulators",
     "rule": ""
   },
@@ -1819,7 +1819,7 @@ const drugData = [
   },
   {
     "code": "8.2.2.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Tacrolimus",
     "rule": ""
   },
@@ -1843,7 +1843,7 @@ const drugData = [
   },
   {
     "code": "8.2.3.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Interferon beta-la (如Rebif) 、teriflunomide 14mg (如Aubagio)、 dimethyl fumarate (如Tecfidera)、peginterferon beta-1a (如Plegridy)、ozanimod (如Zeposia)、cladribine(如Mavenclad)",
     "rule": "1.限用於復發型多發性硬化症。 2.初次使用teriflunomide、dimethyl fumarate、peginterferon beta-1a、ozanimod及cladribine時需經事前審查核准後使用(109/11/1、112/3/1、115/3/1)。 3.不適用於視神經脊髓炎（neuromyelitis optica, NMO），包括：(100/10/1) (1)有視神經及脊髓發作。 (2)出現下列2種以上症狀： i.脊髓侵犯大於 3 節。 ii. NMO-IgG or Aquaporin-4 抗體陽性。 iii. 腦部磁振造影不符合多發性硬化症診斷標準。 4.Ozanimod每日限用1粒，若治療無效，第二線治療藥物不得使用fingolimod。(112/3/1) 5.Cladribine不適用EDSS(Expanded Disabi1ity Status Scale)大於5.5之病人。首次申請限給付兩年，且須符合下列任一條件：(115/3/1) (1)未使用DMT (disease-modifying therapies)藥物，但前一年有兩次發作，且MRI檢查至少有T1-gadolinium enhancing病灶或T2病灶惡化。 (2)使用其他DMT藥物後，一年仍有一次復發且經MRI檢查確認疾病活躍。 (3)滿四年後若有復發或核磁共振上出現疾病活性可再次申請。 6.Interferon beta-la、teriflunomide 14mg、dimethyl fumarate、peginterferon beta-1a、ozanimod及cladribine不得合併使用。(112/3/1、115/3/1)"
   },
@@ -1885,49 +1885,49 @@ const drugData = [
   },
   {
     "code": "8.2.4.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Etanercept(如Enbrel); adalimumab（如Humira）;golimumab（如Simponi）；abatacept（如Orencia）；tocilizumab（如Actemra）；tofacitinib（如Xeljanz）；infliximab ；certolizumab (如Cimzia)；ixekizumab(如Taltz)；brodalumab(如Lumicef)；filgotinib(如Jyseleca)；secukinumab（如Cosentyx）",
     "rule": "使用本類藥品之醫事機構應注意監測病患用藥後之不良反應及可能發生的重大安全事件(如肺結核及病毒性肝炎)。（103/9/1）"
   },
   {
     "code": "8.2.4.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Etanercept(如Enbrel)；adalimumab(如Humira)；tocilizumab（如Actemra）；tofacitinib（如Xeljanz）；secukinumab（如Cosentyx）(94/3/1、101/12/1、102/1/1、102/10/1、105/10/1、108/1/1、111/2/1、113/10/1、114/7/1、114/10/1)：兒童治療部分",
     "rule": "1.Etanercept限使用於4歲以上具有活動性多關節幼年型慢性關節炎患者。adalimumab、tocilizumab及tofacitinib限使用於2歲以上具有活動性多關節幼年型慢性關節炎患者（101/12/1、102/10/1、105/10/1、108/1/1、111/2/1、113/10/1）。secukinumab限使用6歲以上具有接骨點發炎相關型關節炎患者（114/7/1）。 2.限具有風濕病專科醫師證書之內科專科醫師或具有小兒過敏免疫專科醫師證書之小兒科專科醫師處方。（114/10/1） 3.年齡大於18歲的病患應由具有風濕病專科醫師證書之內科專科醫師或具有小兒過敏免疫專科醫師證書之小兒科專科醫師重新評估病情，改依成人治療（8.2.4.2）規定申請。（108/1/1） 4.需事前審查核准後使用。 (1)申報時需檢附methrotexate或corticosteroids或sulfasalazine（限接骨點發炎相關型關節炎患者，以下簡稱ERA）藥物使用的劑量、治療時間、副作用、及關節腫脹治療前後的相關照片或關節X光檢查報告等資料。 (2)使用etanercept、adalimumab或tocilizumab或secukinumab（限ERA）之後，每六個月需再申請一次；需描述使用藥物後的療效、副作用或併發症。（101/12/1、102/10/1、113/10/1、114/7/1） 5.病患需符合（1）且（2），（3）或（4）共符合三項條件者方可使用 (1)病人的關節炎必須符合下列任何一種亞型的病變： Ⅰ全身性 ( systemic) Ⅱ多發性關節炎 (polyarticular)(類風濕性因子陽性或陰性者皆可) Ⅲ擴散型嚴重少數關節炎 (extended oligoarticular) Ⅳ接骨點發炎相關型關節炎（enthesitis-related arthritis, ERA）（114/7/1） (2)標準療法失敗者 (符合下列任一項) Ⅰ病患必須曾經接受methotrexate的充分治療。 充分治療的定義： 10毫克/身體表面積平方米/週的口服或注射methotrexate治療，藥物治療時間必須達3個月以上。(若因藥物毒性無法忍受，以致於無法達到上項要求時，劑量可以酌情降低。) Ⅱ若單獨使用類固醇來治療全身性類風濕性關節炎症狀，prednisolone的劑量必須高於每天每公斤0.25毫克以上並且發生無法接受的副作用。 Ⅲ必須曾經接受sulfasalazine的充分治療。（114/7/1） 充分治療定義：sulfasalazine 需以 30 毫克/公斤/天之標準治療 3個月或以上。（ERA若因藥物毒性無法忍受，以致於無法達到上項要求時，劑量可以酌情降低。） (3)最近3個月關節炎的活動性必須符合活動性多關節炎標準者。活動性多關節炎標準定義:關節病情必須同時符合下列兩個要項： Ⅰ腫脹的關節總數大於等於5個。 Ⅱ關節活動受到限制而且具有疼痛或壓痛的關節總數≧3個。 (必須附上關節腫脹之相關照片或關節X光檢查報告作為輔証)。 (4)最近3個月關節炎的活動性必須符合接骨點發炎相關型關節炎標準者。接骨點發炎相關型關節炎標準定義關節病情必須符合： 具活動性關節炎≥3個（疼痛且關節活動受到限制，或腫脹），且≥1個接骨點炎或中軸症狀。（114/7/1） 6.需排除使用的情形(102/10/1、113/10/1) 應參照藥物仿單，重要之排除使用狀況包括： (1)懷孕或正在授乳的婦女。 (2)罹患活動性的感染症的病患。 (3)未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。(102/1/1) (4)身上帶有人工關節者，罹患或先前曾罹患過嚴重的敗血症(sepsis)者。 (5)惡性腫瘤或具有癌症前兆 (pre-malignancy) 的病患。 (6)免疫功能不全者 (Immunodeficiency)。 7.需停止治療的情形(102/10/1、113/10/1) 如果發生下列現象應停止治療： (1)不良事件，包括： Ⅰ惡性腫瘤。 Ⅱ該藥物引起的嚴重毒性。 Ⅲ懷孕 (暫時停藥即可)。 Ⅳ嚴重的間發性感染症 (intercurrent infection)(暫時停藥即可)。 療效不彰：患者的core set data經過6個月治療後未達療效者。 療效定義： Ⅰ紅血球沉降速率 (ESR) 或CRP及下列三項中至少有二項達到較基礎值改善30%以上效果者。 i.活動性關節炎的總數 ii.關節活動範圍受到限制的關節總數 iii.醫師的整體評估 Ⅱ上述各種指標惡化程度達30%以上者不得超過一項 ◎附表十六：全民健康保險活動性多關節幼年型慢性關節炎使用藥品申請表 ◎附表十六之二：（刪除）"
   },
   {
     "code": "8.2.4.2.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Etanercept(如Enbrel)； adalimumab（如Humira）；golimumab（如Simponi）； abatacept（如Orencia）；tocilizumab（如Actemra）；tofacitinib（如Xeljanz）；certolizumab (Cimzia) ；baricitinib（如Olumiant）；opinercept (如Tunex)； infliximab(如Remicade)；peficitinib (如Smyraf)；upadacitinib(如Rinvoq)；filgotinib(如Jyseleca) (92/3/1、93/8/1、93/9/1、98/3/1、99/2/1、100/12/1、101/1/1、101/6/1、102/1/1、102/4/1、102/10/1、103/12/1、106/4/1、106/11/1、107/9/1、108/3/1、108/5/1、109/8/1、109/9/1、109/12/1、110/3/1、110/5/1、110/6/1、112/5/1、114/9/1)：成人治療部分",
     "rule": "1.限內科專科醫師且具有風濕病專科醫師證書者使用於類風濕關節炎病患。 2.經事前審查核准後使用。 3.申報時須檢附使用DMARD藥物六個月以上後之DAS28積分，各種DMARD藥物使用之種類、劑量、治療時間、副作用、關節腫脹之相關照片(須註明日期)及關節X光檢查報告等資料。（99/2/1、108/5/1） 4.使用劑量： (1)初次使用tocilizumab時： I.靜脈注射劑：劑量應從4mg/kg開始，治療第12週，評估DAS28積分，未達療效者(療效之定義：DAS28總積分下降程度≧ 1.2，或DAS28總積分＜ 3.2者)，得調高劑量至8mg/kg，繼續治療12週後，再評估DAS28總積分，必須下降程度≧ 1.2，或DAS28總積分＜ 3.2，方可續用。(102/10/1、106/4/1) Ⅱ.皮下注射劑：體重小於100公斤者，劑量應從162mg每兩週一次開始，治療第12週，評估DAS28積分，未達療效者，得調高劑量至162mg每週一次，繼續治療12週後，再評估DAS28積分，達療效者方可續用。體重大於100公斤者，劑量162mg每週一次，治療第24週，評估DAS28積分，達療效者方可續用。(106/4/1) (2)baricitinib、upadacitinib或filgotinib時，劑量用法之調整應參照藥物仿單，且每日限用1錠。使用peficitinib時，劑量用法之調整應參照藥物仿單，每日100mg~150mg (且限每日最大劑量150mg)。(107/9/1、110/3/1、110/5/1、112/5/1) (3)使用infliximab時： I.靜脈注射：應參照藥物仿單之用法，與methotrexate併用，infliximab在第0、2及6週時投予靜脈注射3mg/kg，之後每8週給藥1次。(109/9/1、109/12/1、114/9/1) Ⅱ.靜脈注射搭配皮下注射：0、2週時投予靜脈注射3mg/kg；之後每隔2週給予皮下注射120 mg。(114/9/1) 5.使用半年後，每三個月需再申報一次；內含DAS28積分，使用藥物後之療效、副作用或併發症。惟infliximab初次申請時核予22週用量，續用時，每16週需再申請續用。(93/8/1、93/9/1、110/6/1) 6.病患需同時符合下述(1)(2)(3)項條件，方可使用；若有第(4)項情形，不得使用；若有第(5)項情形，需停止使用。 (1)符合美國風濕病學院(American College of Rheumatology)類風濕關節炎分類標準的診斷條件。(102/10/1) (2)連續活動性的類風濕關節炎 Ⅰ.28處關節疾病活動度積分 (Disease Activity Score, DAS 28) 必須大於5.1。 Ⅱ.此項評分需連續二次，其時間相隔至少4週(含)以上，並附當時關節腫脹之相關照片(須註明日期)及關節X光檢查報告為輔証。(108/5/1、109/8/1) 註1：28處關節部位記分如 (附表十三) 所示，其疾病活動度積分計算方式如下: DAS28 = 0.56 ×√TJC + 0.28 ×√SJC + 0.7 × lnESR+0.014 × GH 註2：TJC: 觸痛關節數，SJC: 腫脹關節數，ESR: 紅血球沉降速率 (單位為mm/h)，GH: 在100 mm圖像模擬量表中所呈現的整體健康狀態 (general health status) (3)標準疾病修飾抗風濕病藥物 (Disease-Modifying Anti-Rheumatic Drugs, DMARD) 療法失敗： 病患曾經接受至少兩種DMARDs (methotrexate為基本藥物，另一藥物必須包括肌肉注射之金劑、hydroxychloroquine、sulfasalazine、d-penicillamine、azathioprine、leflunomide、cyclosporine中之任何一種) 之充分治療，而仍無明顯療效。(93/8/1) Ⅰ.充分治療的定義：(100/12/1) i.DMARDs藥物治療時間須符合下列條件之一： (i)必須至少6個月以上，而其中至少2個月必須達到 (附表十四) 所示標準目標劑量 (standard target dose)。 (ii)DMARDs藥物合併使用prednisolone 15 mg/day治療，須至少3個月以上，而其中至少2個月DMARDs藥物必須達到 (附表十四) 所示標準目標劑量 (standard target dose)。(100/12/1) ii.若病患因DMARDs藥物毒性無法忍受，以致無法達到上項要求時，DMARDs劑量仍需達 (附表十四) 所示治療劑量 (therapeutic doses) 連續2個月以上。 Ⅱ.療效的定義：(93/8/1、98/3/1) DAS28總積分下降程度大於等於(≧)1.2，或DAS28總積分小於3.2者。 (4)需排除使用的情形 (93/9/1、106/11/1) 應參照藥物仿單，重要之排除使用狀況包括 (以下未列者參照仿單所載)： Ⅰ.懷孕或正在授乳的婦女 (certolizumab除外) (106/11/1) Ⅱ.活動性感染症之病患 Ⅲ.具高度感染機會的病患，包括： i.慢性腿部潰瘍之病患 ii.未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。(102/1/1) iii.過去12個月內曾有感染性關節炎者 iv.有人工關節感染，若該人工關節未除去前，不可使用 v.頑固性或復發性的胸腔感染症 vi.具有留置導尿管者 Ⅳ.惡性腫瘤或癌前狀態之病患 （但不包括已經接受過充分治療達10年以上的惡性腫瘤） Ⅴ.多發性硬化症 (multiple sclerosis) (5)需停止治療的情形 (93/8/1、93/9/1) 如果發生下列現象應停止治療： Ⅰ療效不彰 Ⅱ不良事件，包括： i.惡性腫瘤 ii.該藥物引起的嚴重毒性 iii.懷孕 (暫時停藥即可) iv.嚴重的間發性感染症 (暫時停藥即可) 7.轉用其他成分生物製劑之條件： (1)使用生物製劑治療後有療效，但因方便性欲改用給藥頻率較少者或無法忍受副作用者，可轉用相同藥理機轉之生物製劑。 (2)使用生物製劑治療後療效不彰，不可轉用相同藥理機轉之其他成分生物製劑。 8.減量及暫緩續用之相關規定：(102/4/1) (1)減量時機：使用2年且已達疾病緩解(DAS28＜ 2.6)超過6個月。(108/5/1) (2)減量方式： 病患使用生物製劑2年後，申請續用之事前審查時，應依據患者個別狀況提出符合醫理之治療計畫，並敘明開始減量至1年後暫緩續用之減量方式。減量方式可為減少每次使用劑量或延長給藥間隔。 (3)減量期間若符合以下所有條件，得申請回復減量前之使用量，下次再評估減量之時機為1年後： Ⅰ.與減量前比較，DAS28總積分上升程度＞ 1.2。 Ⅱ.ESR＞ 25mm/h。 Ⅲ.與減量前比較，ESR上升程度＞ 25%。 (4)因使用一種生物製劑治療後療效不彰，而轉用另一種不同藥理機轉之生物製劑，以轉用後者之起始日重新計算2年後開始減量之時機。但因方便性考量或無法忍受副作用而轉用相同藥理機轉之生物製劑，轉用前後所使用生物製劑之期間均應計入。 (5)暫緩續用時機：開始減量1年後暫緩續用。 (6)至101年12月31日止，已申請使用逾2年者，於下次申報時即須依規定評估是否需減量。 9.暫緩續用後若疾病再復發，重新申請使用必須符合以下條件：(102/1/1) (1)生物製劑暫緩續用後，必須持續接受至少2種DMARDs藥物之治療（methotrexate為基本藥物，另一藥物必須包括肌肉注射之金劑、hydroxychloroquine、sulfasalazine、d-penicillamine、azathioprine、leflunomide、cyclosporine中之任何一種），其中methotrexate至少2個月以上必須達到當初申請生物製劑時所使用之劑量。 (2)DAS28總積分上升程度＞ 1.2。(102/4/1) ◎附表十三：全民健康保險類風濕關節炎病患28處關節疾病活動度(Disease Activity Score, DAS 28)評估表 ◎附表十四：全民健康保險疾病修飾抗風濕病藥物(DMARDs)之標準目標劑量暨治療劑量表 ◎附表十五：全民健康保險類風濕關節炎使用生物製劑申請表(106/11/1)"
   },
   {
     "code": "8.2.4.3.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Adalimumab（如Humira）; etanercept (如Enbrel) ；golimumab（如Simponi）；secukinumab（如Cosentyx）；infliximab（如Remicade靜脈注射）；certolizumab (如Cimzia)；ixekizumab(如Taltz) ；upadacitinib(如Rinvoq)；tofacitinib (如Xeljanz)；brodalumab (如Lumicef) (98/8/1、98/11/1、101/1/1、102/1/1、107/1/1、109/9/1、109/12/1、110/7/1、111/5/1、112/3/1、112/4/1、112/12/1、114/9/1)：用於僵直性脊椎炎治療部分",
     "rule": "1.限內科專科醫師且具有風濕或免疫專科醫師證書者處方。 2.需經事前審查核准後使用。 3.需符合下列所有條件： (1)年齡18歲以上 (2)HLA B27陽性 (3)X光(plain X Ray)檢查需有薦腸關節炎：雙側性二級以上，或單側性三級以上、附有報告影印或X光影像光碟。 (4)臨床症狀及身體檢查，下列三條件至少需符合二項 i.下背痛及晨間僵硬的症狀持續3個月以上，這些症狀無法因休息而緩解，但會隨運動改善。 ii.腰椎活動受到限制，有確切體檢發現者。 iii.胸部擴展受到限制，有確切體檢發現者。 (5)所有的病患都必須曾經使用過至少2種 (NSAIDs)進行充分的治療，但療效不彰。充分治療的定義為：使用最高建議劑量或最高耐受劑量的NSAID抗發炎藥物，在同一家醫院連續治療三個月以上，且每種NSAID至少使用四週以上，除非出現毒性而停藥，需以附表二十一之二為根據記錄NSAID之毒性送審。 (6)周邊關節炎患者必須曾經同時使用NSAIDs和sulfasalazine進行充分的治療，sulfasalazine需以2 g/day之標準治療4個月或以上，除非有相關毒性發生而停藥，並有適當病歷記載者。 (7)必須附有(1) 風濕或免疫專科且具有保險人核定復健處方權之醫師所開立之運動衛教證明書和(2)病患自身在家運動狀况聲明書。 (8)活動性疾病持續四週以上。（需連續二次檢查BASDAI≧6、ESR > 28 mm/1 hr 暨 CRP > 1 mg/dL，且二次檢查之間隔需經過至少4週以上之充分治療） (9)病患需填具藥物使用同意書以示瞭解本藥物之適應症、禁忌及副作用。 4.使用劑量： (1)Secukinumab每次使用劑量為150mg，起始於第0，1，2，3和4週，之後每4週給予維持劑量150mg。治療12週後，未達療效(參考底下第5點療效定義)，劑量可增加為300mg。(107/1/1、112/3/1) (2)infliximab起始於第0，2和6週時投予5mg/kg，之後每6週給藥。(109/9/1、109/12/1) (3)Ixekizumab每4週給予80 mg (111/5/1) (4)Certolizumab起始於第0週、第2週與第4週時投予各400mg，之後維持劑量為每2週200 mg或每4週 400mg。於懷孕哺乳期間若已接受其他生物製劑治療者，得改申請certolizumab。若症狀嚴重程度已符合生物製劑申請條件但尚未接受生物製劑治療者，不須受傳統治療無效才得申請之限制，得於懷孕哺乳期申請certolizumab。(110/7/1) (5)Tofacitinib口服使用5mg每日2次或11mg每日1次。(使用前應排除有血栓風險之病患，不建議與azathioprine或與cyclosporine合併使用。(112/4/1) (6)Brodalumab 起始於第0週投予 210 mg，接著於第1週及第2週投予210mg，之後每2週投予210mg。(112/12/1) 5.療效評估與繼續使用： (1)治療12週後評估BASDAI：與使用前比較,出現50%以上的進步或減少2 分以上，方得繼續使用。 (2)繼續使用者，需每12週評估一次。 6.需排除使用的情形 應參照藥物仿單，重要之排除使用狀況包括(以下未列者參照仿單所載)： (1)懷孕或正在授乳的婦女(certolizumab除外) (110/7/1) (2)活動性感染症之病患 (3)具高度感染機會的病患，包括： i.慢性腿部潰瘍之病患 ii.未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。(102/1/1) iii.過去12個月內曾有感染性關節炎者 iv.曾有人工關節感染，若該人工關節未去除前，不可使用 v.頑固性或復發性的胸腔感染症 vi.具有留置導尿管者 (4)惡性腫瘤或癌前狀態之病患（但不包括已經接受過充分治療達10年以上的惡性腫瘤） (5)多發性硬化症(multiple sclerosis) 7.需停止治療的情形 如果發生下列現象應停止治療： (1)療效不彰：療效評估未達繼續使用標準者 (2)不良事件，與藥物之使用有關或無關的事件，包括： i.惡性腫瘤 ii.該藥物引起的嚴重毒性 iii.懷孕(certolizumab除外，其他暫時停藥即可) (110/7/1) iv.嚴重的間發性感染症(依嚴重性判斷可選擇暫時停藥即可) ◎附表二十一之一：全民健康保險僵直性脊椎炎使用生物製劑申請表(107/1/1) ◎附表二十一之二：NSAID藥物副作用"
   },
   {
     "code": "8.2.4.4.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Adalimumab（如Humira）； etanercept (如Enbrel)；golimumab（如Simponi）；ustekinumab（如Stelara）；secukinumab（如Cosentyx）；ixekizumab (如Taltz)；tofacitinib（如Xeljanz）；certolizumab(如Cimzia)；brodalumab(如Lumicef)；guselkumab(如Tremfya)；upadacitinib(如Rinvoq) ；risankizumab (如Skyrizi)（98/8/1、98/11/1、99/1/1、102/1/1、102/2/1、105/10/1、107/1/1、109/3/1、109/6/1、109/8/1、109/9/1、110/7/1、111/3/1、111/5/1、111/9/1、112/3/1、112/4/1、112/12/1、114/2/1)：用於活動性乾癬性關節炎－乾癬性周邊關節炎治療部分",
     "rule": "1.限內科專科醫師且具有風濕或免疫專科醫師證書者，或皮膚科專科醫師處方。（99/1/ 1） 2.需經事前審查核准後使用。 3.需符合下列所有條件： (1)經內科專科醫師且具有風濕或免疫專科醫師證書者診斷為乾癬性關節炎之患者。 (2)曾經皮膚科醫師診斷為乾癬患者，或經皮膚切片診斷為乾癬患者。 (3)三個或是三個以上的疼痛關節及三個或三個以上的腫脹關節，且至少間隔4週(含) 以上之連續兩次評估均符合上述條件。(需附關節腫脹相關X-光片或照片輔証)。(109/8/1) (4)應先使用非類固醇類消炎止痛劑(NSAID)及疾病修飾治療藥物(DMARDs)，且必須曾使用過至少2種疾病修飾治療藥物(DMARDs)進行充分的治療，但療效不彰。(附表二十二之二) i.疾病修飾治療藥物〔DMARDs包括下列四種: sulfasalazine、methotrexate (MTX)、cyclosporine、leflunomide〕，治療至少六個月，且至少有兩個月都達標準目標劑量(除非有明顯副作用或毒性反應)，仍然未達療效者。 ii.疾病修飾治療藥物中sulfasalazine、methotrexate (MTX)、cyclosporine為第一線藥物，leflunomide為第二線藥物，第一線疾病修飾類藥物治療無效，應先經leflunomide治療3個月無效後，方可使用腫瘤壞死因子抑制劑或secukinumab 150mg、ixekizumab或tofacitinib或upadacitinib或brodalumab作為第三線治療。(107/1/1、109/6/1、112/3/1、112/4/1、112/12/1) iii.標準治療失敗之定義：經過充分使用以上藥物治療又給予規定劑量，且至少先後使用或併用兩種疾病修飾類藥物(DMARDs)仍無法使病情緩解，即符合下列情況之一： - 治療療程至少有六個月，且至少有兩個月都達標準目標劑量(除非有明顯副作用或毒性反應)仍然未達療效者。 - 治療不到六個月，但是病患無法忍受藥物副作用或是藥物毒性而停藥者，但需說明藥物之何種毒性或副作用。 - 治療大於兩個月，且因無法忍受藥物副作用或是藥物毒性而停止療程，其中至少有兩個月需達有效治療劑量，且需說明藥物之何種毒性或副作用。 (5)Ustekinumab、guselkumab及risankizumab限用於曾經接受抗腫瘤壞死因子(如etanercept、adalimumab或certolizumab等)、secukinumab、ixekizumab、tofacitinib、upadacitinib或brodalumab治療，但未達療效，或無法耐受的活動性乾癬性關節炎。申請初次治療者，應檢附曾經使用抗腫瘤壞死因子、secukinumab、tofacitinib、ixekizumab、upadacitinib或brodalumab之用藥結果，包括種類、劑量、治療前後PsARC評估及副作用報告等資料，並宜記錄患者HBsAg及Anti-HCV資料(若HBsAg檢驗為陽性，宜加作HBV DNA)。(105/10/1、107/1/1、109/3/1、109/6/1、111/3/1、111/5/1、111/9/1、112/4/1、112/12/1、114/2/1) 4.使用劑量： (1)Secukinumab每次使用劑量為150mg，起始於第0，1，2，3和4週，之後每4週給予維持劑量150mg。治療12週後，若secukinumb 150mg 治療未達療效(參考底下第5點療效定義)的病人，劑量可增加為300mg。但對於曾以腫瘤壞死因子阻斷劑(anti-TNFα)未達療效，建議每次劑量為300mg，起始於第0，1，2，3和4週皮下注射，之後每4週給予300mg劑量。(107/1/1、112/3/1) (2)Ixekizumab 之起始劑量為第0週160mg，之後每4週給予80mg。(109/3/1、111/5/1) (3)Certolizumab起始於第0週、第2週與第4週時投予各400 mg，之後維持劑量為每2週200 mg或每4週400mg。於懷孕哺乳期間若已接受其他生物製劑治療者，得改申請certolizumab。若症狀嚴重程度已符合生物製劑申請條件但尚未接受生物製劑治療者，可不受傳統治療無效才得申請之限制，得於懷孕哺乳期申請certolizumab。(110/7/1) (4)Brodalumab 起始於第0週投予 210 mg，接著於第1週及第2週投予210mg，之後每2週投予210mg 。(111/3/1) (5)Guselkumab之起始劑量為第0週及第4週投予100mg，之後每8週給予維持劑量100mg。(111/9/1) (6)Risankizumab之起始劑量為第0週及第4週投予150mg/mL，之後每12週給予維持劑量150mg/mL。(114/2/1) 5.療效評估與繼續使用：(105/10/1、111/9/1、114/2/1) (1)療效定義：治療12週(ustekinumab、guselkumab及risankizumab初次治療則為24週)後，評估乾癬關節炎反應標準(PsARC, Psoriatic Arthritis Response Criteria)，其標準為下列四項中至少有二項較原基礎值改善，且其中一項需為疼痛關節或腫脹關節的關節總數，且下述各種指標不得有任一項惡化，方得繼續使用。(附表二十二之三) (111/9/1、114/2/1) i.疼痛關節的關節總數：改善的定義為關節總數減少30%或以上，惡化定義為總數增加30%或以上。 ii.腫脹關節的關節總數：改善的定義為關節總數減少30%或以上，惡化定義為總數增加30%或以上。 iii.醫師的整體評估(0-5分)：改善定義為減少1分，惡化定義為增加1分。 iv.病患的整體評估(0-5分)：改善定義為減少1分，惡化定義為增加1分。 (2)Ustekinumab： i.初次申請以3劑(初次、4週後及16週時投予每劑45mg；體重大於100公斤病患，得初次、4週後及16週時投予每劑90mg)為限，且於24週時，需先行評估，至少有PsARC療效方可申請續用，續用以45mg q12w(體重大於100公斤，續用以90mg q12w)為限。(105/10/1、109/9/1) ii.若使用劑量為90mg（含）以上，限使用90mg(1mL)規格量。(109/9/1) (3)Guselkumab：初次申請以4劑(初次、第4週、第12週及第20週時投予每劑100mg)為限，且於第24週時，需先行評估，至少有PsARC療效方可申請續用，續用以每隔8週給予維持劑量100mg為限。(111/9/1) (4)Risankizumab：初次申請以3劑 (初次、第4週及第16週時投予每劑150mg/mL)為限，且於第24週時，需先行評估，至少有PsARC療效方可申請續用，續用以每隔12週給予維持劑量150mg/mL為限。(114/2/1) (5)繼續使用者，需每12週評估一次，再次提出申請續用；惟guselkumab每16週評估一次、risankizumab每24週評估一次，再次提出申請續用。(111/9/1、114/2/1)。 6.需排除使用的情形： 應參照藥物仿單，重要之排除使用狀況包括﹝以下未列者參照仿單所載﹞： (1)懷孕或正在授乳婦女(certolizumab除外) (110/7/1) (2)活動性感染症之病患 (3)具高度感染機會之病患 i.慢性腿部潰瘍之病患 ii.未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。(102/1/1) iii.過去12個月內曾罹患感染性關節炎者 iv.曾有人工關節感染，若該人工關節未去除前，不可使用v.頑固性或復發性的胸腔感染疾病 vi.具有留置導尿管之情形 (4)惡性腫瘤或癌前狀態之病患﹝但不包括已經接受過充分治療達10年以上的惡性腫瘤﹞ (5)多發性硬化症 (multiple sclerosis) 7.需停止治療的情形 如果發生下列現象應停止治療： (1)療效不彰：療效評估未達繼續使用標準者 (2)不良事件：與藥物之使用有關或無關的事件，包括： i.惡性腫瘤 ii.該藥物引起的嚴重毒性 iii.懷孕(certolizumab除外，其他暫時停藥即可)(110/7/1) iv.嚴重感染症﹝依嚴重性判斷可選擇暫時停藥﹞ ◎附表二十二之一：全民健康保險乾癬性周邊關節炎使用生物製劑申請表(109/3/1) ◎附表二十二之二：乾癬性周邊關節炎使用DMARDs標準目標劑量及有效治療劑量的定義 ◎附表二十二之三：乾癬性關節炎評估表 ◎附表二十二之六：全民健康保險乾癬性周邊關節炎使用 ustekinumab/guselkumab/risankizumab申請表(109/3/1、111/3/1、111/5/1、111/9/1、112/12/1、114/2/1)"
   },
   {
     "code": "8.2.4.5.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Adalimumab（如Humira）;etanercept(如Enbrel)；golimumab（如Simponi）；secukinumab(如Cosentyx)；ixekizumab(如Taltz)；tofacitinib(如Xeljanz)；certolizumab(如Cimzia)；guselkumab(如Tremfya)；upadacitinib(如Rinvoq)；brodalumab (如Lumicef) ；risankizumab (如Skyrizi) (98/8/1、98/11/1、99/1/1、102/1/1、102/2/1、107/1/1、109/3/1、109/6/1、110/7/1、111/9/1、112/3/1、112/4/1、112/12/1、114/2/1)：用於活動性乾癬性關節炎－乾癬性脊椎病變治療部分",
     "rule": "1.限內科專科醫師且具有風濕或免疫專科醫師證書者，或皮膚科專科醫師處方。（99/1/ 1） 2.需經事前審查核准後使用。 3.需符合下列所有條件方可使用腫瘤壞死因子抑制劑或secukinumab 150mg或ixekizumab或tofacitinib或guselkumab或upadacitinib或brodalumab或risankizumab作為第二線治療：(107/1/1、109/3/1、109/6/1、111/9/1、112/4/1、112/12/1、114/2/1) (1)經內科專科醫師且具有風濕或免疫專科醫師證書者診斷為乾癬性關節炎之患者。 (2)曾經皮膚科醫師診斷為乾癬患者，或經皮膚切片診斷為乾癬患者。 (3)下列三項條件至少需符合二項： i.下背痛及晨間僵硬的症狀持續3個月以上，這些症狀無法因休息而緩解，但會隨運動改善。 ii.腰椎前屈活動受限。 iii.胸廓擴張受限。 (4)X光(plain X ray)檢查需有薦腸關節炎：單側性二級以上、附有報告影印及X光影像光碟。 (5)病患必須曾使用過至少2種非類固醇類消炎止痛劑(NSAIDs)進行充分的治療，但療效不彰。充分治療的定義為：使用最高建議劑量或最高耐受劑量的NSAID抗發炎藥物，在同一家醫院連續治療三個月以上，且每種NSAID至少使用四週以上，除非出現毒性而停藥，需以附表二十二之五為根據，記錄NSAID之毒性送審。 (6)活動性疾病持續四週以上。（需連續二次檢查BASDAI≧6、ESR > 28 mm/1 hr及CRP > 1 mg/dL，且二次檢查之間隔需經過至少4週以上充分治療） 4.Secukinumab每次使用劑量為150mg，起始於第0，1，2，3和4週，之後每4週給予維持劑量150mg。治療12週後，若secukinumb 150mg 治療未達療效的病人(參考底下第8點療效定義)，劑量可增加為300mg。但對於曾以腫瘤壞死因子阻斷劑(anti-TNFα)未達療效，建議每次劑量為300mg，起始於第0，1，2，3和4週皮下注射，之後每4週給予300mg劑量。(107/1/1、112/3/1) 5.Ixekizumab 之起始劑量為第0週160mg，之後每4週80mg。(109/3/1) 6.Certolizumab起始建議劑量為第0 週、第2週及第4週各投予400mg，之後每2週200mg。於懷孕哺乳期間若已接受其他生物製劑治療者，得改申請certolizumab。若症狀嚴重程度已符合生物製劑申請條件但尚未接受生物製劑治療者，不需受傳統治療無效才得申請之限制，得於懷孕哺乳期申請certolizumab。(110/7/1) 7. Guselkumab之起始劑量為第0週及第4週投予100mg，之後每8週給予維持劑量100mg。(111/9/1) 8. Brodalumab 起始於第0週投予 210 mg，接著於第1週及第2週投予210mg，之後每2週投予210mg。(112/12/1) 9.Risankizumab之起始劑量於第0週及第4週投予150mg/mL，之後每12週給予維持劑量150mg/mL。(114/2/1) 10.療效評估與繼續使用： (1)初次使用者治療12週評估BASDAI，惟guselkumab、risankizumab初次治療24週評估BASDAI：與使用前比較，出現50%以上的進步或減少2分以上，方得繼續使用。(111/9/1、114/2/1) (2)繼續使用者，需每12週評估一次，再次提出申請續用；惟guselkumab每16週評估一次、risankizumab每24週評估一次，再次提出申請續用。(111/9/1、114/2/1) 11.需排除使用的情形： 應參照藥物仿單，重要之排除使用狀況包括﹝以下未列者參照仿單所載﹞： (1)懷孕或正在授乳婦女(certolizumab除外) (110/7/1) (2)活動性感染症之病患 (3)具高度感染機會之病患 i.慢性腿部潰瘍之病患 ii.未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。(102/1/1) iii.過去12個月內曾罹患感染性關節炎者 iv.曾有人工關節感染，若該人工關節未去除前，不可使用 v.頑固性或復發性的胸腔感染疾病 vi.具有留置導尿管之情形 (4)惡性腫瘤或癌前狀態之病患﹝但不包括已經接受過充分治療達10年以上的惡性腫瘤﹞ (5)多發性硬化症 (multiple sclerosis) 12.需停止治療的情形 如果發生下列現象應停止治療： (1)療效不彰：療效評估未達繼續使用標準者 (2)不良事件：與藥物之使用有關或無關的事件，包括： i.惡性腫瘤 ii.該藥物引起的嚴重毒性 iii.懷孕(certolizumab除外，其他暫時停藥即可)(110/7/1) iv.嚴重的間發性感染症﹝依嚴重性判斷可選擇暫時停藥﹞ ◎附表二十二之四：全民健康保險乾癬性脊椎病變使用生物製劑申請表(107/1/1、109/3/1) ◎附表二十二之五：NSAID藥物副作用"
   },
   {
     "code": "8.2.4.6.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Etanercept（如Enbrel）；adalimumab（如Humira）；ustekinumab（如Stelara）；secukinumab（如Cosentyx）；ixekizumab（如Taltz）；guselkumab（如Tremfya）；brodalumab（如Lumicef）；risankizumab（如Skyrizi）；certolizumab（如Cimzia）；spesolimab（如Spevigo) (98/11/1、100/7/1、101/5/1、101/12/1、102/1/1、104/4/1、105/9/1、107/8/1、108/3/1、108/4/1、109/9/1、109/12/1、110/5/1、110/7/1、113/3/1、113/7/1、114/6/1)：用於乾癬治療部分",
     "rule": ""
   },
   {
     "code": "8.2.4.6.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Etanercept（如Enbrel）；adalimumab（如Humira）；ustekinumab（如Stelara）；secukinumab（如Cosentyx）；ixekizumab(如Taltz) ； guselkumab (如Tremfya) ；brodalumab (如Lumicef)；risankizumab(如Skyrizi) ；certolizumab (如Cimzia) (98/11/1、100/7/1、101/5/1、101/12/1、102/1/1、104/4/1、105/9/1、107/8/1、108/3/1、108/4/1、109/9/1、109/12/1、110/5/1、110/7/1、113/3/1、114/6/1)：用於乾癬治療部分",
     "rule": "1.給付條件：限符合下列(1)或(2)任一情形使用： (1)用於經照光治療及其他全身性治療無效，或因醫療因素而無法接受其他系統性治療之全身慢性中、重度之乾癬或頑固之掌蹠性乾癬，且影響功能之患者。 Ⅰ.所稱”慢性”，指病灶持續至少6個月，且Psoriasis area severity index (PASI) ≧10 (不適用PASI測定如膿疱性乾癬，則以範圍 ≧10%體表面積)。(附表二十四之二) Ⅱ.頑固之掌蹠性乾癬：指非膿疱性掌蹠廣泛性角化，嚴重影響行走或日常作習，申請時需附照片以供審查。照片應包括前、後、左、右至少四張，並視需要加附頭部、掌、蹠照片。 Ⅲ.慢性紅皮症乾癬：範圍≧75%體表面積，病史超過1年，以cyclosporin足量（5mg/kg/d，除非有明顯不良反應）治療6個月以上，停藥未滿3個月即復發到PASI＞10或體表面積＞30%（需經皮膚科醫師評估），可不經照光治療，只需methotrexate及acitretin治療無效後直接申請。（101/12/1） Ⅳ.所稱治療無效，指治療後嚴重度仍符合上列第(Ⅰ)及第(Ⅱ)點情況，或PASI或體表面積改善＜50%。（101/5/1） i.治療必須包括足量之照光治療及包括以下兩種系統性治療之至少兩種，包括methotrexate、acitretin、cyclosporin、apremilast、 deucravacitinib。（101/12/1、113/3/1、114/6/1） ii.治療需至少使用3個月，但育齡女性，得不經acitretin使用。 iii.照光治療應依學理，如光化療法(PUVA)及窄頻UVB(nb-UVB)必須每週至少2次，寬頻UVB併用焦油每週至少3次，並依學理逐漸增加至有效可忍受劑量。申請時必須附病歷影印及詳細照光劑量紀錄。 iv.Methotrexate合理劑量需達每週15mg, cyclosporin為2.5-5 mg/kg/d, acitretin為0.3-1 mg/kg/d。但若因為藥物毒性無法耐受，使用劑量可酌情降低。 Ⅴ.所稱無法接受治療： i.Methotrexate：指因肝功能異常或切片第三期a異常，經6個月後切片仍無改善，或第三期b以上之肝切片異常，病毒性肝炎帶原或腎功能異常而無法使用methotrexate治療者。 ii.Acitretin：指有明顯肝功能異常、高血脂無法有效控制，或cyclosporin有效但停藥後迅速復發，已持續使用超用1年，或已產生腎毒性經減量後無法有效控制者。 (2)用於全身型急性膿疱性乾癬(限經衛生主管機關核准許可證登載此適應症之藥品)：經確診為全身型急性膿疱性乾癬，且符合以下所有條件者，即可申請有全身型膿疱性乾癬適應症之生物製劑，每次申請以4週為原則，供當次或下次發作使用，之後申請得依前次病情需要(經生物製劑治療後膿疱仍持續超過4週)可申請延長至最長8週用藥。下次申請使用，需相隔至少12週。（110/5/1） Ⅰ.18歲以上且有懷孕可能之患者。 Ⅱ.伴有膿疱之紅腫部位侵犯體表面積>10%且伴隨系統性症狀包括發燒及白血球增多症等。 2.需經事前審查核准後使用： (1)初次申請時，以6個月為1個療程，肝腎功能不佳者，必須先經照光及使用apremilast或 deucravacitinib無效後，始得申請使用，持續使用時每6個月需再申報一次，且應於期滿前1個月提出。（101/12/1、113/3/1、114/6/1） (2)紅皮症乾癬病患以6個月為限，於6個月療程結束後，應回復使用cyclosporin，除非產生腎功能異常(Creatinine基礎值上升≧30%)，或其他無法有效控制之副作用，減藥後乾癬仍無法有效控制。（101/12/1） (3)Etanercept初期3個月可使用50mg biw，之後則為25mg biw，且於12週時，需先行評估，至少有PASI25療效。 (4)Adalimumab初次投予為80mg，之後則為40mg qow，且於12週時，須先行評估，至少有PASI25療效。(100/7/1) (5)Ustekinumab： i.初次及4週後投予45mg，之後則為45mg q12w（對於初次使用45mg反應不完全*，或體重大於100公斤病患，得初次及4週後投予90mg，之後則為90mg q12w），且於16週時，需先行評估，至少有PASI25療效。(101/5/1、109/9/1) 註*：治療後雖然有達成PASI50療效，但仍有PASI>1，體表面積>3，或是病灶存在外露明顯部位(臉部、指甲、手部)者。 ii.若使用劑量為90mg（含）以上，限使用90mg(1mL)規格量。(109/9/1) (6)Secukinumab起始於第0,1,2,3,4週投予300mg，接著於第4週開始於每4週投予300mg (體重≤60kg，投予150 mg的劑量)，且於12週時，須先行評估，至少有PASI25療效。 (7)Ixekizumab起始於第0週投予160 mg，接著於第2,4,6,8,10,12週投予80mg，之後每4週投予80mg，且於12週時，須先行評估，至少有PASI25療效。(107/8/1) (8)Guselkumab起始於第0週投予100 mg，接著於第4週投予100mg，之後每8週投予100mg，且於12週時，須先行評估，至少有PASI25療效。(108/3/1) (9)Brodalumab起始於第0週投予210 mg，接著於第1週及第2週投予210mg，之後每2週投予210mg，且於12週時，須先行評估，至少有PASI25療效。(108/4/1) (10)Risankizumab起始於第0週投予150mg，接著於第4週投予150mg，之後每12週投予150mg。且於16週時，須先行評估至少有PASI 75療效。(109/12/1) (11)Certolizumab起始建議劑量為第0 週、第2週及第4週各投予400mg，之後每2週200 mg。於懷孕哺乳期間若已接受其他生物製劑治療者，得改申請certolizumab。若症狀嚴重程度已符合生物製劑申請條件但尚未接受生物製劑治療者，不須受照光治療及其他系統性治療無效才得申請之限制，得於懷孕哺乳期申請certolizumab。 (110/7/1) (12)原先使用cyclosporin控制有效且腎功能異常(Creatinine基礎值上升≧30%)者，於6個月療程結束後，應回復使用cyclosporin，除非產生腎功能異常，或其他無法有效控制之副作用，減藥後乾癬仍無法有效控制，否則下次申請應於1年後。 (13)初次申請後每6個月須再次申請續用，續用時，與初次治療前之療效達PASI50方可使用；其中risankizumab續用時，與初次治療前之療效達PASI 75方可使用續用；且etanercept再次申請時僅限使用25mg biw之劑量。停藥超過3個月再申請者，視同新申請案件，否則視為續用案件。（101/12/1、104/4/1、109/12/1） 3.使用生物製劑時，考慮其於乾癬療效可能較慢，及立即停藥之可能反彈現象，治療前兩個月得合併使用cyclosporine及照光治療，但生物製劑療效出現時即應逐漸停用。 (101/5/1、105/9/1、107/8/1) 4.需排除使用的情形應參照藥物仿單，重要之排除使用狀況包括： (1)懐孕或正在授乳的婦女(certolizumab除外) (110/7/1)。 (2)罹患活動性的感染症的病患。 (3)未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。(102/1/1) (4)身上帶有人工關節者，罹患或先前曾罹患過嚴重的敗血病(sepsis)者。 (5)惡性腫瘤或具有癌症前兆(pre-malignancy)的病患。 (6)免疫功能不全者(immunodeficiency) 。 5.需停止治療情形，如果發生下列現象應停止治療： (1)不良事件，包括： i.惡性腫瘤。 ii.該藥物引起的嚴重性毒性。 iii.懷孕（certolizumab除外，其他暫時停藥即可）。(110/7/1)。 iv.嚴重的間發性感染症（intercurrent infection）（暫時停藥即可）。 (2)療效不彰：患者經過6個月治療（初次療程）後未達療效者，療效定義指PASI或體表面積改善未達50%。 6.暫緩續用之相關規定：(104/4/1、110/5/1） (1)暫緩續用時機：使用生物製劑治療2年後符合PASI≦10者，但有連續兩次暫緩用藥後復發病史者（停藥後6個月內PASI>10或50%復發）不在此限。(110/5/1) (2)因使用一種生物製劑治療後療效不彰(PASI>10)，而轉用另一種不同藥理機轉之生物製劑，以轉用後者之起始日重新計算2年後開始減量之時機。但因無法忍受副作用而轉用相同藥理機轉之生物製劑，轉用前後所使用生物製劑之期間均應計入。(110/5/1) 7.暫緩續用後若疾病再復發，可重新申請使用，須符合至少有50%復發(需附上次療程治療前、後，及本次照片，計算方式係以最近一次新療程開始時的PASI嚴重度，減去療程結束時的PASI嚴重度，有50%復發)。(104/4/1、110/5/1） 8.平行轉換時機：(110/5/1) (1)使用一種生物製劑治療後，雖PASI<10且有PASI 50療效，但治療後仍有PASI>1、體表面積>3% 或是病灶存在外露明顯部位(如頭皮、臉部、手指甲、手部)且明顯影響生活品質者，得於每半年續用申請時，平行轉用另一種生物製劑(用法用量依照仿單)，但前後所使用生物製劑之期間均應計入2年給付時間合併計算。 (2)申請此項平行轉換者，申請續用時，有效性比較基準點為此2年療程起始時之嚴重度。 ◎附表二十四之一：全民健康保險乾癬使用生物製劑申請表(105/9/1、107/8/1、110/5/1、114/6/1) ◎附表二十四之二：全民健康保險乾癬（慢性紅皮症乾癬部分）使用生物製劑申請表(105/9/1、107/8/1) ◎附表二十四之三：乾癬面積暨嚴重度指數【Psoriasis Area Severity Index (PASI)】 ◎附表二十四之四：全民健康保險乾癬(全身型急性膿疱性乾癬部分)使用生物製劑申請表(110/5/1)"
   },
@@ -1939,13 +1939,13 @@ const drugData = [
   },
   {
     "code": "8.2.4.7.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Adalimumab（如Humira）、infliximab（如Remicade）、vedolizumab(如Entyvio)、ustekinumab（如Stelara）、risankizumab（如Skyrizi）、upadacitinib(如Rinvoq) (100/7/1、102/1/1、105/10/1、106/5/1、106/10/1、108/10/1、109/9/1、112/8/1、113/7/1、113/9/1、113/11/1、114/8/1、114/9/1)：用於克隆氏症治療部分",
     "rule": ""
   },
   {
     "code": "8.2.4.7.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Adalimumab（如Humira）、infliximab（如Remicade）、vedolizumab(如Entyvio)、ustekinumab（如Stelara）、risankizumab（如Skyrizi）、upadacitinib(如Rinvoq）(105/10/1、106/5/1、106/10/1、108/10/1、109/9/1、112/8/1、113/7/1、113/9/1、113/11/1、114/8/1、114/9/1)：成人治療部分",
     "rule": "1.限具有消化系專科證書者處方。 2.須經事前審查核准後使用。 3.須經診斷為成人克隆氏症，領有克隆氏症重大傷病卡，並符合下列條件之一；且申請時應附上影像診斷評估報告。 (1)克隆氏症病情發作，經5-aminosalicylic acid藥物 (sulfasalazine, mesalamine, balsalazide)、類固醇、及/或免疫抑制劑(azathioprine, 6-mercaptopurine, methotrexate)充分治療超過六個月，仍然無法控制病情(CDAI≧300)或產生嚴重藥物副作用時，且病況不適合手術者。 (2)克隆氏症經5-aminosalicylic acid 藥物如(sulfasalazine, mesalamine, balsalazide)、類固醇、及免疫抑制劑(azathioprine, 6-mercaptopurine, methotrexate)充分治療超過六個月，或外科手術治療，肛門周圍廔管或腹壁廔管仍無法癒合且CDAI≧100者。 (3)克隆氏症經5-aminosalicylic acid 藥物如(sulfasalazine, mesalamine, balsalazide)、類固醇、及免疫抑制劑(azathioprine, 6-mercaptopurine, methotrexate)充分治療，仍於一年內因克隆氏症之併發症接受二次(含)以上之手術治療且CDAI≧100者。 4.療效評估與繼續使用： (1)初次申請：adalimumab以6週(使用4劑為限)；infliximab靜脈注射以6週(使用3劑為限) ，或以2週(使用靜脈注射2劑為限)；vedolizumab以6週(使用靜脈注射3劑為限)，或以2週(使用靜脈注射2劑為限)；ustekinumab以8週(使用靜脈注射1劑為限)，risankizumab以8週(使用靜脈注射3劑為限)；upadacitinib以12週為限(限用於其他生物製劑治療失敗或無法耐受之中至重度克隆氏症病人，另使用前應排除有血栓風險之病患，且不建議與azathioprine合併使用)完成誘導治療後，達到有效緩解之誘導或部份有效緩解之誘導，方得申請繼續使用。誘導緩解失敗者，得提出申請轉換他類生物製劑，然同一療程不得合併使用。(106/5/1、106/10/1、109/9/1、112/8/1、113/9/1、114/8/1、114/9/1) i有效緩解之誘導：CDAI≦150或廔管痊癒。 ii部份有效緩解之誘導：CDAI分數下降≧100或廔管數量減少。 (2)繼續使用者:adalimumab需每24週(使用12劑)；infliximab靜脈注射需16週(使用2劑)或24週(使用3劑)，或第6週起，每24週(使用皮下注射12劑)；vedolizumab需16週(使用靜脈注射2劑)或24週(使用靜脈注射3劑)，或第6週起，每24週(使用皮下注射12劑)；ustekinumab需每24週(使用2劑或3劑)；risankizumab需每16週(使用皮下注射2劑)或24週(使用皮下注射3劑)；upadacitinib需每24週評估一次。評估仍維持前一次療程有效或部份有效緩解時之CDAI分數者，方得提出申請續用。Ustekinumab治療達到部分有效緩解者，經消化系專科醫師評估後，得申請繼續使用，以每隔8週給予皮下注射維持劑量90mg。每次申請adalimumab以24週(使用12劑)；infliximab以16週(使用2劑)或24週(使用3劑)；vedolizumab以16週(使用靜脈注射2劑)或24週(使用靜脈注射3劑)，或每24週(使用皮下注射12劑)；ustekinumab以24週(使用2劑或3劑)；risankizumab以每16週(使用皮下注射2劑)或24週(使用皮下注射3劑)為限；upadacitinib以24週為限。(106/5/1、106/10/1、108/10/1、109/9/1、112/8/1、113/9/1、113/11/1、114/8/1、114/9/1) (3)總療程:adalimumab治療54週使用28劑；infliximab靜脈注射治療46週使用8劑(療效持續至54週)；infliximab靜脈注射搭配皮下注射共治療52週，使用靜脈注射2劑，皮下注射24劑(療效持續至54週)；vedolizumab靜脈注射治療46週，使用靜脈注射8劑(療效持續至54週)，或vedolizumab靜脈注射搭配皮下注射共治療52週，使用靜脈注射2劑，皮下注射24劑(療效持續至54週)；ustekinumab治療44週使用5劑或 48週使用7劑；risankizumab靜脈注射搭配皮下注射共治療44週，使用靜脈注射3劑，皮下注射5劑(療效持續至52週)；upadacitinib治療60週。總療程結束後，必須至少再間隔超過3個月後，因病情復發或以其他治療難以控制達上述3.之(1)(2)(3)之標準(惟其中經5-aminosalicylic acid藥物、類固醇、及/或免疫抑制劑充分治療，連續超過3個月)才能再次提出申請使用。（105/10/1、106/5/1、106/10/1、108/10/1、109/9/1、112/8/1、113/9/1、113/11/1、114/8/1、114/9/1） (4)連續2次於總療程結束後復發(CDAI≥300) 者，且第2次復發於藥效終止後3個月內發生，則可持續使用，惟需每24週提出續用事前審查。仍維持前一療程有效或部分有效緩解之CDAI分數，才可繼續申請事前審查。連續2年(4次評估)達到CDAI<150，則應考慮停藥。（113/7/1） (5) Upadacitinib：最初12 週每日45mg，限用45mg規格量品項，作為緩解之誘導；之後調整劑量為每日15mg，可持續治療至60週，作為緩解之維持。(114/8/1） 5.使用劑量： (1)Adalimumab：原則上，最初第一劑160mg，兩週後第二劑80mg，第四週之第三劑40mg，作為緩解之誘導；之後每隔兩週給予維持劑量40mg，可持續治療至54週(總共使用28劑)，作為緩解之維持。（105/10/1、106/5/1） (2)Infliximab：原則上，第0、2、6週給予靜脈輸注5mg/kg作為緩解之誘導；之後每隔8週給予維持劑量5mg/kg，可持續治療至第46週 (總共使用8劑，療效持續至54週)，作為緩解之維持。或第0、2週給予靜脈注射5mg/kg作為緩解之誘導；第6週開始給予皮下注射維持劑量120mg，之後每隔2週給予皮下注射維持劑量120 mg，可持續治療至第52週(總共使用靜脈注射2劑，皮下注射24劑，療效持續至54週)，作為緩解之維持。（106/5/1、114/9/1） (3) Vedolizumab：原則上，第0、2、6週給予靜脈輸注300mg作為緩解之誘導；之後每隔8週給予維持劑量300mg，可持續治療至第46週(總共使用靜脈輸注8劑，療效持續至54週)，作為緩解之維持。或第0、2週給予靜脈輸注300mg作為緩解之誘導；第6週開始給予皮下注射維持劑量108mg，之後每隔2週給予皮下注射維持劑量108mg，可持續治療至第52週 (總共使用靜脈注射2劑，皮下注射24劑，療效持續至54週)，作為緩解之維持。（106/10/1、112/8/1） (4)Ustekinumab：原則上，第0週給予靜脈輸注作為緩解之誘導（體重≤55kg使用260 mg;大於55kg至85kg使用390mg;>85kg者使用520mg）；之後每隔12週或每隔8週給予皮下注射維持劑量90mg，可持續治療至第44週或第48週(總共使用5劑或7劑，療效持續至56週)，作為緩解之維持。(109/9/1、113/11/1) (5)Risankizumab：原則上，第0、4、8週給予靜脈輸注600mg作為緩解之誘導；之後每隔8週給予皮下注射維持劑量360mg，可持續治療至第44週(總共8劑，使用靜脈注射3劑，皮下注射5劑，療效持續至52週)，作為緩解之維持。(113/9/1) 註：ustekinumab若使用維持劑量為90mg（含）以上，限使用90mg(1mL)規格量。(109/9/1) 6.須排除使用之情形 應參照藥物仿單，重要之排除使用狀況包括： (1)懷孕或正在授乳的婦女。 (2)罹患活動性感染症(active infection)之病患。 (3)未經完整治療之結核病的病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。(102/1/1) (4)惡性腫瘤或具有癌症前兆(pre-malignancy)之病患(但不包括已經接受過充分治療達10年以上的惡性腫瘤)。 (5)具高度感染機會之病患：慢性腿部潰瘍、導尿管置留、身上有引流管、人工關節感染，該人工關節尚未摘除者、頑固性或復發性之胸腔感染症病患。 (6)多發性硬化症(multiple sclerosis)。 7.須停止治療的情形 (1)療效不彰：療效評估未達繼續使用標準者。 (2)其他事項：包括 i惡性腫瘤 ii該藥物引起之嚴重毒性 (白血球過低、嚴重過敏) iii懷孕(暫時停藥即可) iv嚴重間發性感染(暫時停藥即可)。 ◎附表二十六之一：全民健康保險克隆氏症使用生物製劑申請表(106/5/1、106/10/1、108/10/1、109/9/1、112/8/1、113/7/1、113/9/1、113/10/1、113/11/1、114/8/1、114/9/1) ◎附表二十六之二：CDAI（Crohn’s disease activity index）"
   },
@@ -1963,13 +1963,13 @@ const drugData = [
   },
   {
     "code": "8.2.4.9.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Golimumab(如Simponi)、Adalimumab（如Humira）、Vedolizumab（如Entyvio）、infliximab（如Remicade）、tofacitinib(如Xeljanz)、ustekinumab(如Stelara)、upadacitinib(如Rinvoq) (105/9/1、105/10/1、106/10/1、107/8/1、108/10/1、111/3/1、111/6/1、112/8/1、113/7/1、113/11/1、114/8/1、114/9/1)：用於潰瘍性結腸炎治療部分",
     "rule": ""
   },
   {
     "code": "8.2.4.9.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Golimumab(如Simponi)、Adalimumab（如Humira）、Vedolizumab（如Entyvio）、infliximab（如Remicade）、tofacitinib(如Xeljanz) ustekinumab(如Stelara)、upadacitinib(如Rinvoq)(105/9/1、105/10/1、106/10/1、107/8/1、108/10/1、111/3/1、111/6/1、112/8/1、113/7/1、113/11/1、114/8/1、114/9/1)：成人治療部分",
     "rule": "1.限具有消化系專科證書者處方。 2.須經事前審查核准後使用。 3.須經診斷為成人潰瘍性結腸炎，並符合下列條件之一： (1)同時符合下列條件： Ⅰ.領有潰瘍性結腸炎重大傷病卡（直腸型排除）。 Ⅱ.經5-aminosalicylic acid藥物(如sulfasalazine、mesalamine或balsalazide)、類固醇、及免疫調節劑(如azathioprine或6-mercaptopurine)充分治療無效(須有病歷完整記載用藥史，連續治療達6個月以上)，或對5-aminosalicylic acid藥物、免疫調節劑產生嚴重藥物副作用。 Ⅲ.Mayo score ≧9分且Mayo Endoscopic subscore ≧2分(需檢附兩個月內之大腸鏡報告，內含可供辨識之彩色照片)。 (2)急性嚴重的潰瘍性結腸炎，同時符合下列四要件: Ⅰ.內視鏡下符合潰瘍性結腸炎。 Ⅱ.病理切片排除巨細胞病毒腸炎、阿米巴結腸炎、淋巴癌。 Ⅲ.糞便檢測排除困難梭狀桿菌感染。 Ⅳ.Mayo Score為12分，經類固醇全劑量靜脈注射(如methylprednisolone 40-60mg/day等)連續治療5天無效。 4.療效評估與繼續使用： (1)初次申請：golimumab以2週(使用2劑)、adalimumab以6週(使用4劑)、vedolizumab 6週(使用靜脈注射3劑為限)，或以2週(使用靜脈注射2劑為限)、infliximab以6週(使用靜脈注射3劑為限) ，或以2週(使用靜脈注射2劑為限)、tofacitinib以8週為限、upadacitinib以8週為限(且tofacitinib及upadacitinib限用於其他生物製劑治療失敗或無法耐受之中至重度活動性潰瘍性結腸炎病人，另使用前應排除有血栓風險之病患，且不建議與azathioprine與cyclosporine合併使用) 、ustekinumab以使用靜脈注射1劑為限，治療後達到臨床反應評估者(第一次續用評估採用partial Mayo score評估，相較於初次申請，partial Mayo score減少≧2分且血便項”rectal bleeding”減少≧1分以上。)，方得申請第一次繼續使用。誘導緩解失敗者，得提出申請轉換他類生物製劑，然同一療程不得合併使用。(105/10/1、106/10/1、107/8/1、108/10/1、111/3/1、111/6/1、112/8/1、114/8/1、114/9/1) (2)繼續使用者：第一次續用評估採Partial Mayo Score評估，最長24週需再續用評估一次。第二次續用評估，必須Mayo Score≦ 6分，且Mayo Endoscopic subscore≦ 1分方可再申請繼續使用。ustekinumab治療達到部分有效緩解者，經消化系專科醫師評估後，得申請繼續使用，以每隔8週給予皮下注射維持劑量90mg。Golimumab、adalimumab及tofacitinib繼續使用以24週2次為限。Ustekinumab繼續使用以24週2次或3次為限。Vedolizumab以24週(使用靜脈注射3劑)或16週(使用靜脈注射2劑) ，或第6週起，每24週(使用皮下注射12劑)。infliximab繼續使用以24週(使用靜脈注射3劑)或 16週(使用靜脈注射2劑)為限，或第6週起，每24週(使用皮下注射12劑)。Upadacitinib繼續使用以24週為限。（106/10/1、107/8/1、108/10/1、111/3/1、111/6/1、112/8/1、113/11/1、114/8/1、114/9/1） 5.劑量給予方式及總療程： (1) Golimumab： Ⅰ.最初第一劑200mg，兩週後第二劑100mg，作為緩解之誘導；有效患者之後每隔4週給予維持劑量50mg(體重大於80公斤病患，每隔4週100mg)，至多持續至50週(使用14劑)，作為緩解之維持。(106/10/1、108/10/1) Ⅱ.若使用劑量為100mg（含）以上，限使用100mg(1mL)規格量。 (2) Adalimumab：最初第一劑160mg，兩週後第二劑80mg，第四週之第三劑及第六週之第四劑40mg，作為緩解之誘導；之後每隔兩週給予維持劑量40mg，至多持續至54週(使用28劑)，作為緩解之維持。(105/10/1、106/10/1、108/10/1) (3)Vedolizumab：靜脈注射最初第一劑300mg，兩週後第二劑300mg，第六週之第三劑300mg，作為緩解之誘導；之後每隔八週給予維持劑量300mg，至多持續至46週(使用靜脈注射8劑)，或靜脈注射搭配皮下注射共治療52週，使用靜脈注射2劑誘導緩解，皮下注射24劑，作為緩解之維持。(106/10/1、108/10/1、112/8/1) (4) Infliximab：靜脈注射最初第一劑、兩週後之第二劑、第六週之第三劑給予5mg/kg，作為緩解之誘導；之後每隔八週給予維持劑量5mg/kg，至多持續至46週(使用8劑)，或靜脈注射搭配皮下注射共治療52週，使用靜脈注射2劑誘導緩解，皮下注射24劑，作為緩解之維持。(107/8/1、108/10/1、114/9/1) (5)Tofacitinib：口服使用每日兩次，最初8週每次10 mg，第9週開始可調整劑量為每日2次5 mg或每日1次11 mg (Tofacitinib XR)，至多持續至56週，作為緩解之維持。(使用前應排除有血栓風險之病患，且不建議與azathioprine與cyclosporine合併使用)。(111/3/1） (6)Ustekinumab：第0週給予靜脈輸注作為緩解之誘導（體重≤55kg使用260 mg;大於55kg至85kg使用390mg;>85kg者使用520mg）；於靜脈注射後的第8週開始給予第1劑皮下注射劑，之後每隔12週或8週給予皮下注射維持劑量90mg，至多持續治療至第44週或第48週(使用5劑或7劑)，作為緩解之維持。(111/6/1、113/11/1) 註：若ustekinumab使用維持劑量為90mg（含）以上，則限使用90mg(1mL)規格量。(111/6/1) (7)Upadacitinib：口服使用每日1次，最初8週每日45mg，限用45mg規格量品項，第9週開始可調整劑量為每日15 mg，至多持續至56週，作為緩解之維持。(114/8/1) 6.Golimumab治療50週(使用14劑)；adalimumab治療54週(使用28劑)；vedolizumab治療46週(使用靜脈注射8劑)，或第0、2週給予靜脈輸注300mg作為緩解之誘導；第6週開始給予皮下注射維持劑量108mg，之後每隔2週給予皮下注射維持劑量108mg，可持續治療至第52週 (總共使用靜脈注射2劑，皮下注射24劑，療效持續至54週)或infliximab治療46週(使用靜脈注射8劑)，或第0、2週給予靜脈輸注2劑作為緩解之誘導；第6週開始給予皮下注射維持劑量120mg，之後每隔2週給予皮下注射維持劑量120mg，可持續治療至第52週(總共使用靜脈注射2劑，皮下注射24劑，療效持續至54週)；tofacitinib治療56週後; ustekinumab治療44週使用5劑(共使用1劑靜脈注射及4劑皮下注射)或48週使用7劑(共使用1劑靜脈注射及6劑皮下注射)後；upadacitinib治療56週後，必須至少再間隔超過3個月後，若病情復發，依初次使用標準(其中經5-aminosalicylic acid藥物、類固醇、及/或免疫抑制劑充分治療，連續超過3個月)再次提出事前審查。連續2次於總療程結束後復發，且第2次復發於藥效終止後3個月內發生，則可持續使用；惟需每24週提出續用事前審查。必須Mayo score≦6分且Mayo endoscopic subscore≦1分，才可繼續使用。連續2年（4次評估）達到Mayo score≦2分，且Mayo endoscopic subscore ≦1，則應考慮停藥。(105/10/1、106/10/1、107/8/1、108/10/1、111/3/1、111/6/1、112/8/1、113/7/1、113/11/1、114/8/1、114/9/1) 7.須排除使用之情形： 應參照藥物仿單，重要之排除使用狀況包括： (1)懷孕或正在授乳的婦女。 (2)罹患活動性感染症(active infection)之病患。 (3)未經完整治療之結核病病患（包括潛伏結核感染治療未達四週者，申請時應檢附潛伏結核感染篩檢紀錄及治療紀錄供審查）。 (4)惡性腫瘤或具有癌症前兆(pre-malignancy)之病患(但不包括已經接受過充分治療達10年以上的惡性腫瘤)。 (5)具高度感染機會之病患：慢性腿部潰瘍、導尿管置留、身上有引流管、人工關節感染，該人工關節尚未摘除者、頑固性或復發性之胸腔感染症病患。 (6)多發性硬化症(multiple sclerosis)。 8.須停止治療的情形： (1)療效不彰：療效評估未達繼續使用標準者。 (2)其他事項包括： Ⅰ.惡性腫瘤。 Ⅱ.該藥物引起之嚴重毒性(白血球過低、嚴重過敏)。 Ⅲ.懷孕(暫時停藥即可)。 Ⅳ.嚴重間發性感染(暫時停藥即可)。 ◎附表二十六之五：全民健康保險潰瘍性結腸炎使用生物製劑申請表(113/7/1、114/8/1、114/9/1) ◎附表二十六之六：Mayo Score(113/7/1)"
   },
@@ -2023,7 +2023,7 @@ const drugData = [
   },
   {
     "code": "8.2.6.1.",
-    "category": "全身性賀爾蒙製劑 Systemic hormonal preparations",
+    "category": "免疫製劑 Immunologic agents",
     "name": "Interferon alpha-2a （如Roferon-A）及interferon alpha-2b（如Intron A）（92/10/1、109/7/1）; peginterferon alfa-2a（如Pegasys）（92/11/1-C肝、94/11/1-B肝、96/10/1、98/11/1、99/5/1-B肝、100/6/1-B肝、102/2/1、105/10/1、106/1/1、106/4/1、109/7/1、110/3/1、111/2/1、111/3/1)",
     "rule": "1.用於慢性病毒性B型或慢性病毒性C型肝炎患者之條件如下： (1)用於慢性病毒性B型肝炎患者 Ⅰ.HBsAg (+) 超過六個月及HBeAg (+) 超過三個月，且ALT值大於 (或等於) 正常值上限五倍以上 (ALT≧5X)，且無肝功能代償不全者。療程為12個月。（98/11/1、105/10/1） 註：肝代償不全條件為prothrombin time延長≧3秒或bilirubin (total)≧2.0mg/dL，prothrombin time延長係以該次檢驗control值為準。 Ⅱ. HBsAg (+) 超過六個月及HBeAg (+) 超過三個月，其ALT值介於正常值上限二至五倍之間 (2X≦ALT<5X)，且血清HBV DNA≧20,000 IU/mL或經由肝組織切片（血友病患及類血友病患經照會消化系專科醫師同意後，得不作切片）證實HBcAg陽性並有慢性肝炎變化，無D型或C型肝炎合併感染，且無肝功能代償不全者，可接受藥物治療，療程為12個月。（98/11/1、105/10/1） Ⅲ. HBsAg (+) 超過六個月及HBeAg (-) 超過三個月，且ALT值半年有兩次以上 (每次間隔三個月) 大於或等於正常值上限二倍以上 (ALT≧2X)，且血清HBV DNA≧2,000 IU/mL或經由肝組織切片（血友病患及類血友病患經照會消化系專科醫師同意後，得不作切片）證實HBcAg陽性，無D型或C型肝炎合併感染，且無肝功能代償不全之患者。療程為12個月。（98/11/1） IV.符合上述Ⅰ、Ⅱ、Ⅲ條件納入治療計畫且經完成治療後停藥者：經6個月觀察期，復發且符合上述Ⅰ、Ⅱ、Ⅲ條件者，無肝代償不全者，可使用interferon alpha-2a、interferon alpha-2b、peginterferon alfa-2a再治療（一個療程）；或以lamivudine 100mg、entecavir 0.5mg、telbivudine 600mg、tenofovir disoproxil或tenofovir alafenamide再治療。惟若有肝代償不全者則應儘速使用lamivudine 100mg、entecavir 1.0mg(每日限使用1粒)、telbivudine 600mg、tenofovir disoproxil或tenofovir alafenamide再治療。（98/11/1、99/5/1、100/6/1、102/2/1、106/1/1、110/3/1、111/3/1） V.符合10.7.3之1及3至4項條件納入治療計畫經完成治療後停藥者：經觀察3至6個月，復發且符合上述Ⅰ、Ⅱ、Ⅲ條件且無肝代償不全者，可使用interferon alpha-2a、interferon alpha-2b或peginterferon alfa-2a再治療（一個療程），或以lamivudine 100mg、entecavir 0.5mg、telbivudine 600mg、tenofovir disoproxil或tenofovir alafenamide再治療。惟若有肝代償不全者，則應儘速使用lamivudine 100mg、entecavir 1.0mg(每日限使用1粒)、telbivudine 600mg、tenofovir disoproxil或tenofovir alafenamide再治療。（98/11/1、100/6/1、102/2/1、106/1/1、110/3/1、111/3/1） Ⅵ.上述Ⅳ及Ⅴ停藥復發者再以口服抗病毒藥物治療之給付療程依HBeAg(+)或HBeAg(-)而定：HBeAg(+)病患治療至e抗原轉陰並再給付最多12個月；HBeAg(-)病患治療至少二年，治療期間需檢驗血清HBV DNA，並於檢驗血清HBV DNA連續三次，每次間隔6個月，均檢驗不出HBV DNA時停藥，每次療程至多給付36個月。再次復發時得再接受治療，不限治療次數。（106/1/1、106/4/1） (2)用於慢性病毒性C型肝炎治療時: Ⅰ.應與Ribavirin併用 Ⅱ.限ALT值異常者，且Anti-HCV 與HCV RNA均為陽性，或經由肝組織切片（血友病患及類血友病患經照會消化系專科醫師同意後，得不作切片）以METAVIR system證實輕度纖維化大於或等於F1及肝炎變化，且無肝功能代償不全者。（98/11/1） Ⅲ.療程依Viral Kinetics區分如下: （98/11/1） a、有RVR (rapid virological response, 快速病毒反應)者，給付治療不超過24週。 b、無RVR，但有EVR (early virologic response)者，給付治療48週。 c、到第12週未到EVR者，應中止治療，治療期間不超過16週。 d、第一次藥物治療24週後復發者，可以給予第二次治療，不超過48週。 ※復發的定義: 治療完成時，血中偵測不到病毒，停藥後血中病毒又再次偵測到。（98/11/1） (3)醫事服務機構及醫師資格：(109/7/1) Ⅰ.醫院： i.有消化系內科或消化系兒科專科醫師之醫院。 ii.醫師資格為前開醫院之消化系內科專科醫師、消化系兒科專科醫師、血液病專科醫師、腫瘤內科專科醫師、癌症相關科醫師及符合器官移植手術資格之專任或兼任專科醫師。 iii.前開非消化系專科醫師，需先照會消化系專科醫師，惟愛滋病毒感染患者併有B型或C肝炎感染者，得由其照護之感染症內科專科醫師開立處方。 Ⅱ.基層院所： i.須具有消化系內科或消化系兒科專任專科醫師之基層院所。 ii.肝炎治療醫療資源不足地區及山地離島地區，具有消化系內科或消化系兒科兼任專科醫師之基層院所，亦得開立處方，惟離島地區(如金門縣、連江縣、澎湖縣、台東縣蘭嶼鄉、台東縣綠島鄉)內科醫師之基層院所，亦得開立處方。 ◎附表三十四：肝炎治療醫療資源不足地區及山地離島地區一覽表 2.限用於下列癌瘤病患「限interferon alpha-2a（如Roferon-A）及interferon alpha-2b（如Intron A）」（93/4/1、97/8/1、111/2/1）: (1)Chronic myelogenous leukemia (2)Multiple myeloma (3)Hairy cell leukemia (4)Ｔ細胞淋巴瘤病例(限a-2A、2B type) (87/4/1)。 (5)卡波西氏肉瘤（Kaposi’s sarcoma）病例使用（87/4/1）。 (6)70歲以下，罹患中、晚期之低度非何杰金氏淋巴瘤(low grade non-Hodgkin’s lymphoma)，且具有高腫瘤負荷(high tumor burden)之病患。(89/1/1、111/2/1) (「高腫瘤負荷」定義：第三或第四期病患；或血清LDH > 350 IU/L；或腫塊大於十公分以上。) (7)限使用於晚期不能手術切除或轉移性腎細胞癌之病患(限a-2A type)（89/1/1） (8)kasabach-Merritt症候群。（93/4/1） (9)用於一般療法無法治療的Lymphangioma。（93/4/1、97/8/1）"
   },
@@ -2113,889 +2113,889 @@ const drugData = [
   },
   {
     "code": "9.1.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Aromatase Inhibitors",
     "rule": ""
   },
   {
     "code": "9.1.1.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Exemestane(如Aromasin Sugar Coated Tablets)",
     "rule": "1.限停經後或卵巢切除後，且女性荷爾蒙受體(estrogen receptor)陽性之晚期乳癌病患，經使用tamoxifen無效後，方可使用。 2.具有雌激素受體陽性之停經婦女，使用tamoxifen至少兩年之高危險早期侵犯性乳癌的輔助治療，且不得與tamoxifen或其他aromatase inhibitor併用。使用時需同時符合下列規定： (1)病歷上應詳細記載手術資料、病理報告(應包含ER、PR之檢測結果且無復發現象)。 (2)本案藥品使用不得超過三年。"
   },
   {
     "code": "9.1.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Anastrozole(如Arimidex)",
     "rule": "1.停經後雌激素接受器為陽性或不清楚之局部晚期或轉移性乳癌第一線治療。 2.停經後婦女晚期乳癌，雌激素接受器為陰性，但曾對tamoxifen有陽性反應者。 3.停經後婦女罹患早期侵犯性乳癌，經外科手術切除後且雌激素接受器為陽性，且有血栓栓塞症或子宮內膜異常增生的高危險群，而無法使用tamoxifen治療者。 備註：療程期間以不超過五年為原則。血栓栓塞症或子宮內膜異常增生的高危險群需符合下列情形之一： (1)有腦血管梗塞病史者。 (2)有靜脈血栓栓塞症病史者。 (3)有子宮異常出血病史，且「經陰道超音波檢查」判定為子宮內膜異常增生的高危險群。"
   },
   {
     "code": "9.1.3.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Letrozole",
     "rule": "1.接受抗動情激素治療失敗的自然或人工停經後之末期乳癌病人之治療、停經後之局部晚期或轉移性乳癌婦女患者之第一線治療用藥。 2.停經後且荷爾蒙接受體呈陽性，有淋巴結轉移之乳癌病人，作為tamoxifen治療五年後的延伸治療，且不得與其他aromatase inhibitor併用。使用時需同時符合下列規定： (1)手術後大於等於11年且無復發者不得使用。 (2)每日最大劑量2.5mg，使用不得超過四年。 3.停經後且荷爾蒙接受體呈陽性之早期乳癌病人，經外科手術切除後之輔助治療，且不得與tamoxifen或其他aromatase inhibitor併用。使用時需同時符合下列規定： (1)每日最大劑量2.5mg，使用不得超過五年； (2)若由tamoxifen轉換使用本品，則使用期限合計不得超過5年。 4.病歷上應詳細記載手術資料、病理報告(應包含ER、PR之檢測結果且無復發現象)及用藥紀錄(如tamoxifen使用五年證明)。"
   },
   {
     "code": "9.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Carboplatin(如Paraplatin；Carboplatin inj)",
     "rule": "限 1.卵巢癌患者。 2.腎功能不佳(CCr<60)或曾作單側或以上腎切除之惡性腫瘤患者使用。 3.與pembrolizumab及paclitaxel併用於轉移性鱗狀非小細胞肺癌的第一線治療，患者需符合免疫檢查點抑制劑之藥品給付規定。 4.與atezolizumab及etoposide併用，或與durvalumab及etoposide併用於擴散期(extensive stage)小細胞肺癌成人患者時，患者需符合免疫檢查點抑制劑之藥品給付規定。 5.與pembrolizumab及pemetrexed(限使用Pexeda、Apeta或Pemetrexed Sandoz)併用，或與atezolizumab及bevacizumab(限使用Alymsys、Avastin、Abevmy、Vegzelma或Mvasi)、paclitaxel併用，做為轉移性且不具有EGFR/ALK/ROS-1腫瘤基因異常的非鱗狀非小細胞肺癌的第一線治療，患者需符合免疫檢查點抑制劑之藥品給付規定。 6.與pembrolizumab及paclitaxel併用於早期三陰性乳癌(第II期至第IIIb期，cT1c N1-2或T2-4 N0-2)病人的術前前導性治療用藥，病人需符合免疫檢查點抑制劑之藥品給付規定。 7.與amivantamab 及pemetrexed 併用於罹患帶有表皮生長因子受體(EGFR) exon 20 插入突變之局部晚期或轉移性非小細胞肺癌(NSCLC)的成人病人，作為第一線治療。"
   },
   {
     "code": "9.3.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Docetaxel",
     "rule": "1.乳癌： (1)局部晚期或轉移性乳癌。 (2)與anthracycline合併使用於腋下淋巴結轉移之早期乳癌之術後輔助性化學治療。 (3)早期乳癌手術後，經診斷為三陰性反應且無淋巴轉移的病人，得作為與cyclophosphamide併用doxorubicin的化學輔助療法。(101/9/1） 2.非小細胞肺癌：局部晚期或轉移性非小細胞肺癌。 3.前列腺癌： (1)於荷爾蒙治療失敗之轉移性前列腺癌。 (2)與darolutamide併用於治療高風險轉移性的去勢敏感性前列腺癌(mCSPC)，患者需符合darolutamide之藥品給付規定。 4.頭頸癌：限局部晚期且無遠端轉移之頭頸部鱗狀細胞癌且無法手術切除者，與cisplatin及5-fluorouracil併用，作為放射治療前的引導治療，限使用4個療程。 5.胃腺癌：晚期胃腺癌患者，包括胃食道接合處之腺癌。"
   },
   {
     "code": "9.4.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Gemcitabine（如Gemzar）",
     "rule": "限用於 1.晚期或無法手術切除之非小細胞肺癌及胰臟癌病患。 2.晚期膀胱癌病患。 3.Gemcitabine與paclitaxel併用，可使用於曾經使用過anthracycline之局部復發且無法手術切除或轉移性之乳癌病患。 4.用於曾經使用含鉑類藥物(platinum-based)治療後復發且間隔至少6個月之卵巢癌，作為第二線治療。 5.無法手術切除或晚期或復發之膽道癌(含肝內膽管)病患。 6.與durvalumab及cisplatin併用於治療局部晚期或轉移性未接受治療或不可手術之膽道癌(biliary tract cancer)成人病人(壺腹癌除外)，患者需符合免疫檢查點抑制劑之藥品給付規定。（114/2/1) 7.與nivolumab及cisplatin併用於無法切除或轉移性泌尿道上皮癌成人病人的第一線治療，病人需符合免疫檢查點抑制劑之藥品給付規定，且至多6個療程。（115/2/1)"
   },
   {
     "code": "9.5.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Paclitaxel成分劑",
     "rule": ""
   },
   {
     "code": "9.5.1.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Paclitaxel成分注射劑",
     "rule": "限用於 1.晚期卵巢癌，作為第一線治療時需與cisplatin併用。 2.非小細胞肺癌，作為第一線用藥時需與cisplatin併用。 3.與pembrolizumab及carboplatin併用於轉移性鱗狀非小細胞肺癌的第一線治療，患者需符合免疫檢查點抑制劑之藥品給付規定。 4.已使用合併療法(除非有禁忌症、至少應包括使用anthracycline)失敗的轉移性乳癌患者。（91/4/1、94/1/1) 5.腋下淋巴轉移之乳癌且動情素受體為陰性之患者，paclitaxel可作為接續含doxorubicin在內之輔助化學治療。（91/4/1、94/1/1、98/8/1) 6.卡波西氏肉瘤第二線用藥。 7.與pembrolizumab及carboplatin併用於早期三陰性乳癌(第II期至第IIIb期，cT1c N1-2 或 T2-4 N0-2)病人的術前前導性治療用藥，病人需符合免疫檢查點抑制劑之藥品給付規定。 8.與atezolizumab及bevacizumab(限使用Alymsys、Avastin、Abevmy、Vegzelma或Mvasi)、carboplatin併用於轉移性非鱗狀非小細胞肺癌第一線治療，患者需符合免疫檢查點抑制劑之藥品給付規定。"
   },
   {
     "code": "9.5.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Albumin-based paclitaxel（如Abraxane）",
     "rule": "限併用gemcitabine，做為轉移性胰腺癌患者之第一線治療。"
   },
   {
     "code": "9.6.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Streptococcus pyrogene(如Picibanil)",
     "rule": "限惡性腫瘤患者患有惡性腹水，肋膜積水或心包膜積水時使用，需檢附病歷摘要。"
   },
   {
     "code": "9.7.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "（刪除）",
     "rule": ""
   },
   {
     "code": "9.8.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Toremifene（如Fareston）",
     "rule": "限用於停經後，且女性荷爾蒙接受體(estrogen receptor)為陽性之轉移性乳癌病患。"
   },
   {
     "code": "9.9.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Vinorelbine",
     "rule": "1.限用於： (1)晚期或無法手術切除之非小細胞肺癌及轉移性乳癌病患。 (2)病理分期第二期及第三期前半(stageII & stageIIIA)非小細胞肺癌於接受根治性手術後與鉑金類藥品併用之輔助治療，最多可使用4療程。 2.本成分之口服劑型與注射劑型不得併用。"
   },
   {
     "code": "9.10.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Oxaliplatin：（需符合藥品許可證登載之適應症）",
-    "rule": "1.和5-FU和folinic acid併用 (1)治療轉移性結腸直腸癌，惟若再加用irinotecan (如Campto)則不予給付。 (2)作為第三期結腸癌(Dukes C) 原發腫瘤完全切除手術後的輔助療法。 2.與fluoropyrimidine類藥物(如capecitabine、5-FU、UFUR，但不包含TS-1)併用，可用於局部晚期及復發/轉移性胃癌之治療。(須依藥品許可證登載之適應症使用)。(98/2/1、98/3/1、98/7/1、102/9/1、102/12/1、109/12/1） 3.與5-fluorouracil、leucovorin及irinotecan併用(FOLFIRINOX)，作為轉移性胰臟癌之第一線治療。 4.與nivolumab及fluoropyrimidine（5-FU或capecitabine）併用於第一線治療晚期或轉移性且不具有HER2過度表現的胃癌病人，病人需符合免疫檢查點抑制劑之藥品給付規定。 5.與nivolumab及fluoropyrimidine併用於無法接受化學放射性治療或手術切除等治癒性治療之晚期或轉移性食道鱗狀細胞癌成人病人的第一線治療，病人需符合免疫檢查點抑制劑之藥品給付規定。"
+    "rule": "1.和5-FU和folinic acid併用 (1)治療轉移性結腸直腸癌，惟若再加用irinotecan (如Campto)則不予給付。 (2)作為第三期結腸癌(Duke`s C) 原發腫瘤完全切除手術後的輔助療法。 2.與fluoropyrimidine類藥物(如capecitabine、5-FU、UFUR，但不包含TS-1)併用，可用於局部晚期及復發/轉移性胃癌之治療。(須依藥品許可證登載之適應症使用)。(98/2/1、98/3/1、98/7/1、102/9/1、102/12/1、109/12/1） 3.與5-fluorouracil、leucovorin及irinotecan併用(FOLFIRINOX)，作為轉移性胰臟癌之第一線治療。 4.與nivolumab及fluoropyrimidine（5-FU或capecitabine）併用於第一線治療晚期或轉移性且不具有HER2過度表現的胃癌病人，病人需符合免疫檢查點抑制劑之藥品給付規定。 5.與nivolumab及fluoropyrimidine併用於無法接受化學放射性治療或手術切除等治癒性治療之晚期或轉移性食道鱗狀細胞癌成人病人的第一線治療，病人需符合免疫檢查點抑制劑之藥品給付規定。"
   },
   {
     "code": "9.11.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Uracil-Tegafur：(如Ufur)",
     "rule": "1.限轉移性胃癌、轉移性直腸癌、轉移性結腸癌、轉移性乳癌之病患使用。 2.頭頸部鱗狀上皮癌。 3.與cisplatin併用治療轉移及末期肺癌。 4.直腸癌、結腸癌第Ⅱ、Ⅲ期患者之術後輔助性治療，且使用期限不得超過2年 5.用於病理分期為T2且腫瘤≧3cm之肺腺癌病人，作為手術後輔助治療，使用期限以二年為限。"
   },
   {
     "code": "9.12.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Irinotecan",
     "rule": ""
   },
   {
     "code": "9.12.1.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Irinotecan(如Campto injection)：（需符合藥品許可證登載之適應症）",
     "rule": "1.限轉移性大腸直腸癌之第一線治療藥物: (1)與5-FU及folinic acid合併，使用於未曾接受過化學治療之患者。 (2)單獨使用於曾接受5-FU療程治療無效之患者。 2.與5-fluorouracil、leucovorin及oxaliplatin併用(FOLFIRINOX)，做為轉移性胰臟癌之第一線治療(限用Irino、Irinotel、Campto、Irinotecan Injection Concentrate、Irican、Innocan、Irinotecan Injection)。"
   },
   {
     "code": "9.12.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Irinotecan微脂體注射劑(如Onivyde)",
     "rule": "1.與5-FU及leucovorin合併使用於曾接受過gemcitabine治療後復發或惡化之轉移性胰腺癌。 2.與oxaliplatin、5-FU和leucovorin併用，作為轉移性胰腺癌成人病人第一線治療。 3.需經事前審查核准後使用。"
   },
   {
     "code": "9.13.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Aldesleukin(如Proleukin for Injection)",
     "rule": "限轉移性腎細胞癌及惡性黑色素癌病患使用。"
   },
   {
     "code": "9.14.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Doxorubicin hydrochloride liposome injection(如Lipo-Dox、Caelyx)",
     "rule": "限用於下列適應症: 1.用於治療曾接受第一線含platinum及paclitaxel化學治療而失敗者或再復發之進行性或轉移性卵巢癌病人。 2.用於治療CD4數量低下（<200 CD4 lymphocyte/mm3）和粘膜、皮膚或內臟有病變的AIDS related Kaposi’s Sarcoma的病人。 3.用於單一治療有心臟疾病風險考量之轉移性乳癌患者。"
   },
   {
     "code": "9.15.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Tretinoin（如Vesanoid Soft Gelatin）",
     "rule": "限急性前髓性白血病使用。"
   },
   {
     "code": "9.16.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Topotecan（如Hycamtin）",
     "rule": ""
   },
   {
     "code": "9.16.1.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Topotecan注射劑",
     "rule": "1.限卵巢癌及小細胞肺癌之第二線化學治療（第一線治療應包括白金化合物）。 2.與cisplatin併用適用於治療經組織學檢查確定患有第IV-B期復發性或持續性子宮頸癌，且不適合以外科手術及（或）放射療法進行治療的患者。"
   },
   {
     "code": "9.16.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Topotecan口服劑型",
     "rule": "限用於小細胞肺癌之第二線化學治療（第一線治療應包括白金化合物）。"
   },
   {
     "code": "9.17.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Capecitabine（如Xeloda）",
     "rule": "1.Capecitabine與docetaxel併用於治療對anthracycline化學治療無效之局部晚期或轉移性乳癌病患。 2.用於局部晚期或轉移性乳癌，需符合下列條件之一： (1)Capecitabine單獨用於無法接受anthracycline治療者。 (2)Capecitabine合併ixabepilone用於對taxane有抗藥性且無法接受anthracycline治療者。 (3)Capecitabine單獨或合併ixabepilone用於對taxane及anthracycline治療無效者。 3.治療轉移性結腸直腸癌的第一線用藥。 4.第三期結腸癌患者手術後的輔助性療法，以八個療程為限。 5.Capecitabine合併platinum可使用於晚期胃癌之第一線治療。 6.與nivolumab及oxaliplatin併用於第一線治療晚期或轉移性且不具有HER2過度表現的胃癌病人，病人需符合免疫檢查點抑制劑之藥品給付規定。"
   },
   {
     "code": "9.18.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Trastuzumab (如Herceptin)",
     "rule": "1.早期乳癌 (1)外科手術前後、化學療法(術前輔助治療或輔助治療)治療後，具HER2過度表現(IHC3+或FISH+)，且具腋下淋巴結轉移但無遠處臟器轉移之早期乳癌患者，作為輔助性治療用藥：。 I.外科手術後達病理上緩解(pCR)，下列i.~iii.使用於外科手術前後之總療程合併計算，依藥品仿單記載以18個療程為上限： i.本藥品 ii.pertuzumab與trastuzumab併用 iii.pertuzumab與trastuzumab皮下注射複方製劑(如Phesgo) Ⅱ.若外科手術後無法達病理上緩解(non-pCR)，本藥品與trastuzumab emtansine使用於外科手術前後的總療程合併計算，依藥品仿單記載以全部18個療程為上限，其中trastuzumab emtansine以14個療程為上限。 (2)外科手術前後、化學療法(術前輔助治療或輔助治療)治療後，符合下列所有條件之早期乳癌患者： Ⅰ.HER2過度表現(IHC 3+或FISH+)。 Ⅱ.雌激素受體（ER)為陰性。 Ⅲ.腫瘤大於2公分。須經乳房超音波或乳房X光攝影或核磁共振診斷。 Ⅳ.且未發生腋下淋巴結轉移之早期乳癌患者，作為輔助性治療用藥。 Ⅴ.依下列條件之一使用： i.外科手術後達病理上緩解(pCR)，本藥品使用於外科手術前後以9個療程為上限。 ii.若外科手術後無法達病理上緩解(non-pCR)，本藥品與trastuzumab emtansine使用於外科手術前後的總療程合併計算，以全部18個療程為上限，其中trastuzumab emtansine以14個療程為上限。 2.轉移性乳癌 (1)單獨使用於治療腫瘤細胞上有HER2過度表現(IHC3+或FISH+)，曾接受過一次以上化學治療之轉移性乳癌病人。 (2)與paclitaxel或docetaxel併用，使用於未曾接受過化學治療之轉移性乳癌病患，且為HER2過度表現(IHC3+或FISH+)者。 (3)轉移性乳癌且HER2過度表現之病人，僅限先前未使用過本藥品者方可使用。 (4)若先前使用過docetaxel及pertuzumab與trastuzumab併用或docetaxel及pertuzumab與trastuzumab皮下注射複方製劑(如Phesgo)併用達18個月上限仍未惡化者，得再次申請本藥品。 3.轉移性胃癌(限IV 劑型"
   },
   {
     "code": "9.19.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Estramustine sod. phosphate monohydrate(如Estracyt)",
     "rule": "限晚期前列腺癌病患且符合下列條件之一者使用： 1.經荷爾蒙治療無效。 2.經診斷對單獨使用荷爾蒙治療，具有預後療效不佳因素的初次治療病患。"
   },
   {
     "code": "9.20.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Rituximab注射劑(如Mabthera，不同劑型之適用範圍需符合藥品許可證登載之適應症)：用於抗癌瘤部分",
     "rule": "1.復發或對化學療效有抗性之低惡度B細胞非何杰金氏淋巴瘤。 2.併用polatuzumab vedotin或CHOP或其他化學療法，用於CD20抗原陽性之B瀰漫性大細胞非何杰金氏淋巴瘤之病患。 3.併用CVP化學療法，用於未經治療之和緩性（組織型態為濾泡型）B細胞非何杰金氏淋巴瘤的病人。 4.作為濾泡性淋巴瘤患者於接受含rituximab誘導化學治療後產生反應(達partial remission或complete remission)之病患，若在接受含rituximab誘導化學治療前有下列情形之一者，得接受rituximab維持治療，限用八劑，每三個月使用一劑，最多不超過二年。 (1)有單一腫瘤直徑超過7公分者； (2)有超過三顆腫瘤直徑超過3公分者； (3)脾臟腫大，其長度超過16公分者； (4)對vitalorgans造成擠壓者； (5)周邊血中出現淋巴球增生超過5000/mm3者； (6)出現任一系列血球低下者(platelet<100,000/mm3，或Hb<10gm/dL，或absolute neutrophil count<1500/mm3)。 5.慢性淋巴球性白血病： (1)Rai Stage Ⅲ/Ⅳ(或Binet C級)之CLL病人。若用於Rai StageⅠ/Ⅱ(或Binet A/B級)併有疾病相關免疫性症候(如自體免疫性溶血、免疫性血小板低下紫瘢症等)的病人時，需經過至少一種標準的烷化基劑治療無效或病情惡化者，且CD20陽性細胞須大於50%。（Rixathon不受「需經過一種標準的烷化基劑治療無效或病情惡化，且CD20陽性細胞須大於50%」限制，僅須符合具CD20陽性細胞即可使用，做為第一線用藥需與fludarabine及cyclophosphamide併用） (2)與化學療法併用，做為復發或頑固性的CD20陽性慢性淋巴球性白血病病患的治療用藥，且CD20陽性細胞須大於50%。（Rixathon不受「CD20陽性細胞須大於50%」限制，僅須符合具CD20陽性細胞即可使用） (3)初次申請最多六個（月）療程，再次申請以三個療程為限。 6.與類固醇併用，治療嗜中性白血球細胞質抗體(ANCA)陽性之肉芽腫性血管炎及顯微多發性血管炎病人： (1)需經事前審查核准後使用，診斷需有病理報告確定及血清學檢驗結果。 (2)初次發作之肉芽腫性血管炎及顯微多發性血"
   },
   {
     "code": "9.21.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Fludarabine(如Fludara Oral, Film-Coated Tablet及Fludara Lyophilized IV Injection)",
     "rule": "1.用於B-細胞慢性淋巴性白血病（CLL）病患的起始治療及CLL與低惡性度B細胞非何杰金氏淋巴瘤(Indolent B-Cell NHL)病患，歷經至少一種標準內容的烷化基藥劑（alkylating agent）的治療方法都無效，或治療後雖有效但隨後疾病又繼續惡化的病人。 2.以本品作為第一線治療，限用於。 (1)Rai Stage Ⅲ/IV(或Binet C級)之CLL病人。若用於Rai Stage I/II(或Binet A/B級)併有疾病相關免疫性症候(如自體免疫性溶血、免疫性血小板低下紫瘢症等)的病人時，需經過至少一種標準的烷化基劑治療無效或病情惡化者。 (2)每3個療程需進行療效評估，病歷應留存評估紀錄，無疾病惡化方可繼續使用。"
   },
   {
     "code": "9.22.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Imatinib(如Glivec)：附表九之八",
     "rule": "限用於 1.治療正值急性轉化期(blast crisis)、加速期或經ALPHA-干擾素治療無效之慢性期的慢性骨髓性白血病(CML)患者使用。 2.用於治療初期診斷為慢性骨髓性白血病（CML）的病人。 3.惡性胃腸道基質瘤(GIST)： (1)治療成年人無法手術切除或轉移的惡性胃腸道基質瘤。 (2)作為成人胃腸道基質瘤完全切除後之術後輔助治療，符合下列一項條件可使用3年，須事前審查核准後使用。 A.腫瘤大於10公分。 B.有絲分裂指數>10/50 HPF(high power field)。 C.腫瘤大於5公分且有絲分裂指數>5/50 HPF(high power field)。 D.腫瘤破裂。 4.治療初診斷為費城染色體陽性急性淋巴性白血病（Ph+ALL)且併用化療之成年人。 5.未曾使用imatinib治療之成人復發性或難治性費城染色體陽性急性淋巴性白血病(Ph+ALL)之單一療法。 6.下列適應症患者必須在第一線的藥物如hydroxyurea; corticosteroid等無效後，經事前審查核准才可使用，且每6個月需重新申請審查。 (1)治療患有與血小板衍生生長因子受體（PDGFR)基因重組相關之骨髓發育不全症候群(MDS)/骨髓增生性疾病(MPD)之成人。 (2)治療嗜伊紅性白血球增加症候群(HES)與/或慢性嗜伊紅性白血病(CEL)且有血小板衍生生長因子受體(PDGFR)基因重組之成人患者，且存在器官侵犯証據者。 7.治療患有無法手術切除、復發性或轉移性且有血小板衍生生長因子受體(PDGFR)基因重組之隆突性皮膚纖維肉瘤(DFSP)之成人患者。 8.1~7項規定內之疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。"
   },
   {
     "code": "9.23.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Arsenic trioxide(如Asadin Inj.)",
     "rule": "限用於急性前骨髓細胞白血病患者。"
   },
   {
     "code": "9.24.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Gefitinib(如Iressa):(93/11/1、96/8/1、96/11/1、100/6/1、101/5/1、101/10/1、103/5/1、106/11/1、 108/6/1、108/11/1、109/4/1、109/6/1、109/10/1、111/2/1、111/4/1、113/3/1、113/6/1、113/10/1)",
     "rule": "1.限單獨使用於 (1)具有EGFR-TK基因突變之局部侵犯性或轉移性(即第ⅢB、ⅢC或第Ⅳ期)之肺腺癌病患之第一線治療，需檢附EGFR基因檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)先前已使用過第一線含鉑化學治療，或70歲以上接受過第一線化學治療，但仍局部惡化或轉移之肺腺癌。 2.使用注意事項(106/11/1、109/4/1、109/10/1、111/4/1、113/3/1） (1)用於第一線用藥：病歷應留存確實患有肺腺癌之病理或細胞檢查報告，及EGFR-TK基因突變檢測報告。 (2)用於第二線以上用藥：病歷應留存確實患有肺腺癌之病理或細胞檢查報告，並附曾經接受第一線含鉑化學治療，或70歲(含)以上接受過第一線化學治療之證明，及目前又有疾病惡化之影像診斷證明（如胸部X光、電腦斷層或其他可作為評估的影像），此影像證明以可測量（measurable）的病灶為優先，如沒有可以測量的病灶，則可評估（evaluable）的病灶亦可採用。 (3)每次處方以4週為限，再次處方時需於病歷記錄治療後相關臨床資料，如每4週需追蹤胸部X光或電腦斷層等影像檢查，每8至12週需進行完整療效評估（如胸部X光或電腦斷層）。 (4)本藥品與erlotinib及afatinib不得併用。 (5)本藥品於第一線使用時，與osimertinib、dacomitinib及bevacizumab併用erlotinib之治療組合僅得擇一使用，除因耐受性不良，不得互換。 Ⅰ.如需更換使用osimertinib，必須符合osimertinib第一線使用於具有EGFR Exon 19 Del或Exon 21 L858R基因突變之局部侵犯性或轉移性（即為IIIB、IIIC期或第Ⅳ期）肺腺癌病患之限制。 Ⅱ.如需更換使用dacomitinib，必須符合dacomitinib第一線使用於具有EGFR-TK Exon 19 Del或Exon 21 L858R點突變，且無腦轉移(non-CNS)之局部侵犯性或轉移性肺腺癌之限制。(109/10/1） Ⅲ.如需更換使用bevacizumab併用erlotinib之治療組合，必須符合bevacizumab第一線使用於具有EGFR Exon 21 L858R突變且腦轉移之無法手術切除的轉移性（第Ⅳ期）非鱗狀非小細胞肺癌肺腺癌之限制。"
   },
   {
     "code": "9.25.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Temozolomide(如Temodal)：附表八之二",
     "rule": "限用於 1.經手術或放射線治療後復發之下列病人： (1)退行性星狀細胞瘤(AA-anaplastic astrocytoma) (2)多形神經膠母細胞瘤(GBM-Glioblastoma multiforme) (3)退行性寡樹突膠質細胞瘤(anaplastic oligodendroglioma) 2.新診斷的多形神經膠母細胞瘤，與放射線治療同步進行，然後作為輔助性治療。 3.需經事前審查核准後使用，每日最大劑量200mg/m2。每次申請事前審查之療程以三個月為限，再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。"
   },
   {
     "code": "9.26.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Pemetrexed(如Alimta)",
     "rule": "1.限用於 (1)與cisplatin併用於惡性肋膜間質細胞瘤。 (2)以含鉑之化學療法治療或70歲以上接受過第一線化學治療，但仍失敗之局部晚期或轉移性非小細胞肺癌病患(顯著鱗狀細胞組織型除外)之單一藥物治療。 (3)與含鉑類之化學療法併用，作為治療局部晚期或轉移性非小細胞肺癌(顯著鱗狀細胞組織型除外)之第一線化療用藥，且限用於ECOG為0~1之病患。 (4)pemetrexed(限使用Pexeda、Apeta或Pemetrexed Sandoz)與pembrolizumab與含鉑類之化學療法併用於轉移性，不具有EGFR/ALK/ROS-1腫瘤基因異常的非鱗狀非小細胞肺癌的第一線治療，患者需符合免疫檢查點抑制劑之藥品給付規定。 (5)與amivantamab及carboplatin併用於罹患帶有表皮生長因子受體(EGFR) exon 20插入突變之局部晚期或轉移性非小細胞肺癌(NSCLC)的成人病人，作為第一線治療。 2.每4個療程需進行療效評估，病歷應留存評估紀錄，無疾病惡化方可繼續使用。"
   },
   {
     "code": "9.27.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Cetuximab(如Erbitux)",
     "rule": "1.直腸結腸癌治療部分： (1)與FOLFIRI（Folinic acid/ 5-fluorouracil/irinotecan）或FOLFOX（Folinic acid/ 5-fluorouracil/oxaliplatin）合併使用於治療RAS原生型(wild-type)之轉移性直腸結腸癌病人之第一線治療。需檢附All-RAS基因突變分析檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 Ⅰ.本藥品須經事前審查核准後使用，每次申請之療程以18週為限，再次申請必須提出客觀證據(如：影像學)證實無惡化，才可繼續使用。 Ⅱ.Cetuximab與panitumumab二者僅能擇一使用。  Ⅲ.本藥品不得與bevacizumab併用。 Ⅳ.經手術完全切除(R0切除)且查無轉移病灶者不得申請給付。 (2)與irinotecan合併使用，治療已接受過含5-fluorouracil、irinotecan及oxaliplatin二線以上之細胞毒性治療失敗、具有表皮生長因子受體(EGFR)表現型且K-RAS基因沒有突變的轉移性直腸結腸癌的病人，且於115年1月31日前經審核同意用藥，後續評估符合續用申請條件者。需檢附All-RAS基因突變分析檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 Ⅰ.本藥品須經事前審查核准後使用，每次申請之療程以9週為限，再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。 Ⅱ.使用總療程18週為上限。 2.口咽癌、下咽癌及喉癌治療部分： (1)限與放射線療法合併使用於局部晚期之口咽癌、下咽癌及喉癌病人，且符合下列條件之一： Ⅰ.70歲以上； Ⅱ.Ccr＜50mL/min； Ⅲ.聽力障礙者(聽力障礙定義為500Hz、1000Hz、2000Hz平均聽力損失大於25分貝)； Ⅳ.無法耐受platinum-based化學治療。 (2)須經事前審查核准後使用，每位病人每12週申請一次，需無疾病惡化情形方得繼續使用。 3.頭頸癌部分： (1)限無法接受局部治療之復發及/或轉移性頭頸部鱗狀細胞癌，且未曾申報cetuximab之病人使用。 (2)須經事前審查核准後使用，每位病人每12週申請一次，需無疾病惡化情形方得繼續使用。"
   },
   {
     "code": "9.28.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Bortezomib（如Velcade）：附表九之三",
     "rule": "限用於 1.合併其他癌症治療藥品使用於多發性骨髓瘤病人： (1)每人終生以16個療程為上限。(99/9/1、109/4/1、109/6/1、111/1/1、112/4/1） (2)需經事前申請後使用，每次申請4個療程。 (3)開始治療時病患須同時符合下列Ⅰ.與Ⅱ.的條件： Ⅰ.骨髓漿細胞(plasma cells)比例≧10%，或是經切片確認且有≧1顆的plasmacytoma。 Ⅱ.出現下列任一臨床症狀： ⅰ.腎功能不全：serum creatinine＞2.0mg/dL或estimated GFR (eGFR)＜40 ml/min，且無其他原因可以解釋。 ⅱ.高血鈣(corrected serum calcium＞11.0 mg/dL 或 2.75 mmol/L)。 iii.貧血(Hemoglobin＜10 gm/dL且無其他原因可以解釋)。 iv.影像檢查確認之osteolytic bone lesion(s)。 v.骨髓漿細胞(plasma cells)比例≧60%。 vi.Serum free light-chain ratio≧100。 (4)使用4個療程後，必須確定藥物使用後paraprotein (M-protein)未上升 (即表示為response或stable status)，或對部分non-secretory type MM病人以骨髓檢查plasma cell之比率為療效依據，方可繼續使用。 (5)若病患於前線療程符合前項規定(4)之療效而醫師決定可暫時停藥，則後續療程可保留，於疾病復發時，再行申請使用。 (6)112年3月31日以前已核定用藥之病人，得經事前審查核准後，使用至總療程上限（即終生16個療程）或使用期間發生疾病惡化為止。 2.被套細胞淋巴瘤（Mantle Cell Lymphoma, MCL）病人： (1)每人以8個療程為上限。 (2)每日最大劑量1.5mg/m2/day；每個療程第1,4,8,11日給藥。 (3)第一線使用過復發者，不得申請再次使用。 (4)需經事前審查核准後使用。 9.29.Erlotinib（如Tarceva）： 1.限單獨使用於 (1)適用於具有EGFR-TK突變之局部侵犯性或轉移性(即第ⅢB、ⅢC或第Ⅳ期)之肺腺癌病患之第一線治療，需檢附EGFR基因檢測結果報告，且需符合全民健康保險藥品給付規定之通則十"
   },
   {
     "code": "9.29.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Erlotinib（如Tarceva）",
     "rule": "1.限單獨使用於 (1)適用於具有EGFR-TK突變之局部侵犯性或轉移性(即第ⅢB、ⅢC或第Ⅳ期)之肺腺癌病患之第一線治療，需檢附EGFR基因檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。(102/11/1、108/6/1、108/11/1、113/6/1） (2)已接受4個週期platinum類第一線化學療法後，腫瘤範圍穩定(stable disease，不含partial response或complete response)之局部晚期或轉移性肺腺癌的維持療法。(102/4/1) (3)先前已使用過platinum類第一線化學治療，或70歲以上接受過第一線化學治療，但仍局部惡化或轉移之腺性非小細胞肺癌之第二線用藥。（97/6/1、111/2/1） (4)先前已使用過platinum類及docetaxel或paclitaxel化學治療後，但仍局部惡化或轉移之非小細胞肺癌之第三線用藥。 2.Erlotinib與bevacizumab(除Zirabev以外)併用，作為無法手術切除的轉移性（第Ⅳ期）且帶有表皮生長因子受體(EGFR) Exon 21 L858R活性化突變之腦轉移非鱗狀非小細胞肺癌病患的第一線治療。(113/3/1、113/9/1、114/3/1、114/4/1） 3.使用注意事項(106/11/1、109/4/1、109/10/1、111/4/1） (1)用於已接受platinum類第一線化學療法後，病情穩定之維持療法：病歷應留存確實患有肺腺癌之病理或細胞檢查報告，並附已接受4個週期platinum類第一線化學療法後，腫瘤範圍穩定(stable disease，不含partial response或complete response)之影像診斷證明（如胸部X光、電腦斷層或其他可作為評估的影像）。(102/4/1、106/11/1) (2)用於第二線用藥：病歷應留存確實患有非小細胞肺癌之病理或細胞檢查報告，並附曾經接受platinum類第一線化學治療，或70歲(含)以上接受過第一線化學治療之證明，及目前又有疾病惡化之影像診斷證明（如胸部X光、電腦斷層或其他可作為評估的影像），此影像證明以可測量（measurable）的病灶為優先，如沒有可以測量的病灶，則可評估（evaluable）的病灶亦可採用。（97/6/1、106/11/1） (3)用於第三線用藥：病歷應留存確實患有非小細胞肺癌之病理或細胞檢查報告，並附曾經接受第一線及第二線化學藥物如platinum(cisplatin或carboplatin)與taxane(paclitaxel或docetaxel)治療之證明，及目前又有疾病惡化之影像診斷證明（如胸部X光、電腦斷層或其他可作為評估的影像），此影像證明以可測量（measurable）的病灶為優先，如沒有可以測量的病灶，則可評估（evaluable）的病灶亦可採用。（97/6/1、106/11/1） (4)每次處方以4週為限，再次處方時需於病歷記錄治療後相關臨床資料，如每4週需追蹤胸部X光或電腦斷層等影像檢查，每8至12週需進行完整療效評估（如胸部X光或電腦斷層）。(101/5/1、106/11/1) (5)本藥品與gefitinib及afatinib不得併用。(103/5/1、109/4/1) (6)本藥品於第一線使用時，與osimertinib及dacomitinib僅得擇一使用，除因耐受性不良，不得互換。(109/6/1、109/10/1、111/4/1、113/10/1) Ⅰ.如需更換使用osimertinib，必須符合osimertinib第一線使用於具有EGFR Exon 19 Del或Exon 21 L858R基因突變之局部侵犯性或轉移性（即為IIIB、IIIC期或第Ⅳ期）肺腺癌病患之限制。(109/6/1、111/4/1、113/10/1) Ⅱ.如需更換使用dacomitinib，必須符合dacomitinib第一線使用於具有EGFR-TK Exon 19 Del或Exon 21 L858R點突變，且無腦轉移(non-CNS)之局部侵犯性或轉移性肺腺癌之限制。(109/10/1） 備註1：非小細胞肺癌病患的第二線治療用藥之定義為：病患需先經第一線含鉑化學治療，或70歲(含)以上接受過第一線化學治療後，因疾病惡化，此時所給予之治療即為第二線用藥。（97/6/1） 備註2：非小細胞肺癌病患的第三線治療用藥之定義為：病患需先經第一線化學藥物治療後，因疾病惡化，再經第二線不同的化學藥物治療之後，若疾病再度惡化，此時所給予之治療即為第三線用藥。"
   },
   {
     "code": "9.30.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Dasatinib(如Sprycel)",
     "rule": "限用於 1.第一線使用： (1)治療新診斷的費城染色體陽性之慢性期慢性骨髓性白血病的成人。 (2)併用化療適用於新診斷費城染色體陽性急性淋巴性白血病(Ph+ ALL)之1歲以上兒童病人，無疾病惡化時的維持治療限使用2年。 2.第二線使用： (1)治療患有慢性、加速或急性期慢性骨髓性白血病，對先前經imatinib 400mg(含)以上治療後有抗藥性或無耐受性的成人。 (2)治療患有費城染色體陽性急性淋巴性白血病，且對先前經imatinib 400mg(含)以上治療後有抗藥性或無耐受性的成人。 (3)需檢送病歷及對imatinib耐受性不良或無效的證明。 3.治療患有慢性期費城染色體陽性慢性骨髓性白血病(Ph+ CML) 之1歲以上的兒童病人。 4.1~3項規定內之疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。 5.Dasatinib、nilotinib與bosutinib不得合併使用。"
   },
   {
     "code": "9.31.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Sunitinib（如Sutent）",
     "rule": "1.腸胃道間質腫瘤： (1)限用於以imatinib治療期間出現疾病惡化或對該藥出現不能忍受之腸胃道間質腫瘤。 (2)若使用本藥品出現疾病惡化或無法忍受其副作用，不得替換使用imatinib治療。 (3)需經事前審查核准後使用，送審時須檢送病歷及對imatinib耐受性不良或無效之證明。 2.晚期腎細胞癌： (1)可用於第一線治療晚期或轉移性腎細胞癌。 (2)無效後則不給付temsirolimus。 (3)需檢送影像資料，每三個月評估一次。 (4)病人若對藥物產生耐受性不佳（intolerance），則以原來藥物減量為原則，若嚴重耐受性不佳，可以換其他TKI。 3.進展性，無法切除或轉移性分化良好之胰臟神經內分泌腫瘤的成人病患，須同時符合下列條件：(101/5/1） (1)符合WHO 2010分類方式之G1 or G2胰臟神經內分泌瘤。 (2)於一年內影像檢查證實有明顯惡化者。 (3)不可合併使用化學治療或相關標靶藥物。 (4)經事前專案審查核准後使用，且需每3個月評估一次。"
   },
   {
     "code": "9.32.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Nilotinib：（98/6/1、99/1/1、101/7/1、113/6/1、115/2/1）附表九之六",
     "rule": ""
   },
   {
     "code": "9.32.1.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Nilotinib 200mg(如Tasigna 200mg)",
     "rule": "1. 限用於治療對imatinib 400MG(含)以上耐受性不良或治療無效的「慢性期或加速期費城染色體(Philadelphia chromosome)陽性的慢性骨髓性白血病(CML)成年患者」。 2.必須檢附耐受性不良或治療無效的證明。 3.Nilotinib、dasatinib與bosutinib不得合併使用。（98/6/1、99/1/1、104/12/1、115/2/1) 4.1~2項規定內之疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。"
   },
   {
     "code": "9.32.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Nilotinib 150mg(如Tasigna 150mg)",
     "rule": "1.限用於新確診之慢性期費城染色體陽性的慢性骨髓性白血病。 2.疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。"
   },
   {
     "code": "9.33.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Thalidomide（如Thado）",
     "rule": "治療新診斷多發性骨髓瘤。使用時須和prednisolone及oral melphalan併用，或和骨髓移植併用，或和palmidronate併用於骨髓移植後之治療。"
   },
   {
     "code": "9.34.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Sorafenib(如Nexavar)",
     "rule": "1.晚期腎細胞癌部分： (1)晚期腎細胞癌且已接受interferon-alpha或interleukin-2治療失敗，或不適合以上兩種藥物治療之病患。不適合以上兩種藥物治療之病患，須符合cytokine禁忌症者得直接使用sorafenib。但須列舉出所符合之禁忌症及檢附相關證明。 (2)無效後則不給付temsirolimus。 (3)需檢送影像資料，每3個月評估一次。 2.晚期肝細胞癌部分： (1)轉移性或無法手術切除且不適合局部治療或局部治療失敗之Child-Pugh A class晚期肝細胞癌成人患者，並符合下列條件之一： Ⅰ.肝外轉移（遠端轉移或肝外淋巴結侵犯）。 Ⅱ.大血管侵犯（腫瘤侵犯主門靜脈或侵犯左/右靜脈第一或第二分支） III.經導管動脈化學藥物栓塞治療（Transcatheter arterial chemo embolization,T.A.C.E.）失敗者，需提供患者於12個月內>=3次局部治療之記錄。 (2)需經事前審查核准後使用，初次申請之療程以3個月為限，之後每3個月評估一次。送審時需檢送影像資料，無疾病惡化方可繼續使用。 (3)每日至多處方4粒。 (4)Sorafenib、lenvatinib、atezolizumab併用bevacizumab、tremelimumab併用durvalumab僅得擇一給付，不得互換。 3.用於放射性碘治療無效之局部晚期或轉移性的進行性(progressive)分化型甲狀腺癌(RAI-RDTC)： (1)放射性碘治療無效之局部晚期或轉移性的進行性(progressive)分化型甲狀腺癌。 (2)需經事前審查核准後使用，每次申請之療程以3個月為限，送審時需檢送影像資料，每3個月評估一次。 (3)Sorafenib與lenvatinib不得合併使用。"
   },
   {
     "code": "9.35.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "carmustine植入劑(如Gliadel Wafer)：附表八之四",
     "rule": "1.作為復發性多形神經膠母細胞瘤病人的手術輔助，且不得與temozolomide併用。 2.需經事前審查核准後使用。"
   },
   {
     "code": "9.36.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Everolimus：（100/2/1、102/1/1）附表九之九",
     "rule": ""
   },
   {
     "code": "9.36.1.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Everolimus 5mg及10mg(如Afinitor 5mg及10mg)",
     "rule": "1.治療經VEGF-targeted療法無效後之晚期腎細胞癌患者。 2.使用於胰臟神經內分泌腫瘤成人病患，需同時符合下列條件： (1)無法切除或轉移的成人胰臟內分泌腫瘤，其分化程度為良好或中度，或WHO 2010年分類為G1、G2者。 (2)為進展性腫瘤，即過去12個月影像檢查為持續惡化者（RECIST定義為疾病惡化者）。 (3)不可合併使用化學藥物或其他標靶藥物。 (4)除因病人使用本品後，發生嚴重不良反應或耐受不良之情形外，本品與sunitinib不得轉換使用。 3.使用於無法切除、局部晚期或轉移之胃腸道或肺部來源之非功能性神經內分泌腫瘤成人病患，需同時符合下列條件： (1)腫瘤分化程度為良好者。 (2)為進展性腫瘤，即過去12個月影像檢查為持續惡化者（RECIST定義為疾病惡化者）。 (3)不可合併使用化學藥物或其他標靶藥物。 4.與exemestane併用，作為先前已使用過非類固醇類之芳香環酶抑制劑治療無效，而未曾使用exemestane之荷爾蒙接受體陽性、HER2受體陰性且尚未出現器官轉移危急症狀 (visceral crisis)之轉移性乳癌病人的治療。本品與tucidinostat僅得擇一使用，除因耐受性不良，不得互換；且使用本品無效後，不得申請 CDK4/6 抑制劑藥品 5.除晚期腎細胞癌之外，其他疾病需經事前審查核准後使用，每次申請之療程以3個月為限。初次申請時需檢送病理報告及影像報告，之後每3個月申請一次，再次申請時需檢附影像資料及前次治療結果評估資料證實無惡化，才可繼續使用。 6.限每日最大劑量為10mg。"
   },
   {
     "code": "9.36.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Everolimus 2.5mg及5mg(如Votubia)",
     "rule": "1.治療患有結節性硬化症(tuberous sclerosis)之腦室管膜下巨細胞星狀瘤(SEGA: subependymal giant cell astrocytoma)： (1)限併有水腦症狀或其他顯著神經學症狀，且經神經外科專科醫師評估不適合接受或無法以外科切除手術的患者使用。 (2)需經事前審查核准後使用，每次申請之療程以6個月為限，申請時需檢送影像檢查資料。 (3)申請續用時，除需檢送治療前後之影像資料，且再經神經外科專科醫師評估，其仍不適合接受或無法以外科切除手術者，始得續用。 (4)用藥後，若病情無法持續改善或疾病已惡化，則不予同意使用。 2.結節性硬化症併有腎血管肌脂肪瘤之成年病患，且需符合以下條件： (1)限18歲以上病人，其腎血管肌脂肪瘤最長直徑已達4cm(含)以上且仍有持續進展之證據，且曾有發生臨床上有意義之出血或確認病灶有血管瘤(aneurysm)直徑≥5mm者，病灶不只一處，且經腎臟或泌尿專科醫師評估無法以外科手術或動脈栓塞治療，或經動脈栓塞治療或外科手術後無效或復發者。 (2)需經事前審查核准後使用，每次申請之療程以6個月為限，申請時需檢送影像檢查(CT或MRI)資料。 (3)使用後需每24週評估一次，申請續用時，除檢送治療前之影像資料，需檢送治療後(第24週、48週、72週…等)之影像檢查資料，若腫瘤總體積較治療前降低30%(含)以上，且無新增直徑1公分以上的腫瘤或grade2(含)以上腫瘤出血併發症，始得申請續用。(註：腫瘤出血併發症分級(grading)定義依Common Terminology Criteria for Adverse Events(CTCAE), version4.0.) (4)限每日最大劑量為10mg。"
   },
   {
     "code": "9.37.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Bevacizumab(如Avastin)",
     "rule": "1.轉移性大腸或直腸癌： (1)Bevacizumab與FOLFIRI（Folinicacid/5-fluorouracil/irinotecan）或FOLFOX（Folinicacid/5-fluorouracil/oxaliplatin）或5-fluorouracil/leucovorin的化學療法合併使用，作為轉移性大腸或直腸癌患者的第一線治療。 Ⅰ.使用總療程以36週為上限。 Ⅱ.須經事前審查核准後使用，每次申請事前審查之療程以18週為限，再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。 Ⅲ.本藥品不得與cetuximab、panitumumab併用。 (2)Bevacizumab(除Zirabev及Abevmy以外)與含有5-fluorouracil/leucovorin/oxaliplatin的化學療法合併使用，作為先前接受過以 fluoropyrimidine為基礎的化學療法併用cetuximab或panitumumab無效且未曾接受過bevacizumab治療，RAS基因沒有突變的轉移性大腸或直腸癌病人的第二線治療。 Ⅰ.需檢附依全民健康保險醫療服務給付項目及支付標準伴隨式診斷編號30104B規定之認證實驗室檢驗之All-RAS基因突變分析檢測報告。 Ⅱ.使用總療程以24週為上限。 Ⅲ.須經事前審查核准後使用，每次申請事前審查之療程以12週為限，再次申請必須提出客觀證據（如：RECIST criteria）證實無惡化，才可繼續使用。 Ⅳ.使用劑量：限5mg/kg，每兩週一次。 2.惡性神經膠質瘤(WHO第4級)-神經膠母細胞瘤： (1)單獨使用可用於治療曾接受標準放射線治療且含temozolomide在內之化學藥物治療失敗之多型性神經膠母細胞瘤(Glioblastoma multiforme)復發之成人患者。 (2)須經事前審查核准後使用，每次申請事前審查之療程以12週為限，再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。 3.卵巢上皮細胞、輸卵管或原發性腹膜癌： (1)Bevacizumab（除Zirabev以外）與carboplatin 及paclitaxel合併使用，接著單獨使用bevacizumab（除Zirabev以外）治療，作為第四期卵巢上皮細胞、輸卵管或原發性腹膜癌病人接受初次手術切除後之第一線治療之維持"
   },
   {
     "code": "9.38.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Temsirolimus(如Torisel)：附表九之十一",
     "rule": "1.需經事前審查核准後使用，每次給付3個月藥量，送審時需檢送影像資料，每3個月評估一次。 (1)治療不限細胞型的高風險晚期腎細胞癌。 (2)需具有下列六個風險因子中至少3個以上因子： I.距離初次診斷出腎細胞癌之時間未達一年 II. Karnofsky Performance scale介於60至70之間 III.血色素低於正常值12gm/dL IV.矯正後血鈣值超過10mg/dL V. 乳酸脫氫酶(lactate dehydrogenase)超過1.5倍正常值上限 VI.超過一個以上的器官有轉移病灶。 (3)無效後則不給付其他酪胺酸激酶阻斷劑TKI。 2.病人若對藥物產生耐受性不佳（intolerance），則以原來藥物減量為原則，若嚴重耐受性不佳，可以換其他酪胺酸激酶阻斷劑（tyrosine kinase inhibitor, TKI）。"
   },
   {
     "code": "9.39.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Flutamide；buserelin",
     "rule": "1.晚期（包括T3、淋巴腺轉移、器官轉移）之腫瘤。 2.攝護腺癌病人接受根除性攝護腺切除手術治療後，PSA逐漸升高有局部復發或遠處轉移之情況。 3.癌症臨床期別為T2、T3，準備接受根除性攝護腺切除手術治療或其他定效治療，包括irradiation之前為求tumor volume reduction，作為neoadjuvant治療之目的。"
   },
   {
     "code": "9.40.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Bicalutamide",
     "rule": "限用於與LHRH類似劑療法或手術去勢療法併用於進展性攝護腺癌。"
   },
   {
     "code": "9.41.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Pazopanib（如Votrient）：附表九之十三",
     "rule": "1.腎細胞癌： (1)可用於第一線治療晚期或轉移性腎細胞癌，其病理上為亮細胞癌(clear cell renal carcinoma)。 (2)本品使用無效後，不得申請使用temsirolimus。 (3)需檢送影像資料，每三個月評估一次。 (4)病人若對藥物產生耐受性不佳（intolerance），則以原來藥物減量為原則，若嚴重耐受性不佳，可以換其他TKI。 2.軟組織肉瘤： (1)用於治療先前曾接受化療失敗的晚期軟組織肉瘤(STS)患者。其病情若能接受手術治療者，須先經手術治療。 (2)須排除胃腸道基質瘤、脂肪惡性肉瘤、橫紋肌惡性肉瘤、軟骨惡性肉瘤、骨性惡性肉瘤、依文氏(Ewing’s sarcoma)惡性肉瘤、原發性神經外胚層腫瘤(primitive neuroectodermal tumor)或突起性表皮纖維惡性腫瘤(dermatofibrosarcoma protuberance)的患者。 (3)須經事前審查核准後使用，每次申請療程以三個月為限，每三個月需再次申請。(須檢附影像學報告)"
   },
   {
     "code": "9.42.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Bendamustine（如Innomustine）",
     "rule": "1.以本品作為第一線治療，限用於Binet C級之慢性淋巴性白血病病人(CLL)或Binet B級併有免疫性症候(如自體免疫性溶血、免疫性血小板低下紫瘢症等)相關疾病之CLL病人。 2.用於B-細胞慢性淋巴性白血病（CLL）病患Binet B及C之第二線治療，在經歷至少一種標準內容的烷化基藥劑（alkylating agent）治療方法無效，或治療後雖有效但隨後疾病又繼續惡化進展的病人。 3.曾接受至少一種化療之和緩性非何杰金氏淋巴瘤，六個月內曾以rituximab治療失敗之單一治療。 4.合併rituximab適用於先前未曾接受治療的CD20陽性、第III/IV期和緩性非何杰金氏淋巴瘤。 5.合併rituximab用於先前未曾接受治療且不適合自體幹細胞移植的第III/IV期被套細胞淋巴瘤。 6.可與polatuzumab vedotin和rituximab併用，適用於第三線治療復發型(relapsed)或難治型(refractory)且未曾接受及不適合接受造血幹細胞移植的瀰漫性大型B細胞淋巴瘤（DLBCL）成年病人，患者需符合polatuzumab vedotin之藥品給付規定。 7.不得與fludarabine合併使用。 8.須經事前審查核准後使用，每次申請最多六個（月）療程；若為依前述第6項與polatuzumab vedotin和rituximab併用時，每次申請最多3個療程，且最多給付6個療程。。"
   },
   {
     "code": "9.43.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Lenalidomide(如Revlimid)",
     "rule": "1.多發性骨髓瘤： (1)先前尚未接受過任何治療且不適用造血幹細胞移植的多發性骨髓瘤患者可使用lenalidomide併用dexamethasone作為第一線治療。開始治療時病患須同時符合下列I與Ⅱ的條件： Ⅰ.骨髓漿細胞(plasma cells)比例≧10%，或是經切片確認且有≧1顆的plasmacytoma。 Ⅱ.出現下列任一臨床症狀： ⅰ.腎功能不全：serum creatinine＞2.0mg/dL或estimated GFR (eGFR)＜40 ml/min，且無其他原因可以解釋。 ⅱ.高血鈣(corrected serum calcium＞11.0 mg/dL或2.75 mmol/L)。 ⅲ.貧血(Hemoglobin＜10 gm/dL 且無其他原因可以解釋)。 ⅳ.影像檢查確認之osteolytic bone lesion(s)。 ⅴ.骨髓漿細胞(plasma cells)比例≧60% ⅵ.Serum free light-chain ratio≧100。 Ⅲ.每4個療程重新申請時，須重新評估是否適合接受造血幹細胞移植。若經重新評估為已適合接受造血幹細胞移植者，即須停止Rd之治療。 (2)與dexamethasone合併使用於先前已接受至少一種治療失敗之多發性骨髓瘤患者，且需同時符合下列I與Ⅱ的條件： Ⅰ.具有下列任一疾病惡化的指標： 病患開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 ⅲ.在non-secretary myeloma 病患，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 ⅳ.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 ⅴ.Plasmacytoma體積增加≧50%。 ⅵ.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2"
   },
   {
     "code": "9.44.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Azacitidine",
     "rule": ""
   },
   {
     "code": "9.44.1.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Azacitidine 注射劑（如Vidaza）",
     "rule": "1.骨髓增生不良症候群高危險性病患：頑固性貧血併有過量芽細胞（RA with excess blasts, RAEB）、轉變中的頑固性貧血併有過量芽細胞（RAEB in transformation, RAEB-T）、及慢性骨髓單核細胞性白血病（chronic myelomonocytic leukemia, CMMoL）。 (1)初次申請時需經事前審查核准後使用，續用不需再事前審查，惟病歷應留存確診之病理或影像診斷證明等報告(包括每4個月一次骨髓檢查報告以及CBC/DC報告)，並記錄治療相關臨床資料(如每4個月一次臨床療效評估摘要)。 (2)使用本藥品之病患，倘疾病惡化至骨髓芽細胞（myeloblast）大於30%即停藥。 (3)不得併用venetoclax或轉換為口服劑型之azacitidine成分藥品。 (4)本藥品與decitabine僅能擇一使用，除因耐受性不良，不得互換。若因無法耐受 decitabine而轉換至本藥品時需事前申請。使用本藥品無效後，不得再申請decitabine。 2.Azacitidine(除Winduza及Azacitidine Lyophilized Inj 100mg\"GBC\"以外)併用venetoclax，使用於無法接受高強度化學治療之初診斷急性骨髓性白血病(AML)病人。 (1)需具有下列I.或Ⅱ.的條件之一： I.75歲以上。 Ⅱ.18歲以上但未滿75歲時，需ECOG performance status為 2 或 3，且符合下列任一條件者： ⅰ.具有心臟衰竭治療病史，且left ventricle ejection fraction (LVEF)＜50%。 ⅱ.具慢性肺部疾病史，且 DLCO＜65%。 ⅲ.具肝功能異常：Bilirubin level 在1.5-3.0倍正常值間。 (2)需未曾因骨髓化生不良症候群(myelodysplastic syndrome, MDS)接受過azacitidine或decitabine治療者。 (3)需經事前審查核准後使用，每2個療程需再次申請；再次申請時需檢附療效評估資料，若病情惡化應即停止使用。 (4)最多給付6個療程。"
   },
   {
     "code": "9.44.2.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Azacitidine 口服製劑（如Onureg）",
     "rule": "1. 用於不適合接受造血幹細胞移植(HSCT)之急性骨髓性白血病 (AML)成人病人，作為維持治療，且須同時符合下列條件： (1)55歲以上具中度或高度不良風險染色體核型變化(intermediate-risk or poor-risk cytogenetics)之急性骨髓性白血病 (AML)病人。 (2)在誘導治療後(不論是否接受鞏固治療)，首次達到完全緩解(CR)或完全緩解但血球計數未完全恢復正常 (CRi)。 (3)之前未曾接受azacitidine或decitabine藥物治療。 2. 需經事前審查核准後使用，初次申請為3個療程，需檢附染色體檢測結果報告；每3個療程需再次申請，可治療至疾病復發 (定義為周邊血或骨髓觀察到的芽細胞超過5%或新出現髓外侵犯)或無法耐受藥物毒性為止。 3. 每人以24個療程為上限。 4. 不得與midostaurin、venetoclax及gilteritinib等標靶藥品併用。 5. 病人接受本藥物治療後，不再給付造血幹細胞移植。 6.本藥品與quizartinib僅得擇一使用，除因耐受性不良，不得互換。"
   },
   {
     "code": "9.45.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Afatinib（如Giotrif）",
     "rule": "1.限單獨使用於： (1)具有EGFR-TK基因突變之局部晚期或轉移性(即第ⅢB、ⅢC期或第Ⅳ期)之肺腺癌病患之第一線治療，需檢附EGFR基因檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)先前已使用過第一線含鉑化學治療，但仍惡化的局部晚期或轉移性之鱗狀組織非小細胞肺癌之第二線治療。 2.使用注意事項(106/11/1、108/6/1、109/4/1、109/10/1、111/4/1、113/3/1） (1)用於具有EGFR-TK基因突變之局部晚期或轉移性肺腺癌之第一線治療：病歷應留存確實患有肺腺癌之病理或細胞檢查報告，及EGFR-TK基因突變檢測報告。 (2)用於局部晚期或轉移性之鱗狀組織非小細胞肺癌之第二線治療：病歷應留存曾經接受含鉑類化學治療之證明，及目前又有疾病惡化之影像診斷證明(如胸部X光、電腦斷層或其他可作為評估的影像)，此影像證明以可測量(measurable)的病灶為優先，如沒有可以測量的病灶，則可評估(evaluable)的病灶亦可採用。 (3)每次處方以4週為限，再次處方時需於病歷記錄治療後相關臨床資料，如每4週需追蹤胸部X光或電腦斷層等影像檢查，每8至12週需進行完整療效評估（如胸部X光或電腦斷層）。(106/11/1） (4)使用本藥品後，除因耐受性不良，否則不得轉換類似藥理機轉之其他酪胺酸激酶阻斷劑（tyrosine kinase inhibitor, TKI）。 (5)本藥品與gefitinib及erlotinib不得併用。 (6)本藥品於第一線使用時，與osimertinib、dacomitinib及bevacizumab併用erlotinib之治療組合僅得擇一使用，除因耐受性不良，不得互換。 Ⅰ.如需更換使用osimertinib，必須符合osimertinib第一線使用於具有EGFR Exon 19 Del或Exon 21 L858R基因突變之局部侵犯性或轉移性（即為IIIB、IIIC期或第Ⅳ期）肺腺癌病患之限制。 Ⅱ.如需更換使用dacomitinib，必須符合dacomitinib第一線使用於具有EGFR-TK Exon 19 Del或Exon 21 L858R點突變，且無腦轉移(non-CNS)之局部侵犯性或轉移性肺腺癌之限制。(109/10/1） Ⅲ.如需更換使用bevacizumab併用erlotinib"
   },
   {
     "code": "9.46.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Tegafur/gimeracil/oteracil複方製劑(如TS-1）",
     "rule": "1.治療局部晚期無法手術切除或轉移性胰臟癌病人。 2.胃癌 (1)胃癌術後輔助性化療，用於罹患TNMS tageⅡ(排除T1)、ⅢA或ⅢB胃癌且接受過胃癌根除性手術的成年患者，限用1年。 (2)需經事前審查核准後使用。 3.非小細胞肺癌 (1)曾使用含鉑之化學藥物治療失敗的局部晚期或轉移性之非小細胞肺癌。 (2)不得與標靶治療、其他化療或免疫檢查點抑制劑併用。 4.與gemcitabine合併使用作為晚期或復發之膽道癌第一線治療。"
   },
   {
     "code": "9.47.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Lapatinib（如Tykerb）",
     "rule": "1.與capecitabine併用，使用於曾接受anthracycline, taxane以及trastuzumab治療後病況惡化之轉移性乳癌併有腦部轉移，且為HER2過度表現(IHC3+或FISH+)病人。 2.每3個月需進行療效評估，病歷應留存評估紀錄，無疾病惡化方可繼續使用。 3.Lapatinib、trastuzumab emtansine和trastuzumab deruxtecan僅能擇一給付，不得互換。"
   },
   {
     "code": "9.48.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Eribulin（如Halaven）",
     "rule": "1.轉移性乳癌： (1)用於治療轉移性乳癌患者且先前曾接受過anthracycline和taxane兩種針對轉移性乳癌之化學治療輔助性治療。 (2)每3個療程需進行療效評估，病歷應留存評估紀錄，無疾病惡化方可繼續使用。 (3)Eribulin與ixabepilone用於治療上述之轉移性乳癌患者時，僅得擇一使用，且不得互換（eribulin限用於未曾使用過ixabepilone之病患）。 2.脂肪肉瘤： (1)限單獨使用於治療無法手術切除或轉移性脂肪肉瘤成人患者，且先前應至少接受一次含anthracycline之全身化療。 (2)須經事前審查核准後使用，每次申請以3個療程為限，再次申請時應檢附前次治療結果評估資料證實無惡化，才可繼續使用。"
   },
   {
     "code": "9.49.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Abiraterone(如Zytiga）",
     "rule": "1.與雄性素去除療法及prednisone或prednisolone併用，治療新診斷高風險轉移性的去勢敏感性前列腺癌(mCSPC)的成年男性(ECOG分數須≦1)。高風險需符合下列三項條件中至少兩項：(109/5/1、110/2/1、113/8/1） (1)葛里森分數(Gleason score)≧8； (2)骨骼掃描出現三個(含)以上病灶且至少其中一處以上為非脊柱及非骨盆腔轉移；(109/5/1、113/8/1） (3)出現內臟轉移。 2.與prednisone或prednisolone併用，治療藥物或手術去勢抗性的轉移性前列腺癌(mCRPC)，且在雄性素去除療法失敗後屬無症狀或輕度症狀(ECOG分數0或1)，未曾接受化學治療者： (1)若病患先前接受雄性素去除療法時，在小於12個月的時間內演化成去勢抗性前列腺癌(CRPC)，且葛里森分數(Gleason score)≧8時，不得於使用化學治療前使用abiraterone。 (2)申請時需另檢附： I.用藥紀錄(證明未常規使用止痛藥物，屬無症狀或輕度症狀)。 II.三個月內影像報告證明無臟器轉移。 3.與prednisone或prednisolone併用，治療藥物或手術去勢抗性的轉移性前列腺癌(ECOG分數須≦2)且已使用過docetaxel 2個療程以上治療無效者。 4.與olaparib及prednisone或prednisolone，用於具germline或 somatic BRCA 1/2致病性或疑似致病性突變之成人病人，患者需符合olaparib藥品給付規定。 5.前述1、2、3項須經事前審查核准後使用，每3個月需再次申請。 (1)申請時需檢附病理報告、使用雄性素去除療法紀錄及系列PSA和睪固酮數據。 (2)再申請時若PSA值下降未超過治療前的50%以上，則需停藥。 (3)下降達最低值後之持續追蹤出現PSA較最低值上升50%以上且PSA≧2ng/ml，則需停藥，但影像學證據尚無疾病進展者，可以繼續使用。 (4)用於治療新診斷高風險轉移性的去勢敏感性前列腺癌(mCSPC)的成年男性，總療程以36個月為上限（惟Ateron總療程以24個月為上限）。(109/5/1、110/2/1、113/8/1、113/9/1） (5)去勢抗性前列腺癌(CRPC)病患若於化學治療前先使用過abiraterone，當化學治療失"
   },
   {
     "code": "9.50.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Crizotinib (如Xalkori)",
     "rule": "- 適用於ALK陽性之晚期非小細胞肺癌第一線治療，且於113年9月1日前經審核同意用藥，後續評估符合續用申請條件者。 - 單獨使用於ROS-1陽性之晚期非小細胞肺癌患者。 - 須經事前審查核准後使用: - 每次申請事前審查之療程以三個月為限，每三個月需再次申請。 - 初次申請時需檢具確實患有非小細胞肺癌之病理或細胞檢查報告，及ALK突變檢測報告，或ROS-1突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。  - 再次申請時需附上治療後相關臨床資料，如給藥4週後，需追蹤胸部X光或電腦斷層等影像檢查評估療效，往後每4週做胸部X光檢查，每3個月需追蹤其作為評估藥效的影像(如胸部X光或電腦斷層)，若病情惡化即不得再次申請。 - Crizotinib與ceritinib、alectinib、brigatinib、lorlatinib用於ALK陽性之晚期非小細胞肺癌第一線治療時，僅得擇一使用，除因病人使用後，發生嚴重不良反應或耐受不良之情形外，不得互換。 - Crizotinib與entrectinib用於ROS-1陽性之晚期非小細胞肺癌時，僅得擇一使用，除因病人使用後，發生嚴重不良反應或耐受不良之情形外，不得互換。 - 每日最大劑量限500mg。"
   },
   {
     "code": "9.51.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Regorafenib（如Stivarga）",
     "rule": "1.轉移性大腸直腸癌(mCRC)： (1)用於治療先前曾接受下列療法的轉移性大腸直腸癌(mCRC)患者，療法包括fluoropyrimidine、oxaliplatin、irinotecan為基礎的化療，和抗血管內皮生長因子(anti-VEGF)等療法；若K-ras為原生型(wild type)，則需再加上接受過抗表皮生長因子受體(anti-EGFR)療法。需檢附All-RAS基因突變分析檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)須經事前審查核准後使用，每次申請事前審查之療程以8週為限，再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。 2.胃腸道間質瘤(GIST) (105/8/1） (1)先前曾接受imatinib與sunitinib治療的局部晚期、無法切除或轉移性的胃腸道間質瘤患者。 (2)需經事前審查核准後使用，每次申請之療程以3個月為限，送審時需檢送影像資料，每3個月評估一次。 3.肝細胞癌(HCC)： (1)適用於曾接受sorafenib治療失敗後之轉移性或無法手術切除且不適合局部治療或局部治療失敗之Child-Pugh A class晚期肝細胞癌成人患者。 (2)需經事前審查核准後使用，初次申請之療程以12週為限，之後每8週評估一次。送審時需檢送影像資料，無疾病惡化方可繼續使用。 (3)每日至多處方4粒。 (4)Regorafenib與ramucirumab、nivolumab僅能擇一使用，不得互換。"
   },
   {
     "code": "9.52.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Vemurafenib(如Zelboraf)",
     "rule": "1.用於治療BRAF V600突變陽性ECOG≤2且罹患無法切除(第ⅢC期)或轉移性(第Ⅳ期)黑色素瘤之病人。需檢附BRAF V600基因突變分析檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 2.需經事前審查核准後使用，每次申請療程以三個月為限，如發現病情惡化應停止使用。再申請應檢附前次治療結果評估資料。 3.本品與dabrafenib (併用trametinib) 僅能擇一使用，除因耐受性不良，不得互換。(110/3/1）"
   },
   {
     "code": "9.53.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Panitumumab（如Vectibix）",
     "rule": "1. 與FOLFOX（folinicacid/ 5-fluorouracil/oxaliplatin）或FOLFIRI（folinic acid/ 5-fluorouracil/irinotecan）合併使用於治療RAS原生型(wild-type)之轉移性直腸結腸癌病人之第一線治療。需檢附All-RAS基因突變分析檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 (1)本藥品須經事前審查核准後使用，每次申請之療程以18週為限，再次申請必須提出客觀證據(如：影像學)證實無惡化，才可繼續使用。 (2)Panitumumab與cetuximab二者僅能擇一使用。  (3)本藥品不得與bevacizumab併用。 (4)經手術完全切除(R0切除)且查無轉移病灶者不得申請給付。 2.治療已接受過含 5 fluorouracil 、 irinotecan 及oxaliplatin二線以上之細胞毒性治療失敗、RAS原生型(wild-type)的轉移性直腸結腸癌的病人。需檢附All-RAS基因突變分析檢測報告，且需符合全民健康保險藥品給付規定之通則十二。  (1)病人先前未曾接受過抗表皮生長因子受體(anti-EGFR)藥品治療。 (2)本藥品須經事前審查核准後使用，每次申請之療程以9週為限，再次申請必須提出客觀證據(如：影像學)證實無惡化，才可繼續使用。 (3)使用總療程以 18 週為上限。"
   },
   {
     "code": "9.54.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Enzalutamide（如Xtandi）",
     "rule": "1.治療高風險非轉移性去勢抗性前列腺癌(high risk nmCRPC)的成年男性。 (1)須經事前審查核准後使用。 (2)初次申請時需檢附病理報告、使用雄性素去除療法紀錄，系列PSA和睪固酮數據，三個月內影像報告證明無遠端轉移。 (3)ECOG分數須≦1。 (4)PSA doubling time≦10個月，PSA倍增之時間，應依線性回歸模型計算，且其參數取得需基於下列原則： Ⅰ.至少三個連續PSA測量值，且各測量值皆≧0.2 ng/mL（最高的PSA值必須>1.0ng/ml）。 Ⅱ.應包含先前ADT治療期間的測量值，且最少一測量值為最近3個月內測得之PSA數值。 Ⅲ.第一個和最後一個PSA測量值間隔需≧8週，但≦12個月。 (5)每3個月需再次申請，申請之療程以3個月為限。再次申請時，有 PSA progression 者，需檢附影像學報告，若影像學報告證實轉移，則需停藥;無PSA progression 者，則每6個月需檢附影像學報告，若影像學報告證實轉移，則需停藥。 註： PSA progression 定義為:PSA下降達最低值(nadir)後，出現 PSA 值上升較 nadir≧25%，且PSA≧2 ng/mL，並於至少3週後，再次抽血確認PSA值有上升趨勢。 2.治療高風險轉移性的去勢敏感性前列腺癌(mCSPC)，且與雄性素去除療法併用，總療程以36個月為上限。高風險需符合下列三項條件中至少兩項： (1)葛里森分數(Gleason score)≧8。 (2)骨骼掃描出現三個(含)以上病灶且至少其中一處以上為非脊柱及非骨盆腔轉移。 (3)出現內臟轉移。 3.治療藥物或手術去勢抗性的轉移性前列腺癌(mCRPC)，且在雄性素去除療法失敗後屬無症狀或輕度症狀(ECOG分數0或1)，未曾接受化學治療者： (1)若病患先前接受雄性素去除療法時，在小於12個月的時間內演化成去勢抗性前列腺癌(CRPC)，且葛里森分數(Gleason score)≧8時，不得於使用化學治療前使用enzalutamide。 (2)申請時需另檢附： I.用藥紀錄(證明未常規使用止痛藥物，屬無症狀或輕度症狀)。 II.三個月內影像報告證明無臟器轉移。 4.治療藥物或手術去勢抗性的轉移性前列腺癌(ECOG分數須≦2)且已使用過docetaxel 2個療程以上治療無效者。 5.前述2、3、4項"
   },
   {
     "code": "9.55.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ruxolitinib(如Jakavi)",
     "rule": "1.用於治療International Working Group(IWG) Consensus Criteria中度風險-2或高風險之骨髓纖維化，包括原發性骨髓纖維化、真性紅血球增多症後骨髓纖維化、或血小板增多症後骨髓纖維化等疾病所造成脾臟腫大(symptomatic splenomegaly)及/或其他相關全身症狀且不適於接受幹細胞移植的病人(stem cell transplantation)。 (1)需經事前審查核准後使用，每次申請之療程以6個月為限，送審時需檢送影像資料及症狀改善之病歷紀錄，每6個月評估一次。 (2)用藥後第一次評估時，需達到症狀反應(symptom response)或脾臟體積無惡化兩者之一，且同時無AML tranformation，方得以繼續使用。分別定義如下： Ⅰ.症狀反應：MPN-SAF-TSS分數或MPN-10與治療前基準值相比，需下降超過50%。 Ⅱ.脾臟體積無惡化：使用電腦斷層評估，脾臟長度未增加超過治療前基準值之40%以上(或體積增加未達25%以上)。 Ⅲ.AML transformation：骨髓中之芽細胞≥20%或血液中之芽細胞≥20%合併芽細胞數值≥1×109/L。 (3)用藥後第二次及其後的評估，必須顯示無疾病惡化（無症狀惡化且脾臟體積無惡化，並同時無AML transformation），方得以繼續使用。分別定義如下： Ⅰ.無症狀惡化：未出現新症狀，且MPN-SAF-TSS分數或MPN-10未超過治療前的基準值。 Ⅱ.脾臟體積無惡化：使用電腦斷層評估，脾臟長度未增加超過最佳反應(best response)時之脾臟長度40%以上(或體積增加未達25%以上)。 Ⅲ.AML transformation：骨髓中之芽細胞≥20%或血液中之芽細胞≥20%合併芽細胞數值≥1×109/L。 (4)Jakavi 5mg每日限最多使用4粒，Jakavi 15mg或20mg每日限最多使用2粒，且其5mg不得與15mg或20mg併用。 (5)本藥品與fedratinib、momelotinib用於中度風險或高風險之骨髓纖維化治療時，僅得擇一給付。fedratinib、momelotinib治療後如疾病惡化不得換用本藥品。 2.移植物抗宿主疾病，限用Jakavi 5mg，每日最多使用4 粒。 (1)用於治療12歲以上之青少年及成人，且"
   },
   {
     "code": "9.56.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Brentuximab vedotin(如Adcetris)",
     "rule": "限用於成人患者： 1.何杰金氏淋巴瘤(HL)：（111/2/1) (1)與doxorubicin、vinblastine和dacarbazine併用適用於先前未曾接受治療，且IPS (International Prognostic Score)為4-7 分的CD30+第IV期何杰金氏淋巴瘤(HL)成人病人。 (2)CD30+何杰金氏淋巴瘤(HL)病患接受ASCT後仍具有高復發風險之病患：需先前未曾使用過本品，並於ASCT前具有下列任一危險因子者： Ⅰ.對於第1線治療未達完全緩解。 Ⅱ.第1線治療結束後12個月內復發或惡化。 Ⅲ.ASCT前出現的復發具有淋巴結外侵犯。 (3)治療復發或頑固型CD30+何杰金氏淋巴瘤(HL)： Ⅰ.已接受自體幹細胞移植(ASCT)，或 Ⅱ.無法使用ASCT或多重藥物化療，且先前至少已接受兩種治療。 (4)須經事前審查核准後使用： Ⅰ.前述(1)之病患：首次申請療程以4個療程為限，再申請應檢附前次治療結果評估資料。若病人病情已達完全緩解，得再給付2個療程；若病情惡化即須停止使用。健保給付以6個療程為上限。 Ⅱ.前述(2)之病患：每次申請療程以4個療程為限，再申請應檢附疾病無惡化之評估資料，若病情惡化即須停止使用。曾依本項核准使用之病患，若之後疾病惡化或復發後將不再給付本藥品。 Ⅲ.前述(3)之病患：每次申請療程以4個療程為限，再申請應檢附前次治療結果評估資料。若病人病情已達完全緩解，得再給付4個療程;若病情惡化即須停止使用。 Ⅳ.同一病患於前述（1）、（2）及（3）之終身給付療程數以總共16個療程為上限。 2.全身性退行分化型大細胞淋巴瘤(systemic anaplastic large cell lymphoma；sALCL)：（111/2/1) (1)與cyclophosphamide、doxorubicin和prednisone併用適用於先前未曾接受治療且為ALK陰性的全身性退行分化型大細胞淋巴瘤(systemic anaplastic large cell lymphoma；sALCL)成人病人。 (2)治療復發或頑固型全身性退行分化型大細胞淋巴瘤(systemic anaplastic large cell lymphoma；sALCL)。 (3)須經事前審查核准後使用： Ⅰ.前述(1)之病患：首次申請療程以4個療程為限，再"
   },
   {
     "code": "9.57.",
-    "category": "免疫製劑 Immunologic agents",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Clofarabine（如Evoltra）",
     "rule": "1.使用於先前接受至少兩種化療療程(如TPOG之療程表)治療無效或已復發第二次或以上之急性淋巴母細胞白血病(acute lymphoblastic leukemia)病，且計畫進行造血幹細胞移植的病人(限21歲以下)，每位病人限給付一療程。 2.須事前審查核准後使用，申請時須檢附完整之造血幹細胞移植計畫，並詳細記載確認捐贈者名單、確認移植之執行醫院及移植前調適治療等資料。 3.不得與blinatumomab併用。"
   },
   {
     "code": "9.58.",
-    "category": "免疫製劑 Immunologic agents",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Axitinib(如Inlyta)",
     "rule": "1.治療已接受過sunitinib或cytokine治療失敗的晚期腎細胞癌病患。 2.無效後則不給付temsirolimus。 3.需經事前審查核准後使用，每次申請之療程以3個月為限，送審時需檢送影像資料，每3個月評估一次。"
   },
   {
     "code": "9.59.",
-    "category": "免疫製劑 Immunologic agents",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ceritinib(如Zykadia)",
     "rule": "- 適用於ALK陽性之晚期非小細胞肺癌第一線治療。 - 須經事前審查核准後使用： - 每次申請事前審查之療程以三個月為限，每三個月需再次申請。 - 初次申請時需檢具確實患有非小細胞肺癌之病理或細胞檢查報告及ALK突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 - 再次申請時並需附上治療後相關臨床資料，如給藥4週後，需追蹤胸部X光或電腦斷層等影像檢查評估療效，往後每4週做胸部X光檢查，每3個月需追蹤其作為評估藥效的影像（如胸部X光或電腦斷層），若病情惡化即不得再次申請。 - Ceritinib與crizotinib、alectinib、brigatinib、lorlatinib用於ALK陽性之晚期非小細胞肺癌第一線治療時，僅得擇一使用，除因病人使用後，發生嚴重不良反應或耐受不良之情形外，不得互換。 - 每日最大劑量限450mg。"
   },
   {
     "code": "9.60.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Alectinib(如Alecensa)",
     "rule": "- 適用於ALK陽性之晚期非小細胞肺癌第一線治療。 - 須經事前審查核准後使用: - 每次申請事前審查之療程以三個月為限，每三個月需再次申請。 - 初次申請時需檢具確實患有非小細胞肺癌之病理或細胞檢查報告及ALK突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 - 再次申請時並需附上治療後相關臨床資料，如給藥4週後，需追蹤胸部X光或電腦斷層等影像檢查評估療效，往後每4週做胸部X光檢查，每3個月需追蹤其作為評估藥效的影像（如胸部X光或電腦斷層），若病情惡化即不得再次申請。 - Alectinib與ceritinib、crizotinib、brigatinib、lorlatinib用於ALK陽性之晚期非小細胞肺癌第一線治療時，僅得擇一使用，除因病人使用後，發生嚴重不良反應或耐受不良之情形外，不得互換。 - 每日最大劑量限1200mg。"
   },
   {
     "code": "9.61.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ibrutinib(如Imbruvica)",
     "rule": "1. 單獨使用於先前接受過至少一種化學或標靶治療方式無效或復發的被套細胞淋巴瘤成年病人。（106/11/1、112/7/1、112/12/1) (1)需經事前審查核准後使用。首次申請事前審查之療程以4個月為限，之後每3個月需再次申請，再次申請時應檢附前次治療結果評估資料，如影像學檢查報告。 (2) 若疾病進展，則必須停止使用。（106/11/1、112/7/1) (3)每位病人限給付20個月。 (4)每日至多處方4粒。 (5)zanubrutinib、ibrutinib和acalabrutinib僅能擇一使用，唯有在出現無法忍受其副作用時方可互換。三者使用總療程合併計算，以全部20個月為上限。 2.單獨使用於具有17p 缺失的慢性淋巴球性白血病(CLL) 成年患者。 (1)開始使用前之疾病狀態需出現下列任一情形： I. 進行性的血液相惡化至Hb < 10.0 gm/dL或PLT < 100 K/uL，且無其他原因可以解釋。 II.脾臟腫大超過左肋骨下緣6 cm。 III.淋巴結腫大，最長徑超過10 cm。 IV.周邊血液淋巴球在2個月內增加 50%以上，或倍增時間(doubling time)小於6個月。 V. 出現自體免疫併發症，且經類固醇治療無效。 VI.出現具症狀的淋巴結外病灶。 (2)需經事前審查核准後使用，每3個月需再次申請。再次申請時需檢附療效評估資料，若未達iwCLL (International Workshop on CLL)最新定義之partial remission或complete remission，則不予給付。 (3)在具有17p缺失病人，ibrutinib、acalabrutinib、venetoclax與zanubrutinib四者僅能擇一使用，唯有在出現無法忍受其副作用時方可互換。三者使用總療程合併計算，以全部24個月為上限。 (4)每日至多處方3粒。"
   },
   {
     "code": "9.62.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Pomalidomide(如Pomalyst):",
     "rule": "1.與dexamethasone合併使用，核准用於多發性骨髓瘤病人，且先前接受過含lenalidomide和bortezomib在內的至少兩種療法，且確認完成前次治療時或結束治療後六十天內發生疾病惡化(disease progression)。 2.限與elotuzumab及dexamethasone併用，治療之前曾接受過至少兩種療法（包括lenalidomide和蛋白酶體抑制劑）的多發性骨髓瘤成年病人。 3.需經事前審查核准後使用： (1)初次申請以3個療程為限，且需同時符合下列Ⅰ.與Ⅱ.的條件： Ⅰ.具有下列任一疾病惡化的指標： 病人開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma 病人，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 iv.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 v.Plasmacytoma體積增加≧50%。 vi.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 Ⅱ.出現下列任一臨床症狀： ⅰ.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 ⅱ.Plasmacytoma 體積增加≧50%。 iii.高血鈣(corrected serum calcium＞11.0 mg/dL 或 2.75 mmol/L)。 iv.貧血(Hemoglobin 下降幅度≧ 2gm/dL且無其他原因可以解釋)。 v.腎功能惡化(eGFR需下降幅度≧25%)，且無其他原因可以解釋。 vi.出現其他end-organ dysfunctions。 (2)再次申請時必須確定paraprotein (M-protein)未上升(即表示對藥物有"
   },
   {
     "code": "9.63.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Lenvatinib(如Lenvima)",
     "rule": "1.用於放射性碘治療無效之局部晚期或轉移性的進行性(progressive)分化型甲狀腺癌(RAI-RDTC)： (1)需經事前審查核准後使用，每次申請之療程以3個月為限，送審時需檢送影像資料，每3個月評估一次。 (2)Lenvatinib與sorafenib不得合併使用。 2.晚期肝細胞癌部分： (1)轉移性或無法手術切除且不適合局部治療或局部治療失敗之Child-Pugh A class晚期肝細胞癌成人患者，並符合下列條件之一： I.肝外轉移（遠端轉移或肝外淋巴結侵犯）。 II.大血管侵犯（腫瘤侵犯主門靜脈或侵犯左/右靜脈第一或第二分支）。 III.經導管動脈化學藥物栓塞治療（Transcatheter arterial chemo embolization, T.A.C.E.）失敗者，需提供患者於12個月內>=3次局部治療之記錄。 (2)需經事前審查核准後使用，初次申請之療程以3個月為限，之後每3個月評估一次。送審時需檢送影像資料，無疾病惡化方可繼續使用。 (3)Lenvatinib、sorafenib、atezolizumab併用bevacizumab、tremelimumab併用durvalumab僅得擇一給付，不得互換；且lenvatinib治療失敗後，不得申請使用regorafenib或ramucirumab。"
   },
   {
     "code": "9.64.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Blinatumomab(如Blincyto)",
     "rule": "1. 適用於治療先前接受至少兩種化療療程(如TPOG之療程表)治療無效或已復發第二次或以上費城染色體陰性復發型或頑固型B細胞前驅因子之急性淋巴芽細胞白血病之(Ph(-) Relapse/Refractory B-cell precursor Acute Lymphoblastic Leukemia；Ph(-) B-cell precursor R/R ALL)成人病人，且計畫進行造血幹細胞移植的病人，每位病人限給付2療程。 2.用於復發型或頑固型B細胞前驅細胞之急性淋巴芽細胞白血病之未滿18歲兒童病人，且計畫進行造血幹細胞移植的病人，每位病人限給付2療程，不得與clofarabine併用。 3.用於治療微量殘留病灶(MRD)陽性B細胞前驅細胞之急性淋巴芽細胞白血病： (1)符合以下任一條件： I.初次治療B細胞前驅細胞之急性淋巴芽細胞白血病成人病人，接受過至少三次高強度化學治療療程後，達第一次完全緩解，但仍有大於或等於0.1%微量殘留病灶，且計畫進行造血幹細胞移植，需附上至少三次微量殘留病灶檢驗報告。 II.第一線治療無效，經第二線治療達到第一次完全緩解之成人病人，但仍有大於或等於0.1%微量殘留病灶，且計劃進行造血幹細胞移植。需附上一次治療無效(骨髓或周邊血芽細胞大於5%)之檢驗報告，及一次經化學治療後微量殘留病灶檢驗報告。 (2)需為計畫進行造血幹細胞移植者。 (3)偵測微量殘留病灶之檢測，其敏感度需達10-3(0.1%)，可用qPCR (real-time quantitative polymerase chain reaction)，或八色流式細胞儀（8-color multiparameter flow cytometry）檢查。 (4)不得與酪胺酸激酶抑制劑(TKI)（如imatinib、dasatinib、nilotinib、ponatinib）等併用。 (5)若使用blinatumomab後，MRD若未消失但疾病仍在完全緩解時，不得申請給付inotuzumab ozogamicin。 (6)每位病人限給付2療程（56支）。 4. 須事前審查核准後使用，申請時須檢附完整之造血幹細胞移植計畫，並詳細記載確認捐贈者名單、確認移植之執行醫院及移植前調適治療等資料。 5.病人已依前述第3項獲得給付治療者，不得再申請前述之第1、2項給付治療。"
   },
   {
     "code": "9.65.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Pralatrexate(如Folotyn)",
     "rule": "1.用於接受化學治療失敗後之復發或頑固性周邊T細胞淋巴瘤(PTCL)病患，作為進行骨髓/造血幹細胞移植期間之銜接治療。 2.需經事前審查核准後使用，初次申請時應檢附移植計劃資料。 3.每人至多給付3個療程，第1個療程後需進行疾病評估，若病情仍持續惡化，應即停止使用。"
   },
   {
     "code": "9.66.",
-    "category": "免疫製劑 Immunologic agents",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Trifluridine/tipiracil(如Lonsurf)",
     "rule": "1. 轉移性大腸直腸癌： (1)用於治療先前曾接受下列療法的轉移性大腸直腸癌之成人病人，包括fluoropyrimidine, oxaliplatin及irinotecan為基礎的化療，和抗血管內皮生長因子(anti-VEGF)等療法；若RAS為原生型(wild type)，則需再加上接受過抗表皮生長因子受體(anti-EGFR)療法。需檢附All-RAS基因突變分析檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)本藥品不得與regorafenib併用。 2.轉移性胃癌：：用於治療先前曾接受兩種(含)以上治療（包括含fluoropyrimidine–、platinum–、taxane–或 irinotecan為基礎的化學療法，以及HER2/neu標靶治療[如果適合]）的轉移性胃腺癌或胃食道接合處腺癌病人。 3.病歷應留存確診之病理或檢查報告及影像診斷證明等，並紀錄治療相關臨床資料，以備查核。倘病人臨床症狀或影像顯示疾病惡化，則應停藥。"
   },
   {
     "code": "9.67.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ponatinib(如Iclusig)",
     "rule": "1.用於費城染色體陽性或BCR-ABL融合基因陽性之慢性骨髓性白血病(CML)或急性淋巴性白血病(ALL)成人患者，且符合下列條件之一： (1).具有T315I突變者； (2).加速期或急性期之慢性骨髓性白血病(CML)患者，先前曾使用imatinib、nilotinib、dasatinib與bosutinib其中兩種(含)以上藥物治療失敗或無法耐受； (3).急性淋巴性白血病(ALL)患者，先前曾使用imatinib與dasatinib兩種藥物治療均失敗或無法耐受。 2.需經事前審查核准後使用。首次申請事前審查之療程以3個月為限，之後每3個月需再次申請，再次申請時應檢附前次治療結果評估資料，包含BCR-ABL定量RT-PCR報告。 3.若使用後未出現治療反應、無法耐受藥物副作用或疾病進展，則必須停止使用。 4.1~3項規定內之疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。"
   },
   {
     "code": "9.68.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Radium-223(如Xofigo)",
     "rule": "限用於治療去勢抗性攝護腺癌(castration-resistant prostate cancer)病患，其合併有症狀的骨轉移且尚未有臟器轉移者，且病人須符合下列三項條件： 1. 患者須合併有症狀之骨轉移且骨轉移≧2處 2. 每位患者最高使用六個療程 3. 須經事前審查核准後使用，申請時需檢附： (1) .用藥紀錄(證明為有症狀的骨轉移、需常規使用止痛藥物) (2) .三個月內影像報告證明骨轉移≧2處 (3) .三個月內影像報告證明無臟器轉移 4. 不得合併使用abiraterone、enzalutamide及其他治療因惡性腫瘤伴隨骨骼事件之藥品，如denosumab、bisphosphonates等。 9.69.免疫檢查點抑制劑(如atezolizumab；nivolumab；pembrolizumab；avelumab；ipilimumab；durvalumab；tremelimumab製劑)： 1.本類藥品得於藥品許可證登載之適應症及藥品仿單內，單獨使用於下列患者： (1)黑色素瘤：腫瘤無法切除或轉移之第三期或第四期黑色素瘤病人，先前曾接受過至少一次全身性治療失敗者。 (2)非小細胞肺癌： - 鞏固治療：限durvalumab用於第三期局部晚期、無法手術切除且腫瘤表現PD-L1 ≥ 1%之非小細胞肺癌成人病人，非鱗狀癌者需為EGFR/ALK/ROS-1腫瘤基因原生型、鱗狀癌者需為EGFR/ALK腫瘤基因原生型，病人須於接受根治性同步放射治療合併至少2個週期含鉑化療後無惡化(無PD)，且至多使用12個月。 - 非小細胞肺癌第一線用藥：轉移性非小細胞肺癌成人病人，非鱗狀癌者需為EGFR/ALK/ROS-1腫瘤基因原生型、鱗狀癌者需為EGFR/ALK腫瘤基因原生型。 - 鱗狀非小細胞肺癌第二線用藥：先前已使用過platinum類化學治療失敗後，又有疾病惡化，且EGFR/ALK腫瘤基因為原生型之晚期鱗狀非小細胞肺癌成人病人。 - 肺腺癌第三線用藥：先前已使用過platinum類及docetaxel/paclitaxel類二線(含)以上化學治療均失敗，又有疾病惡化，且EGFR/ALK/ROS-1腫瘤基因為原生型之晚期非小細胞肺腺癌成人病人。 (3)典型何杰金氏淋巴瘤：先前已接受自體造血幹細胞移植(HSCT)與移植後brentuximab vedotin (BV)治療，"
   },
   {
     "code": "9.69.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "免疫檢查點抑制劑(如atezolizumab；nivolumab；pembrolizumab；avelumab；ipilimumab；durvalumab；tremelimumab製劑)",
     "rule": "1.本類藥品得於藥品許可證登載之適應症及藥品仿單內，單獨使用於下列患者： (1)黑色素瘤：腫瘤無法切除或轉移之第三期或第四期黑色素瘤病人，先前曾接受過至少一次全身性治療失敗者。 (2)非小細胞肺癌：(109/4/1、109/11/1、114/6/1、114/8/1) - 鞏固治療：限durvalumab用於第三期局部晚期、無法手術切除且腫瘤表現PD-L1 ≥ 1%之非小細胞肺癌成人病人，非鱗狀癌者需為EGFR/ALK/ROS-1腫瘤基因原生型、鱗狀癌者需為EGFR/ALK腫瘤基因原生型，病人須於接受根治性同步放射治療合併至少2個週期含鉑化療後無惡化(無PD)，且至多使用12個月。(114/8/1) - 非小細胞肺癌第一線用藥：轉移性非小細胞肺癌成人病人，非鱗狀癌者需為EGFR/ALK/ROS-1腫瘤基因原生型、鱗狀癌者需為EGFR/ALK腫瘤基因原生型。(114/6/1) - 鱗狀非小細胞肺癌第二線用藥：先前已使用過platinum類化學治療失敗後，又有疾病惡化，且EGFR/ALK腫瘤基因為原生型之晚期鱗狀非小細胞肺癌成人病人。 - 肺腺癌第三線用藥：先前已使用過platinum類及docetaxel/paclitaxel類二線(含)以上化學治療均失敗，又有疾病惡化，且EGFR/ALK/ROS-1腫瘤基因為原生型之晚期非小細胞肺腺癌成人病人。 (3)典型何杰金氏淋巴瘤：先前已接受自體造血幹細胞移植(HSCT)與移植後brentuximab vedotin (BV)治療，但又復發或惡化的典型何杰金氏淋巴瘤成人患者。 (4)泌尿道上皮癌：使用含atezolizumab藥品成分須於113年8月1日前審核同意用藥。(109/11/1、112/10/1、113/8/1) I.不適合接受化學治療之轉移性泌尿道上皮癌成人患者，且需符合下列條件之一： i.CTCAE(the common terminology criteria for adverse events) v4.0 grade≧2 audiometric hearing loss ii.CTCAE v4.0 grade≧2 peripheral neuropathy iii.CIRS(the cumulative illness rating scale) score >6 II. 先前已使用過platinum類化學治療失敗後疾病惡化的局部晚期無法切除或轉移性泌尿道上皮癌成人患者。 III.限avelumab用於接受第一線含鉑化學治療4至6個療程後，疾病未惡化，且達部分緩解（PR）或疾病呈穩定狀態者(SD)之無法手術切除局部晚期(stage Ⅲ)或轉移性泌尿上皮癌(stage Ⅳ)成人患者之維持療法。(112/10/1） (5)頭頸部鱗狀細胞癌(不含鼻咽癌)：(108/4/1、109/11/1、112/12/1、115/2/1) I.先前未曾接受全身性治療且無法手術切除之復發性或轉移性(第三期或第四期)頭頸部鱗狀細胞癌成人患者。（112/12/1) II.先前已使用過platinum類化學治療失敗後，又有疾病惡化的復發性或轉移性(第三期或第四期)頭頸部鱗狀細胞癌成人患者。(108/4/1、109/11/1、112/12/1） (6)轉移性胃癌：先前已使用過二線(含)以上化學治療均失敗，又有疾病惡化的轉移性胃腺癌成人患者，且於109年4月1日前經審核同意用藥，後續評估符合續用申請條件者。(109/4/1) (7)晚期腎細胞癌：先前已使用過至少二線標靶藥物治療均失敗，又有疾病惡化之晚期腎細胞癌，其病理上為亮細胞癌(clear cell renal carcinoma)之成人患者。 (8)晚期肝細胞癌：需同時符合下列所有條件： Ⅰ.Child-Pugh A class肝細胞癌成人患者。 Ⅱ.先前經T.A.C.E.於12個月內>=3次局部治療失敗者。 Ⅲ.已使用過至少一線標靶藥物治療失敗，又有疾病惡化者。本類藥品與regorafenib、ramucirumab僅能擇一使用，且治療失敗時不可互換。(108/6/1、110/5/1) Ⅳ.未曾進行肝臟移植。 Ⅴ.於109年4月1日前經審核同意用藥，後續評估符合續用申請條件者。(109/4/1) (9)默克細胞癌：限avelumab用於先前已使用過platinum類化學治療失敗後，又有疾病惡化之轉移性第四期默克細胞癌(Merkel Cell Carcinoma)之成人患者。(109/6/1) (10)食道鱗狀細胞癌：限nivolumab用於曾接受合併含鉑及fluoropyrimidine化學治療之後惡化的無法切除晚期或復發性食道鱗狀細胞癌病人。(113/4/1、113/6/1、115/2/1) (11)大腸直腸癌：限pembrolizumab做為無法切除或轉移性高微衛星不穩定性(MSI-H)或錯誤配對修復功能不足性(dMMR)大腸直腸癌(CRC)之成年病人第一線治療。(114/6/1) 2.本類藥品得於藥品許可證登載之適應症及藥品仿單內，併用其他藥品於下列患者： (112/12/1、113/4/1、113/6/1、113/8/1、114/2/1、114/6/1、115/2/1、115/4/1) (1)晚期肝細胞癌第一線用藥(112/8/1、112/10/1、114/2/1): Ⅰ.限atezolizumab與bevacizumab併用，或限durvalumab與tremelimumab併用，適用於治療未曾接受全身性療法之轉移性或無法手術切除且不適合局部治療或局部治療失敗之Child-Pugh A class晚期肝細胞癌成人患者，並符合下列條件之一：（112/8/1、112/10/1、114/2/1) i.肝外轉移（遠端轉移或肝外淋巴結侵犯）。 ii.大血管侵犯（腫瘤侵犯主門靜脈或侵犯左/右靜脈第一或第二分支）。 iii.經導管動脈化學藥物栓塞治療（Transcatheter arterial chemo embolization, T.A.C.E.）失敗者，需提供患者於12個月內>=3次局部治療之紀錄。 II.須排除有以下任一情形： i.曾接受器官移植。 ii.正在接受免疫抑制藥物治療。 iii.有上消化道出血之疑慮且未接受完全治療 (須有半年內之內視鏡評估報告)。 III.sorafenib、lenvatinib、atezolizumab與bevacizumab併用、durvalumab與tremelimumab併用僅得擇一給付，不得互換。(114/2/1) IV.atezolizumab與bevacizumab併用或durvalumab與tremelimumab併用治療失敗後，不得申請使用regorafenib或ramucirumab。(114/2/1) (2)非小細胞肺癌：(112/12/1、113/4/1、113/8/1、114/6/1) - 轉移性鱗狀非小細胞肺癌第一線用藥：限pembrolizumab與carboplatin及paclitaxel併用至多使用4個療程，接續單用pembrolizumab治療。(112/12/1、113/4/1、113/8/1) - 轉移性非鱗狀非小細胞肺癌第一線：限pembrolizumab與pemetrexed(限使用Pexeda、Apeta或Pemetrexed Sandoz)及含鉑類化學療法併用，或限atezolizumab與bevacizumab(限使用Alymsys、Avastin、Abevmy、Vegzelma或Mvasi)及carboplatin、paclitaxel併用，做為轉移性且不具有EGFR/ALK/ROS-1腫瘤基因異常的非鱗狀非小細胞肺癌第一線治療。(114/6/1、114/8/1) (3)小細胞肺癌：限atezolizumab與carboplatin及etoposide併用，或durvalumab與etoposide及carboplatin或cisplatin兩者之一併用，適用於先前未曾接受化療，且無腦部或無脊髓轉移之擴散期(extensive stage)小細胞肺癌成人患者。(112/12/1、114/2/1) (4)惡性肋膜間皮瘤：限ipilimumab與nivolumab併用於無法切除之惡性肋膜間皮瘤且病理組織顯示為非上皮型(Non-epithelioid)成人病人的第一線治療。(113/4/1、113/6/1、115/2/1) (5)胃癌（不含胃腸基質瘤及神經內分泌腫瘤/癌）：(113/4/1、113/6/1、115/2/1、115/4/1) - 限nivolumab併用fluoropyrimidine（5-FU或capecitabine）及oxaliplatin，用於第一線治療晚期或轉移性且不具有HER2過度表現的胃癌病人。(113/4/1、113/6/1、115/2/1) - 與zolbetuximab僅得擇一使用，且治療失敗時不可互換。(115/4/1) (6)膽道癌第一線用藥：限durvalumab與cisplatin及 gemcitabine併用至多使用8個療程，接續單用durvalumab於先前未接受過治療或不可手術之局部晚期或轉移性膽道癌 (biliary tract cancer)，並須排除以下任一情形：(114/2/1) Ⅰ.壺腹癌。 Ⅱ.曾接受異體器官移植。 Ⅲ.具有或曾有活動性自體免疫或發炎性疾病。 (7)早期三陰性乳癌：非轉移性、第II期至第IIIb期（cT1c N1-2 或 T2-4 N0-2）成年病人(114/6/1)： - 術前前導性治療：限pembrolizumab每3週1次與carboplatin和paclitaxel併用至多4個療程，接續限pembrolizumab每3週1次與cyclophosphamide和doxorubicin或epirubicin併用至多4個療程，做為初診斷病人前導性治療用藥。 - 術後輔助治療：上述病人接受過術前前導性治療後，限手術後未達pCR者，單用pembrolizumab每3週1次，做為輔助治療用藥，且至多使用9個療程。 - 上述pembrolizumab用於早期三陰性乳癌依前述療程規定至多使用17個療程，且用於術後輔助治療，pembrolizumab與olaparib僅能擇一支付。 - 食道鱗狀細胞癌：限nivolumab與fluoropyrimidine及cisplatin或oxaliplatin併用，用於無法接受化學放射性治療或手術切除等治癒性治療之晚期或轉移性食道鱗狀細胞癌成人病人的第一線治療。(115/2/1) (9)泌尿道上皮癌：限nivolumab與cisplatin及gemcitabine併用至多6個療程，接續限單用nivolumab，做為無法切除或轉移性泌尿道上皮癌成人病人的第一線治療。(115/2/1) 3.使用條件： (1) 病人身體狀況良好(ECOG≦1)。 (2) 病人之心肺與肝腎功能須符合下列所有條件： I.NYHA(the New York Heart Association) Functional Class I或II II.GOT<60U/L及GPT<60U/L，且T-bilirubin<1.5mg/dL (晚期肝細胞癌以及膽道癌病人可免除此條件)(114/2/1) III.腎功能：(晚期腎細胞癌病人可免除此條件) (109/4/1、112/10/1、115/2/1) i.泌尿道上皮癌第一線用藥：單獨使用pembrolizumab須符合eGFR>30mL/min/1.73m2且<60mL/min/1.73m2；nivolumab併用化療須符合eGFR ≥60mL/min/1.73m2。 ii.泌尿道上皮癌第二線用藥：eGFR>30mL/min/1.73m2。 iii.泌尿道上皮癌維持治療（112/10/1）：eGFR>30mL/min/1.73m2。 iv.其他癌別：Creatinine<1.5mg/dL且eGFR>60mL/min/1.73m2。 (3)病人之生物標記表現：除ipilimumab與nivolumab併用於惡性肋膜間皮瘤外，依個別藥品使用其對應之第三等級體外診斷醫療器材(class III IVD)所檢測之PD-L1表現量需符合下表：(109/4/1、109/6/1、111/4/1、112/8/1、112/10/1、112/12/1、113/2/1、113/4/1、113/6/1、113/8/1、114/2/1、114/6/1、114/8/1、114/10/1、115/2/1) | 給付範圍 | 事審代碼 | pembrolizumab (Dako 22C3或Ventana SP263*) | nivolumab (Dako 28-8或Ventana SP263*) | atezolizumab (Ventana SP142) | avelumab (Ventana SP263*) | Durvalumab (Ventana SP263*) | | --- | --- | --- | --- | --- | --- | --- | | 黑色素瘤 | P001 | 不需檢附報告 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 非小細胞肺癌 鞏固治療 | P015 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | PD-L1≧ 1% | | 鱗狀、非鱗狀非小細胞肺癌第一線用藥(單用) | P013 | TPS≧50% | 本藥品尚未給付於此適應症 | TC≧50%或IC≧10% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 非鱗狀非小細胞肺癌第一線用藥 (併用) | P013 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 鱗狀非小細胞肺癌第二線用藥 | P011 | TPS≧50% | TC≧50% | TC≧50%或IC≧10% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 非鱗狀非小細胞肺癌第三線用藥 | P012 | TPS≧50% | TC≧50% | TC≧50%或IC≧10% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 鱗狀非小細胞肺癌第一線用藥（併用化療） | P014 | TPS 1~49% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 小細胞肺癌 (併用化療) | P021 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 不需檢附報告 | | 典型何杰金氏淋巴瘤 | P031 | 不需檢附報告 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 泌尿道上皮癌維持療法 | P043 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 不需檢附報告 | 本藥品尚未給付於此適應症 | | 泌尿道上皮癌第一線用藥 (單用) | P042 | CPS≧10 | 本藥品尚未給付於此適應症 | IC≧5% (113年8月1日前審核同意符合續用申請條件者) | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 泌尿道上皮癌第一線用藥(併用化療) | P044 | 本藥品尚未給付於此適應症 | TC≥1% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 泌尿道上皮癌第二線用藥 | P041 | CPS≧10 | TC≧5% | IC≧5% (113年8月1日前審核同意符合續用申請條件者) | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 胃腺癌 (109年4月1日前審核同意符合續用申請條件者) | P051 | CPS≧1 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 胃癌第一線用藥 (併用化療) | P052 | 本藥品尚未給付於此適應症 | CPS≧5 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 晚期腎細胞癌 | P061 | 本藥品尚未給付於此適應症 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 晚期肝細胞癌(109年4月1日前審核同意符合續用) | P071 | 本藥品尚未給付於此適應症 | 不需檢附報告 (109年4月1日前審核同意符合續用申請條件者) | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 晚期肝細胞癌第一線用藥 （併用） | P072 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 不需檢附報告（併用bevacizumab） | 本藥品尚未給付於此適應症 | 不需檢附報告(併用tremelimumab) | | 頭頸部鱗狀細胞癌第一線用藥 | P082 | CPS≧20 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 頭頸部鱗狀細胞癌第二線用藥 | P081 | TPS≧50% | TC≧10% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 默克細胞癌 | P091 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 不需檢附報告 | 本藥品尚未給付於此適應症 | | 食道鱗狀細胞癌第一線用藥(併用化療) | P102 | 本藥品尚未給付於此適應症 | TC≧1% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 食道鱗狀細胞癌第二線用藥 (單用) | P101 | 本藥品尚未給付於此適應症 | TC≧1% | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 惡性肋膜間皮瘤(ipilimumab併用nivolumab) | P111 | 本藥品尚未給付於此適應症 | 不需檢附報告， 病理組織為非上皮型(Non-epithelioid) | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 膽道癌 (併用化療) | P121 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 不需檢附報告 | | 早期三陰性乳癌(併用化療) | P131 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | | 大腸直腸癌 | P141 | 不需檢附報告 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | 本藥品尚未給付於此適應症 | * Ventana SP263僅適用於檢測非小細胞肺癌或泌尿道上皮癌維持療法 (4)每位病人每個適應症限給付一種免疫檢查點抑制劑且不得互換，治療期間亦不可合併申報該適應症之標靶藥物（atezolizumab與bevacizumab併用於晚期肝細胞癌第一線用藥及非鱗狀非小細胞肺癌第一線用藥除外），無效後或給付時程期滿後則不再給付該適應症相關之標靶藥物。（enfortumab vedotin用於局部晚期或轉移性泌尿道上皮癌第三線用藥及cetuximab用於頭頸部鱗狀細胞癌(不含鼻咽癌) 除外 ）。(108/4/1、111/6/1、112/8/1、113/5/1、115/2/1) (5)給付時程期限：自初次處方用藥日起算2年（pembrolizumab用於早期三陰性乳癌依前述給付時程期限至多使用17個療程、durvalumab用於鞏固治療自初次處方用藥日起算1年）。(109/4/1、109/11/1、114/6/1、114/8/1) (6)需經單筆電子申請事前審查核准後使用，申請時需上傳病歷資料(不適用特殊病例事前審查，亦不適用緊急報備，惟已獲核定用藥之病人因轉院可緊急報備申請續用)。(108/4/1、110/10/1、111/6/1) (7)每次申請以12週為限，初次申請時需檢附以下資料：(108/6/1、109/11/1、111/6/1、113/6/1、114/6/1、115/2/1) I.確實患有相關癌症之病理或細胞檢查報告，黑色素瘤患者需另檢附BRAF腫瘤基因檢測結果、非小細胞肺癌患者需另檢附符合給付適應症內容規定之腫瘤基因檢測結果報告，上述基因檢測須符合全民健康保險藥品給付規定之通則十二。(113/6/1) Ⅱ.生物標記表現量檢測報告：PD-L1表現量檢測結果需符合全民健康保險藥品給付規定之通則十二。(111/6/1、113/6/1) Ⅲ.病人身體狀況良好(ECOG≦1)及心肺與肝腎功能之評估資料。 IV.病人12週內之疾病影像檢查及報告(如胸部X光、電腦斷層或其他可作為評估的影像)，此影像證明以可測量(measurable)的病灶為優先，如沒有可以測量的病灶，則可評估(evaluable)的病灶亦可採用。 備註：上述影像檢查之給付範圍不包括正子造影(PET)。 V.先前已接受過之治療與完整用藥資料(如化學治療、標靶藥物及自費等用藥之劑量及療程)及其治療結果；典型何杰金氏淋巴瘤患者需另檢附自體造血幹細胞移植之病歷紀錄；肝細胞癌患者需另檢附T.A.C.E.治療紀錄。 VI.使用免疫檢查點抑制劑之治療計畫(treatment protocol)。 Ⅶ.單獨使用pembrolizumab於泌尿道上皮癌第一線用藥時，須另檢附下列其中一項佐證資料：(111/2/1、114/6/1、115/2/1) i.CTCAE(the common terminology criteria for adverse events) v4.0 grade≧2 audiometric hearing loss ⅱ.CTCAE v4.0 grade≧2 peripheral neuropathy ⅲ.CIRS(the cumulative illness rating scale) score >6 Ⅷ.使用於早期三陰性乳癌用藥時，初次申請時需檢附ER、PR及HER2為陰性之 檢測報告。(114/6/1) - 其他佐證病歷資料。 (8)用藥後每12週至少評估一次，以i-RECIST標準(HCC患者以mRECIST標準)評定藥物療效反應，依下列原則申請續用：(109/4/1、109/11/1、114/6/1、114/8/1) I.有療效反應(PR及CR)者得繼續用藥； II.出現疾病惡化(PD)或出現中、重度或危及生命之藥物不良反應者，應停止用藥； Ⅲ.出現疾病併發症或輕度藥物不良反應等，暫停用藥超過原事前審查核定日起24週期限者，不得申請續用。 Ⅳ用藥後評估疾病呈穩定狀態者(SD)，可持續再用藥12週，並於12週後再次評估；經連續二次評估皆為SD者，不得申請續用。durvalumab用於非小細胞肺癌之鞏固治療不在此限。(114/8/1) Ⅴ使用於早期三陰性乳癌，術前前導性治療腫瘤惡化(PD)者，或術後輔助治療復發者，不得申請續用。(114/6/1) (9)申請續用時，需檢附病人12週內之評估資料如下：(108/6/1、109/11/1) I.病人身體狀況良好(ECOG≦1)及心肺與肝腎功能之評估資料。 II.以i-RECIST標準(HCC患者以mRECIST標準)評定之藥物療效反應(PR、CR、SD)資料、影像檢查及報告(如胸部X光、電腦斷層或其他可作為評估的影像)，此影像證明以可測量(measurable)的病灶為優先，如沒有可以測量的病灶，則可評估(evaluable)的病灶亦可採用。 備註：上述影像檢查之給付範圍不包括正子造影(PET)。 Ⅲ.單獨使用pembrolizumab於泌尿道上皮癌第一線用藥時，須另檢附下列其中一項佐證資料：(108/6/1、109/11/1、114/6/1、115/2/1) i.CTCAE(the common terminology criteria for adverse events) v4.0 grade≧2 audiometric hearing loss ⅱ.CTCAE v4.0 grade≧2 peripheral neuropathy ⅲ.CIRS(the cumulative illness rating scale) score >6 IV.使用於早期三陰性乳癌術後輔助治療時，須檢附於乳房和/或手術切除的淋巴結中發現有殘餘的侵襲性癌症(non-pCR)佐證。(114/6/1) Ⅴ其他佐證病歷資料。 4.登錄與結案作業：(109/11/1、114/1/1） (1)醫師處方使用本類藥品，倘病人結束治療、停止用藥、未通過續用申請或達給付時程期限時，醫事機構須在28天內於VPN系統登錄結案。逾期未登錄結案者，系統自動結案，且不予支付該個案自前次事前審查核定日後申報之藥費。(109/11/1、114/1/1) (2)已結案者自結案日後不予支付藥費。"
   },
   {
     "code": "9.70.",
-    "category": "免疫製劑 Immunologic agents",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Pertuzumab(如Perjeta)",
     "rule": "1.本藥品與trastuzumab及化學療法併用於具HER2過度表現（IHC3+或FISH+），且具腋下淋巴結轉移但無遠處臟器轉移之早期乳癌病人 (1)使用於術前輔助治療，經外科手術後達病理上完全緩解者（pCR），得繼續使用至18個療程為上限。 (2)若未接受術前輔助治療，即先行手術者，可給予術後輔助治療，以18個療程為使用上限。 (3)下列Ｉ~Ⅲ使用於外科手術前後之總療程合併計算，依藥品仿單記載以18個療程為上限： Ｉ：pertuzumab與trastuzumab併用 Ⅱ：trastuzumab Ⅲ：pertuzumab與trastuzumab皮下注射複方製劑(如Phesgo) (4)須經事前審查核准後使用，核准後每24週須檢附療效評估資料再次申請，若疾病有惡化情形即不應再行申請。 2.轉移性乳癌 (1)Pertuzumab與trastuzumab及docetaxel併用於治療轉移後未曾以抗HER2或化學療法治療之HER2過度表現(IHC3+或FISH+)轉移性乳癌病人。 (2)須經事前審查核准後使用，核准後每18週須檢附療效評估資料再次申請，若疾病有惡化情形即不應再行申請，每位病人至多給付18個月為限。 (3)下列Ｉ~Ⅱ使用於轉移性乳癌總療程合併計算，以全部18個月為上限： Ｉ：pertuzumab與trastuzumab併用 Ⅱ：pertuzumab與trastuzumab皮下注射複方製劑(如Phesgo) (4)先前於早期乳癌已使用pertuzumab與trastuzumab併用或使用pertuzumab與trastuzumab皮下注射複方製劑(如Phesgo)者，不得再次申請pertuzumab與trastuzumab併用，惟於早期乳癌治療結束至首次疾病復發轉移時間超過12個月以上者得再次申請。"
   },
   {
     "code": "9.71.",
-    "category": "免疫製劑 Immunologic agents",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Venetoclax (如Venclexta)",
     "rule": "1.單獨使用於具有17p 缺失的慢性淋巴球性白血病(CLL) 成年患者。（108/9/1、112/7/1、114/10/1) (1)限先前曾接受至少1種包括alkylating agent與anti-CD20 (如R-CVP、R-CHOP、rituximab加bendamustine等)的治療2個療程以上仍惡化或復發者。 (2)開始使用前之疾病狀態需出現下列任一情形： Ⅰ.進行性的血液相惡化至Hb< 10.0gm/dL或PLT<100K/uL，且無其他原因可以解釋。 Ⅱ.脾臟腫大超過左肋骨下緣6cm。 Ⅲ.淋巴結腫大，最長徑超過10cm。 Ⅳ.周邊血液淋巴球在2個月內增加50%以上，或倍增時間(doubling time)小於6個月。 Ⅴ.出現自體免疫併發症，且經類固醇治療無效。 Ⅵ.出現具症狀的淋巴結外病灶。 (3)需經事前審查核准後使用，每3個月需再次申請。再次申請時需檢附療效評估資料，若未達iwCLL(International Workshop on CLL)最新定義之partial remission或complete remission，則不予給付。 (4) 在具有17p缺失病人，venetoclax、acalabrutinib、ibrutinib及zanubrutinib四者僅能擇一使用，唯有在出現無法忍受其副作用時方可互換。三者使用總療程合併計算，以全部24個月為上限。（108/9/1、112/7/1、114/10/1) (5)每日至多處方4粒。 2.併用低劑量cytarabine或azacitidine(除Winduza及Azacitidine Lyophilized Inj 100mg\"GBC\"以外)，使用於無法接受高強度化學治療之初診斷急性骨髓性白血病(AML)病人： (1)需具有下列I.或Ⅱ.的條件之一： I.75歲以上。 Ⅱ.18歲以上但未滿75歲時，需ECOG performance status為2或3，且符合下列任一條件者： A.具有心臟衰竭治療病史，且left ventricle ejection fraction (LVEF)＜50%。 B.具慢性肺部疾病史，且 DLCO＜65%。 C.具肝功能異常：Bilirubin level 在1.5-3.0倍正常值間。 (2)需未曾因骨髓化生不良症候群(myelodysplastic sy"
   },
   {
     "code": "9.72.",
-    "category": "免疫製劑 Immunologic agents",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "CDK4/6抑制劑 (如 ribociclib；palbociclib)",
     "rule": "1.用於停經後乳癌婦女發生遠端轉移後之全身性藥物治療，須完全符合以下條件： (1)荷爾蒙接受體為：ER或PR >30%。（109/10/1、113/1/1) (2)HER-2 檢測為陰性。 (3)經完整疾病評估後未出現器官轉移危急症狀 (visceral crisis)且無中樞神經系統(CNS)轉移。 (4)骨轉移不可為唯一轉移部位。 (5)病患目前未接受卵巢功能抑制治療 (包含GnRH analogue等) 且滿足下列條件之一： Ⅰ.年齡滿55歲。 Ⅱ.曾接受雙側卵巢切除術。 Ⅲ.FSH及estradiol血液檢測值在停經後數值範圍內。 2.用於停經前/正在停經乳癌婦女及男性乳癌發生遠端轉移後之全身性藥物治療，須與芳香環轉化酶抑制劑及GnRH analogue 併用。 (1)荷爾蒙接受體為：ER或PR >30%。 (2)HER-2 檢測為陰性。 (3)經完整疾病評估後未出現器官轉移危急症狀 (visceral crisis)且無中樞神經系統(CNS)轉移。 (4)骨轉移不可為唯一轉移部位。 3.限palbociclib與fulvestrant併用於治療曾接受過內分泌療法之局部晚期或轉移性乳癌病人，且須完全符合下列條件： (1)荷爾蒙接受體為：ER或PR >30%。 (2)HER-2 檢測為陰性。 (3)經完整疾病評估後未出現器官轉移危急症狀 (visceral crisis)且無中樞神經系統(CNS)轉移。 (4)骨轉移不可為唯一轉移部位。 4.經事前審查核准後使用，核准後每24週須檢附療效評估資料再次申請，若疾病惡化即必須停止使用，且後續不得再申請使用ribociclib、palbociclib。 5.使用限制： (1)ribociclib 每日最多處方3粒。 (2)palbociclib 每日最多處方1粒。 (3) ribociclib與palbociclib僅得擇一使用，唯有在耐受不良時方可轉換使用，使用總療程合併計算，以每人終生給付24個月為上限。 (4)若先前於早期乳癌使用abemaciclib無效後，或於晚期乳癌使用ribociclib、palbociclib無效後，不得再申請ribociclib、palbociclib。 6.110年9月30日以前已核定用藥之病人，得經事前審查核准後，使用至總療程(即終生24個月)或總療程期間疾病惡化為止，且後續不得"
   },
   {
     "code": "9.73.",
-    "category": "免疫製劑 Immunologic agents",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Inotuzumab ozogamicin (如Besponsa)",
     "rule": "1.適用於治療患有復發型或頑固型且CD22為陽性之B細胞前驅因子之急性淋巴芽細胞白血病(B-ALL)，且計畫進行造血幹細胞移植之成人病患。 2.上述成人病患如具費城染色體陽性(Ph+)，應至少使用過兩種酪胺酸激酶抑制劑(TKI)藥物治療無效。 3.每位病人限給付2療程，需事前審查核准後使用。申請時需檢附完整之造血幹細胞移植計畫，並詳細記載確認移植之執行醫院及移植前調適治療等資料。 4.不得與blinatumomab（如Blincyto）或酪胺酸激酶抑制劑(TKI)（如imatinib、dasatinib、ponatinib）等併用。 5.病人若已依達完全緩解但仍有殘餘疾病(MRD)之條件取得 blinatumomab 給付同意並接受治療後，MRD若未消失但疾病仍在完全緩解時，不得申請給付inotuzumab ozogamicin。"
   },
   {
     "code": "9.74.",
-    "category": "Carfilzomib (如Kyprolis)：(109/2/1、112/4/1、113/4/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Cabozantinib (如Cabometyx)",
     "rule": "1.腎細胞癌 (1)適用於未曾接受過治療的中度/重度風險晚期腎細胞癌病人。 Ⅰ.無效後則不給付temsirolimus。 Ⅱ.病人若對藥物產生耐受性不佳（intolerance），則以原來藥物減量為原則，若嚴重耐受性不佳，可以換其他TKI。 (2)適用於先前經抗血管新生療法 (anti-angiogenic therapy)治療無效的晚期腎細胞癌病人。 (3)須經事前審查核准後使用，每次申請療程以3個月為限，送審時需檢送影像資料，每3個月評估一次，無疾病惡化方可繼續使用。 (4)病人於第一線使用本藥物後再復發或惡化時，不得再次申請使用。 2.甲狀腺癌 (1)適用於治療成人及12歲以上兒童曾接受VEGFR標靶治療後惡化、放射碘治療無效或不適用放射碘治療的局部晚期或轉移性分化型甲狀腺癌病人。 (2)須經事前審查核准後使用，每次申請療程以3個月為限，送審時需檢送影像資料，每3個月評估一次，無疾病惡化方可繼續使用。 3.每日限用1粒。 1.與dexamethasone合併使用於先前曾接受含bortezomib及lenalidomide兩種治療後無法耐受或惡化之病患，且須具有良好日常體能狀態(ECOG < 2)及足夠腎功能(CrCl ≥50 ml/minute)的多發性骨髓瘤成年患者。 2.與isatuximab/dexamethasone併用，治療先前曾接受至少一種含bortezomib 或 lenalidomide 之療法治療失敗的多發性骨髓瘤成人患者，且須具有良好日常體能狀態 (ECOG < 2) 者。 3.需經事前審查核准後使用： (1)初次申請以4個療程(每療程為4週)為限，且需同時符合下列Ⅰ.與Ⅱ.的條件： Ⅰ.具有下列任一疾病惡化的指標： 病患開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma "
   },
   {
     "code": "9.75.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Carfilzomib (如Kyprolis)",
     "rule": "1.與dexamethasone合併使用於先前曾接受含bortezomib及lenalidomide兩種治療後無法耐受或惡化之病患，且須具有良好日常體能狀態(ECOG < 2)及足夠腎功能(CrCl ≥50 ml/minute)的多發性骨髓瘤成年患者。 2.與isatuximab/dexamethasone併用，治療先前曾接受至少一種含bortezomib 或 lenalidomide 之療法治療失敗的多發性骨髓瘤成人患者，且須具有良好日常體能狀態 (ECOG < 2) 者。（113/4/1） 3.需經事前審查核准後使用：（109/2/1、112/4/1） (1)初次申請以4個療程(每療程為4週)為限，且需同時符合下列Ⅰ.與Ⅱ.的條件：（109/2/1、112/4/1） Ⅰ.具有下列任一疾病惡化的指標： 病患開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)：（112/4/1） ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma 病患，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 iv.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 v. Plasmacytoma體積增加≧50%。 vi.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 Ⅱ.出現下列任一臨床症狀：（112/4/1） ⅰ.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 ⅱ.Plasmacytoma 體積增加≧50%。 iii.高血鈣(corrected serum calcium＞11.0 mg/dL 或 2.75 mmol/L)。 iv.貧血(Hemoglobin 下降幅度≧ 2gm/dL且無其他原因可以解釋)。 v.腎功能惡化(eGFR需下降幅度≧25%)，且無其他原因可以解釋。 vi.出現其他end-organ dysfunctions。 (2)再次申請時必須確定paraprotein (M-protein)未上升(即表示對藥物有反應或為穩定狀態);或對部分non-secretory type MM病人以骨髓檢查plasma cell為療效依據，證明為對藥物有反應或為穩定狀態，方可繼續使用。續用時的申請每次以3個療程為限。 (3)每人終生以10個療程為上限。 （109/2/1、112/4/1） 4.不得與其他蛋白酶體抑制劑(proteasome inhibitor)或免疫調節劑(immunomodulatory drugs) 或daratumumab併用。（109/2/1、112/4/1、113/4/1）"
   },
   {
     "code": "9.76.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Midostaurin (如Rydapt)",
     "rule": "1. 限用於新確診為FLT3突變陽性的急性骨髓性白血病(AML)成人病患之標準前導與鞏固性化療時合併使用。 2. 需排除急性前骨髓性細胞白血病（acute promyelocytic leukemia，APL）的患者。 3. 首次用於標準前導期，可免事前審查，以2個療程為限，若2個療程後仍未達完全緩解之病患即不得再使用。 4. 續用時需經事前審查核准後使用，申請時須檢附FLT3突變陽性檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二，及日期、化學治療處方紀錄及療效評估，每次續用申請以2個療程為限，並需檢附前次治療結果評估資料證實無疾病進展，才可繼續使用。每人以總共給付6個療程為上限。 5. 若病患接受造血幹細胞移植後則將不再給付本藥品。 6.本藥品與quizartinib僅得擇一使用，除因耐受性不良，不得互換。 1.與lenalidomide及dexamethasone合併使用於先前已接受至少一種治療失敗之多發性骨髓瘤病患，並符合下列條件之一： (1)體能不適合(unfit)化療標靶注射治療者。 (2)曾接受bortezomib治療失敗，但有嚴重心血管共病無法接受carfizomib 治療之病患。 2.前述病患若於第二線治療使用，則需為具高風險細胞遺傳異常的病人群 (包括具del（17p）、t（4；14）、t(14；16)及1q21 amplification等染色體變化者)；若為第三線以上治療使用，則不需為具高風險遺傳異常者。 3.需經事前審查核准後使用： (1)初次申請以4個療程為限，且需同時符合下列Ⅰ.與Ⅱ.的條件： Ⅰ.具有下列任一疾病惡化的指標： 病患開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma 病患，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前"
   },
   {
     "code": "9.77.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ixazomib (如Ninlaro)",
     "rule": "1.與lenalidomide及dexamethasone合併使用於先前已接受至少一種治療失敗之多發性骨髓瘤病患，並符合下列條件之一： (1)體能不適合(unfit)化療標靶注射治療者。 (2)曾接受bortezomib治療失敗，但有嚴重心血管共病無法接受carfizomib 治療之病患。（109/3/1、112/4/1） 2.前述病患若於第二線治療使用，則需為具高風險細胞遺傳異常的病人群 (包括具del（17p）、t（4；14）、t(14；16)及1q21 amplification等染色體變化者)；若為第三線以上治療使用，則不需為具高風險遺傳異常者。 3.需經事前審查核准後使用：（109/3/1、112/4/1） (1)初次申請以4個療程為限，且需同時符合下列Ⅰ.與Ⅱ.的條件：（109/3/1、112/4/1） Ⅰ.具有下列任一疾病惡化的指標： 病患開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)：（112/4/1） ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma 病患，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 iv.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 v. Plasmacytoma體積增加≧50%。 vi.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 Ⅱ.出現下列任一臨床症狀：（112/4/1） ⅰ.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 ⅱ. Plasmacytoma 體積增加≧50%。 iii.高血鈣(corrected serum calcium＞11.0 mg/dL 或 2.75 mmol/L)。 iv.貧血(Hemoglobin 下降幅度≧ 2gm/dL且無其他原因可以解釋)。 v.腎功能惡化(eGFR需下降幅度≧25%)，且無其他原因可以解釋。 vi.出現其他end-organ dysfunctions。 (2)後續每次申請以4個療程(每療程為4週)為限，續用申請時必須確定paraprotein (M-protein)未上升(即表示對藥物有反應或為穩定狀態)或對部分non-secretory type MM病人以骨髓檢查plasma cell為療效依據，方可繼續使用。（109/3/1、112/4/1） (3)每人終生以12個療程為上限。（109/3/1、112/4/1） 4.除lenalidomide外，本案藥品不得與其他蛋白酶體抑制劑(proteasome inhibitor)或免疫調節劑(immunomodulatory drugs)併用。（109/3/1、112/4/1）"
   },
   {
     "code": "9.78.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Daratumumab(如Darzalex靜脈注射劑與皮下注射劑)",
     "rule": "1.治療適合接受自體幹細胞移植的新診斷多發性骨髓瘤成人病人： - 限與bortezomib、thalidomide及dexamethasone併用。 - 開始治療時病人須同時符合下列Ⅰ.與Ⅱ.的條件： - 骨髓漿細胞(plasma cells)比例≧10%，或是經切片確認且有≧1顆的plasmacytoma。 - 出現下列任一臨床症狀： - 腎功能不全：serum creatinine＞2.0mg/dL或estimated GFR (eGFR)＜40 ml/min，且無其他原因可以解釋。 - 高血鈣(corrected serum calcium＞11.0 mg/dL 或 2.75 mmol/L)。 - 貧血(Hemoglobin＜10 gm/dL且無其他原因可以解釋)。 - 影像檢查確認之osteolytic bone lesion(s)。 - 骨髓漿細胞(plasma cells)比例≧60%。 - Serum free light-chain ratio≧100。 - 首次申請為12次輸注，須檢附完整之造血幹細胞移植計畫，並詳細記載確認捐贈者名單及移植前調適治療等資料。需由具訓練血液及骨髓移植醫師能力之醫院申請，並由完成血液及骨髓移植訓練之醫師確認移植計畫。 - 再次申請為4次輸注，應檢附移植相關資料，且第一線治療總共以16次輸注為上限。 2.限與bortezomib/dexamethasone或lenalidomide/dexamethasone併用，治療先前曾接受至少1種含bortezomib 或 lenalidomide 之療法治療失敗的多發性骨髓瘤成人患者，且須具有良好日常體能狀態(ECOG < 2)者，以總共22次輸注為上限。 (1)須經事前審查核准後使用：首次申請為10次輸注，且需同時符合下列Ⅰ.、Ⅱ.與Ⅲ.的條件： - 病人先前未曾接受過daratumumab之治療。 - 具有下列任一疾病惡化的指標：病患開始治療前須在連續2次評估中均符合同一指標(但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： - 若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0"
   },
   {
     "code": "9.79.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Obinutuzumab(如Gazyva)",
     "rule": "1.限用於第一次接受含rituximab治療後治療無效或治療結束後6個月內復發的濾泡性淋巴瘤(follicular lymphoma)患者。 (1)需經事前審查核准後使用： Ⅰ.首次申請限6個療程(共8次治療)，且需與bendamustine 併用。 Ⅱ.經治療後達partial remission 或complete remission病患可續申請obinutuzumab 單一藥物維持治療，每次申請最多12個月(6個療程)，每12個月須進行疾病評估，若病情惡化應即停止使用。 Ⅲ.每位病人最多給付24個月(12個療程)維持治療。 (2)病患曾使用本藥物後再復發或惡化時，不得再申請使用。 2.限與chlorambucil併用於治療先前未曾接受過治療，且具有合併症(comorbidities)而不適合接受含 fludarabine治療的CD20陽性慢性淋巴球性白血病（CLL）患者。 (1)Rai Stage Ⅲ/Ⅳ(或Binet C級)之CLL病人。若用於Rai StageⅠ/Ⅱ(或Binet A/B級)併有疾病相關免疫性症候(如自體免疫性溶血、免疫性血小板低下紫瘢症等)的病人時，需符合具有CD20陽性。 (2)需經事前審查核准後使用，首次申請限6個療程(共8次治療)。 (3)病患曾使用本藥物後再復發或惡化時，不得再申請使用。 3.限與zanubrutinib併用，治療先前曾接受至少兩線(每線至少4個療程)全身性治療無效或復發的濾泡性淋巴瘤成人病人。 (1)需曾接受過至少一種anti-CD20 monoclonal antibody及一種靜脈注射型之alkylating agent治療。 (2)需符合WHO 淋巴瘤分類為I、II或IIIa期的診斷。 (3)開始使用前之疾病狀態需出現下列任一情形： - 有單一腫瘤直徑7公分以上者； - 有三顆以上之腫瘤其直徑大於3公分以上者； - 脾臟腫大，其長度16公分以上者； - 對vitalorgans造成擠壓者； - 周邊血中出現淋巴球增生超過5000/mm3者； - 出現任一系列血球低下者（platelet<100,000/ mm3，或 Hb<10gm/dL，或absolute neutrophil count<1500/ mm3)。 - B symptoms。 (4)需經事前審查核准後使用，每3 個月需再次申請，再次申請時需檢"
   },
   {
     "code": "9.80.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Osimertinib (如Tagrisso)",
     "rule": "1.限單獨使用於： (1)具有EGFR Exon 19 Del或Exon 21 L858R基因突變之局部侵犯性或轉移性（即為IIIB、IIIC期或第Ⅳ期）肺腺癌病患之第一線治療。  (2)先前已使用過EGFR標靶藥物gefitinib、erlotinib、afatinib或dacomitinib治療失敗，且具有EGFR T790M基因突變之局部侵犯性或轉移性之非小細胞肺癌之第二線治療。(109/10/1） 2.使用注意事項：(109/10/1、111/4/1、113/6/1、113/10/1） (1)須經事前審查核准後使用： I.每次申請事前審查之療程以三個月為限，每三個月需再次申請。 II.初次申請時需檢具確實患有肺腺癌或非小細胞肺癌之病理或細胞檢查報告，及檢附EGFR基因檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。 III.再次申請時需附上治療後相關臨床資料（如：影像學）證實無惡化，才可繼續使用。每次處方以4週為限，如給藥4週後需追蹤胸部X光或電腦斷層等影像檢查評估療效，每8至12週需進行完整療效評估(如胸部X光或電腦斷層)，若病情惡化、復發或產生不可接受之毒性，即不得再次申請。 (2)用於第一線治療用藥：與gefitinib、erlotinib、afatinib及dacomitinib僅得擇一使用，除因耐受性不良，不得互換。如需更換使用本藥品，必須符合本藥品具有EGFR Exon 19 Del或Exon 21 L858R基因突變之局部侵犯性或轉移性（即為IIIB、IIIC期或第Ⅳ期）肺腺癌病患。 (3)用於第二線治療用藥：須符合本藥品具有EGFR T790M基因突變，及檢附曾經接受gefitinib、erlotinib、afatinib或dacomitinib治療之證明，以及目前又有疾病惡化之影像診斷證明（如胸部X光、電腦斷層或其他可作為評估的影像），此影像證明以可測量（measurable）的病灶為優先，如沒有可以測量的病灶，則可評估（evaluable）的病灶亦可採用。  (4)每日限用1粒。"
   },
   {
     "code": "9.81.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Lorlatinib (如Lorviqua)",
     "rule": "1.適用於ALK陽性的晚期非小細胞肺癌第一線治療。 (1)須經事前審查核准後使用： I.每次申請事前審查之療程以三個月為限，每三個月需再次申請。 II.初次申請時需檢具確實患有非小細胞肺癌之病理或細胞檢查報告，及ALK突變檢測報告且需符合全民健康保險藥品給付規定之通則十二。 III.再次申請時並需附上治療後相關臨床資料，如給藥4週後，需追蹤胸部X光或電腦斷層等影像檢查評估療效，往後每4週做胸部X光檢查，每3個月需追蹤其作為評估藥效的影像（如胸部X光或電腦斷層），若病情惡化即不得再次申請。 (2)Lorlatinib與alectinib、ceritinib、crizotinib、brigatinib用於ALK陽性之晚期非小細胞肺癌第一線治療時，僅得擇一使用，除因病人使用後，發生嚴重不良反應或耐受不良之情形外，不得互換。 2.適用於在ceritinib、alectinib或brigatinib治療中惡化之ALK陽性的晚期非小細胞肺癌患者。 (1)須經事前審查核准後使用。 (2)每次申請事前審查之療程以三個月為限，每三個月需再次申請，再次申請時並需附上治療後相關臨床資料，若病情惡化即不得再次申請。"
   },
   {
     "code": "9.82.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Brigatinib (如Alunbrig)",
     "rule": "- 適用於ALK陽性的晚期非小細胞肺癌第一線治療。（111/8/1、113/6/1) - 需經事前審查核准後使用： - 每次申請事前審查之療程以3個月為限，每3個月需再次申請。 - 初次申請時需檢具確實患有非小細胞肺癌之病理或細胞檢查報告，及ALK突變檢測報告且需符合全民健康保險藥品給付規定之通則十二。 - 再次申請時並需附上治療後相關臨床資料，如給藥4週後，需追蹤胸部X光或電腦斷層等影像檢查評估療效，往後每4週做胸部X光檢查，每3個月需追蹤其作為評估藥效的影像（如胸部X光或電腦斷層），若病情惡化即不得再次申請。 - Brigatinib與alectinib、ceritinib、crizotinib、lorlatinib用於ALK陽性之晚期非小細胞肺癌第一線治療時，僅得擇一使用，除因病人使用後，發生嚴重不良反應或耐受不良之情形外，不得互換。 - 適用於在crizotinib治療中惡化之ALK陽性的晚期非小細胞肺癌患者。 - 需經事前審查核准後使用。 - 每次申請事前審查之療程以3個月為限，每3個月需再次申請，再次申請時並需附上治療後相關臨床資料，若病情惡化即不得再次申請。 3.每日最大劑量限180mg。。"
   },
   {
     "code": "9.83.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Dacomitinib (如Vizimpro)",
     "rule": "1.限單獨使用具有EGFR-TK Exon 19 Del或Exon 21 L858R點突變，且無腦轉移 (non-CNS)之局部侵犯性或轉移性(即第ⅢB、ⅢC或第Ⅳ期)之肺腺癌病患之第一線治療，需檢附EGFR基因檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。 2.使用注意事項 (1)病歷應留存確實患有肺腺癌之病理或細胞檢查報告，及EGFR-TK基因 突變檢測報告。 (2)每次處方以4週為限，再次處方時需於病歷記錄治療後相關臨床資 料，如每4週需追蹤胸部X光或電腦斷層等影像檢查，每8至12週需 進行完整療效評估（如胸部X光或電腦斷層）。 (3)本藥品與gefitinib、erlotinib及afatinib，僅得擇一使用，除因 耐受性不良，不得互換。如需更換使用本藥品，必須符合本藥品第一 線使用於具有EGFR-TK Exon 19 Del或Exon 21 L858R點突變，且無 腦轉移(non-CNS)之局部侵犯性或轉移性(即第ⅢB、ⅢC或第Ⅳ期)肺 腺癌之限制。 (4)每日限用1粒。"
   },
   {
     "code": "9.84.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Copanlisib (如Aliqopa）(刪除)",
     "rule": ""
   },
   {
     "code": "9.85.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "PARP抑制劑(如olaparib、niraparib、talazoparib)",
     "rule": "1.卵巢、輸卵管或原發性腹膜癌(olaparib、niraparib)：(109/11/1、 111/6/1、111/8/1、112/1/1、113/3/1、113/6/1、113/9/1、114/3/1、114/6/1、114/8/1) (1)單獨使用olaparib於具下列所有條件的病人做為維持治療，限用兩年： I.對第一線含鉑化療有治療反應後使用。 Ⅱ.具germline or somatic BRCA 1/2致病性或疑似致病性突變。  Ⅲ.FIGO (International Federation of Gynecology and Obstetrics) Stage III or IV disease。 (2)單獨使用niraparib於具下列所有條件的病人做為維持治療，限用兩年： I.對第一線含鉑化療有治療反應後使用。 Ⅱ.檢測結果符合下列任一情形之病人： i.具germline or somatic BRCA 1/2 致病性或疑似致病性突變病人。 ii.具同源重組缺陷(Homologous Recombination Deficient, HRD)陽性且BRCA wild type之高度惡性病人。 Ⅲ.FIGO (International Federation of Gynecology and Obstetrics) Stage III or IV disease。 (3)限olaparib併用 bevacizumab(限使用Alymsys、Abevmy、Vegzelma或 Mvasi)，使用於具下列所有條件的成年病人做為維持治療，限用兩年：： I.對第一線含鉑化療合併bevacizumab有反應(完全反應或部分反應)。 Ⅱ.其癌症帶有下列任一定義的DNA同源修復系統缺失 (homologous recombination deficiency, HRD)： i.致病性或疑似致病性BRCA突變。 ii.基因體不穩定(genomic instability)。 (4)須經事前審查核准後使用： I.每次申請之療程以6個月為限。 Ⅱ.初次申請時需檢附germline or somatic BRCA 1/2突變檢測報告或HRD陽性檢測報告，且需符合全民健康保險藥品給付規定之通則十二。  Ⅲ.再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。"
   },
   {
     "code": "9.86.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Vandetanib (如Caprelsa)",
     "rule": "- 適用於無法進行手術切除的局部侵犯或轉移性甲狀腺髓質癌，並且為症狀性及疾病侵襲性的患者。 - 需經事前審查核准後使用，每次申請之療程以6個月為限，送審時需檢送影像資料，每6個月評估一次。 - 出現疾病惡化或無法忍受之藥物不良反應，應立即停用。 4.每日最大劑量為300毫克。"
   },
   {
     "code": "9.87.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Trastuzumab emtansine (如Kadcyla)",
     "rule": "1.早期乳癌 (1)使用於具HER2過度表現(IHC 3+或FISH+)之早期乳癌病人，曾接受過至少6個療程（每3週一療程，至少16週）的化學治療（其中至少3個療程(9週)的taxane藥物）和至少3個療程(9週)的trastuzumab術前輔助治療後，仍有殘留病灶的術後輔助治療，且需符合下列任一條件： I.具腋下淋巴結轉移但無遠處臟器轉移之早期乳癌病人。 Ⅱ.未發生腋下淋巴結轉移，但雌激素受體(ER)為陰性且腫瘤大於2公分之早期乳癌病人。 (2)經事前審查核准後使用，核准後每24週須檢附療效評估資料再次申請，若疾病有惡化情形即不應再行申請。每位病人使用本藥品以14個療程為上限。 (3)排除使用本藥品條件： I.未於術後12週內開始治療或提出治療申請。 Ⅱ.左心室射出分率少於45%或有症狀的心衰竭病人。 Ⅲ.不得與其他抗HER2藥物併用。 (4)本藥品申請通過後，如轉換成trastuzumab或其他抗HER2藥物後不得再次申請本藥品，且本藥品與trastuzumab使用於早期乳癌手術前後的總療程合併計算，每位病人以全部18個療程為上限。 2.轉移性乳癌 (1)限單獨使用於先前未使用過本藥品且HER2過度表現(IHC3+或FISH+)之轉移性乳癌病人作為二線治療，並同時符合下列情形： I.之前分別接受過trastuzumab與一種taxane藥物治療，或其合併療法，或pertuzumab與trastuzumab與一種taxane藥物治療。 Ⅱ.之前已經接受過轉移性癌症治療，或在輔助療法治療期間或完成治療後6個月內癌症復發。 Ⅲ.合併有主要臟器(不包含骨及軟組織)轉移。 (2)經事前審查核准後使用，核准後每12週須檢附療效評估資料再次申請，若疾病有惡化情形即不應再行申請，每位病人至多給付10個月(13個療程為上限)。 (3)Trastuzumab emtansine、lapatinib和trastuzumab deruxtecan僅能擇一給付，不得互換。"
   },
   {
     "code": "9.88.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ixabepilone (如Ixempra)",
     "rule": "1.限Ixabepilone合併capecitabine用於局部晚期或轉移性乳癌患者，需符合以下條件之一： (1)對taxane有抗藥性且無法接受anthracycline治療者。 (2)對taxane及anthracycline治療無效者。 2.每3個療程需進行療效評估，病歷應留存評估紀錄，無疾病惡化方可繼續使用。 3.Ixabepilone與eribulin用於治療上述之轉移性乳癌患者時，僅得擇一使用，且不得互換(ixabepilone限用於未曾使用過eribulin之病患)。"
   },
   {
     "code": "9.89.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "(刪除)",
     "rule": ""
   },
   {
     "code": "9.90.",
-    "category": "Ixazomib (如Ninlaro)：(109/3/1、112/4/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Apalutamide (如Erleada)",
     "rule": "1.治療高風險非轉移性去勢抗性前列腺癌(high risk nmCRPC)的成年男性。 (1)須經事前審查核准後使用。 (2)初次申請時需檢附病理報告、使用雄性素去除療法紀錄，系列PSA和睪固酮數據，三個月內影像報告證明無遠端轉移。 (3)ECOG分數須≦1。 (4)PSA doubling time≦10個月，PSA倍增之時間，應依線性回歸模型計算，且其參數取得需基於下列原則： Ⅰ.至少三個連續PSA測量值，且各測量值皆≧0.2 ng/mL（最高的PSA值必須>1.0ng/ml）。 Ⅱ.應包含先前ADT治療期間的測量值，且最少一測量值為最近3個月內測得之PSA數值。 Ⅲ.第一個和最後一個PSA測量值間隔需≧8週，但≦12個月。 (5)每3個月需再次申請，申請之療程以3個月為限。再次申請時，有PSA progression者，需檢附影像學報告，若影像學報告證實轉移，則需停藥;無PSA progression者，則每6個月需檢附影像學報告，若影像學報告證實轉移，則需停藥。 註： PSA progression 定義為:PSA下降達最低值(nadir)後，出現 PSA值上升較 nadir≧25%，且PSA≧2 ng/mL，並於至少3週後，再次抽血確認PSA值有上升趨勢。 2.治療高風險轉移性的去勢敏感性前列腺癌(mCSPC)，總療程以36個月為上限。 (1)須經事前審查核准後使用。 (2)每3個月需再次申請，再申請時若PSA值下降未超過治療前的50%以上，則需停藥。 (3)下降達最低值後之持續追蹤出現PSA較最低值上升50%以上且PSA≧2ng/mL，則需停藥，但影像學證據尚無疾病進展者，可以繼續使用。 (4)前述高風險需符合下列三項條件中至少兩項： Ⅰ.葛里森分數(Gleason score)≧8。 Ⅱ.骨骼掃描出現三個(含)以上病灶且至少其中一處以上為非脊柱及非骨盆腔轉移。 Ⅲ.出現內臟轉移。 3.不論病人處於轉移或非轉移的狀態下，新型荷爾蒙藥品(abiraterone、apalutamide、darolutamide和enzalutamide) ，及olaparib 與 abiraterone併用，終生僅給付一種治療，且除非出現嚴重不耐受反應導致必須永久停止治療，不得互換。"
   },
   {
     "code": "9.91.",
-    "category": "Ramucirumab (如Cyramza)：(110/5/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Dabrafenib (如Tafinlar)、Trametinib (如Mekinist)",
     "rule": "1.Dabrafenib和trametinib併用於治療BRAF V600突變陽性ECOG≤ 2且罹患無法切除(第ⅢC期)或轉移性(第Ⅳ期)黑色素瘤之病人： (1)需經事前審查核准後使用，每次申請療程以3個月為限，如發現病情惡化應停止使用。 (2)再申請時應檢附前次治療結果評估資料。 2.Dabrafenib和trametinib併用於BRAF V600突變陽性且完全切除之第三期黑色素瘤病人術後輔助治療： (1)需經事前審查核准後使用，每次申請療程以6個月為限，如發現病情惡化應停止使用。 (2)限用1年。 3.本品(dabrafenib併用trametinib之治療組合)與vemurafenib僅能擇一使用，除因耐受性不良，不得互換。 4. Dabrafenib與trametinib併用於治療BRAF V600E突變之轉移性(第IV期)非小細胞肺癌成人病人： (1)作為先前已接受過第一線含鉑化學治療，但仍惡化的轉移性(第IV期)非小細胞肺癌成人病人第二線治療，使用本品無效後則不再給付該適應症相關之免疫檢查點PD-1、PD-L1抑制劑。 (2)須經事前審查核准後使用: I.初次申請時需檢附確實患有非小細胞肺癌之病理或細胞檢查報告以及 BRAF V600E 突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 II.每次申請事前審查之療程以3個月為限，每3個月需再次申請，再次申請時並需附上治療後相關臨床資料，若病情惡化即不得再次申請。 1.單一療法適用於接受過sorafenib治療失敗後之轉移性或無法手術切除且不適合局部治療或局部治療失敗，且alpha- fetoprotein (AFP)≥ 400ng/mL之Child-Pugh A class晚期肝細胞癌成人患者。 2.需經事前審查核准後使用，初次申請之療程以12週為限，之後每8週評估一次。送審時需檢送影像資料，無疾病惡化方可繼續使用。 3.Ramucirumab與regorafenib、nivolumab僅能擇一使用，不得互換。"
   },
   {
     "code": "9.92.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ramucirumab (如Cyramza)",
     "rule": "1.單一療法適用於接受過sorafenib治療失敗後之轉移性或無法手術切除且不適合局部治療或局部治療失敗，且alpha- fetoprotein (AFP)≥ 400ng/mL之Child-Pugh A class晚期肝細胞癌成人患者。 2.需經事前審查核准後使用，初次申請之療程以12週為限，之後每8週評估一次。送審時需檢送影像資料，無疾病惡化方可繼續使用。 3.Ramucirumab與regorafenib、nivolumab僅能擇一使用，不得互換。"
   },
   {
     "code": "9.93.",
-    "category": "Ramucirumab (如Cyramza)：(110/5/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Entrectinib (如Rozlytrek)",
     "rule": "1.單獨使用於ROS-1陽性之局部晚期或轉移性非小細胞肺癌的成人病人。 2.須經事前審查核准後使用： (1)需檢具確實患有非小細胞肺癌之病理或細胞檢查報告，以及符合診斷之ROS-1突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)每次申請事前審查之療程以三個月為限，每三個月需再次申請，再次申請時並需附上治療後相關臨床資料，如給藥4週後，需追蹤胸部X光或電腦斷層等影像檢查評估療效，往後每4週做胸部X光檢查，每隔8週需追蹤其作為評估藥效的影像(如胸部X光或電腦斷層)，若病情惡化即不得再次申請。 3.Entrectinib與crizotinib用於ROS-1陽性之晚期非小細胞肺癌時，僅得擇一使用，除因病人使用後，發生嚴重不良反應或耐受不良之情形外，不得互換。 4.每日最大劑量限600mg。"
   },
   {
     "code": "9.94.",
-    "category": "Ramucirumab (如Cyramza)：(110/5/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Darolutamide(如Nubeqa)",
     "rule": "1.作為單一療法或與docetaxel併用於治療高風險轉移性的去勢敏感性前列腺癌(mCSPC)，總療程以36個月為上限。 (1)須經事前審查核准後使用。 (2)每3個月需再次申請，再申請時若PSA值下降未超過治療前的50%以上，則需停藥。 (3)下降達最低值後之持續追蹤出現PSA較最低值上升50%以上且PSA≧2ng/mL，則需停藥，但影像學證據尚無疾病進展者，可以繼續使用。 (4)前述高風險需符合下列三項條件中至少兩項： Ⅰ.葛里森分數(Gleason score)≧8。 Ⅱ.骨骼掃描出現三個(含)以上病灶且至少其中一處以上為非脊柱及非骨盆腔轉移。 Ⅲ.出現內臟轉移。 (5)與docetaxel併用，docetaxel 限使用6個療程，且須符合下列所有條件： Ⅰ.ECOG≦1。 Ⅱ.絕對嗜中性球計數≧1500/mm3。 Ⅲ.血小板計數≧100,000/mm3。 IV.GPT≦2倍之正常值上限。 V.Total bilirubin≦正常值上限。 VI.eGFR≧30mL/min/1.73m2 2.治療高風險非轉移性去勢抗性前列腺癌(high risk nmCRPC)的成年男性。 (1)須經事前審查核准後使用。 (2)初次申請時需檢附病理報告、使用雄性素去除療法紀錄，系列PSA和睪固酮數據，三個月內影像報告證明無遠端轉移。 (3)ECOG分數須≦1。 (4)PSA doubling time≦10個月，PSA倍增之時間，應依線性回歸模型計算，且其參數取得需基於下列原則： Ⅰ.至少三個連續PSA測量值，且各測量值皆≧0.2 ng/mL（最高的PSA值必須>1.0ng/ml）。 Ⅱ.應包含先前ADT治療期間的測量值，且最少一測量值為最近3個月內測得之PSA數值。 Ⅲ.第一個和最後一個PSA測量值間隔需≧8週，但≦12個月。 (5)每3個月需再次申請，申請之療程以3個月為限。再次申請時，有 PSA progression 者，需檢附影像學報告，若影像學報告證實轉移，則需停藥;無PSA progression 者，則每6個月需檢附影像學報告，若影像學報告證實轉移，則需停藥。 註： PSA progression 定義為:PSA下降 達最低值(nadir)後，出現 PSA 值上升較 nadir≧25%，且PSA≧2 ng/mL，並於至少3週後，再次抽血 確認PSA值有上升趨勢。"
   },
   {
     "code": "9.95.",
-    "category": "Ramucirumab (如Cyramza)：(110/5/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Larotrectinib (如Vitrakvi)",
     "rule": "1. 適用於有NTRK基因融合的實體腫瘤成人和兒童病人，並應符合以下條件： (1)具NTRK基因融合且無已知的後天阻抗性突變(acquired resistance mutation)。 (2)為轉移性實體腫瘤，或手術切除極可能造成嚴重病症(severe morbidity)。 (3)沒有合適的替代治療選項(包含免疫檢查點抑制劑)。 2.前述1.之兒童(未滿18 歲)病人，除了嬰兒纖維肉瘤可作為(含)一線以上使用外，其餘適應症須為曾接受一線治療後無效或復發的病人。（112/12/1) 3.前述1.之成人(≧18歲)病人，包括之適應症有:（112/12/1) (1)非小細胞肺癌: I.不適合接受化學治療之晚期非小細胞肺癌成人患者，非鱗狀癌者需為EGFR/ALK/ROS-1 腫瘤基因原生型、鱗狀癌者需為EGFR/ALK 腫瘤基因原生型。 Ⅱ.先前已使用過platinum 類化學治療失敗後，又有疾病惡化，且EGFR/ALK 腫瘤基因為原生型之晚期鱗狀非小細胞肺癌患者。 Ⅲ.先前已使用過platinum 類及docetaxel /paclitaxel 類二線(含)以上化學治療均失敗，又有疾病惡化，且EGFR/ALK/ROS-1 腫瘤基因為原生型之晚期非小細胞肺腺癌患者。 Ⅳ.先前曾接受過至少一線anti-EGFR TKI 治療失敗，且因NTRK 基因融合對anti-EGFR TKI 產生抗性之局部侵犯性或轉移性之EGFR 突變非小細胞肺癌患者。 (2)大腸直腸癌:先前已使用過FOLFIRI（folinic acid/5- fluorouracil/irinotecan）或FOLFOX（folinic acid/5- fluorouracil/oxaliplatin）治療失敗，又有疾病惡化之轉移性直腸結腸癌患者。 (3)黑色素瘤:先前曾接受過至少一次全身性治療失敗，又有疾病惡化，且BRAF腫瘤基因為原生型之無法手術切除或轉移的第三期或第四期黑色素瘤患者。 (4)胰臟癌:先前曾接受過至少一次全身性治療失敗，又有疾病惡化，無法手術切除或轉移性胰臟癌患者。 (5)甲狀腺癌:用於放射性碘治療無效之局部晚期或轉移性的進行性 (progressive)甲狀腺癌。 (6)惡性神經膠質瘤或退行性星狀細胞瘤:先前曾接受過標準放射線治療以及化學藥物治療失敗之高度惡性神經膠質瘤(WHO 第4級)或"
   },
   {
     "code": "9.96.",
-    "category": "Ramucirumab (如Cyramza)：(110/5/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Decitabine",
     "rule": "1.骨髓增生不良症候群高危險性病患：頑固性貧血併有過量芽細胞（RA with excess blasts, RAEB）、轉變中的頑固性貧血併有過量芽細胞（RAEB in transformation, RAEB-T）、及慢性骨髓單核細胞性白血病（chronic myelomonocytic leukemia, CMMoL）。 2.初次申請時需經事前審查核准後使用。 3.續用本藥品不需再事前審查，惟病歷應留存確診之病理或影像診斷證明等報告，並記錄治療相關臨床資料。病患倘病情惡化至急性骨髓性白血病即應停藥。 4.急性骨髓性白血病之定義：骨髓芽細胞（myeloblast）大於30%。 5.本藥品與azacitidine僅能擇一使用，除因耐受性不良，不得互換。使用本藥品無效後，不得再申請azacitidine。"
   },
   {
     "code": "9.97.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Avapritinib (如Ayvakit)",
     "rule": "1.治療具有血小板衍生生長因子α受體(PDGFRA)D842V突變之無法切除或轉移性腸胃道間質瘤的成年病人。 2.需經事前審查核准後使用，初次申請時需檢附血小板衍生生長因子α受體(PDGFRA)D842V突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 3.每次申請事前審查之療程以6個月為限，再次申請必須提出客觀證據(如：影像學)證實無惡化，才可繼續使用。 4.每日至多處方100mg 2粒或300mg 1粒。 1. 適用於成人接受過全身性藥物治療、腫瘤具有FGFR2融合或重排、不可手術切除的局部晚期或轉移性肝內膽管癌。 2. 需經事前審查核准後使用，初次申請需檢附腫瘤組織具有FGFR2基因融合或重排之基因變異檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 3. 核准後每12週需再次申請，再次申請時需檢附療效評估資料證實無疾病惡化，才可繼續使用。 4. 每日限處方1粒。"
   },
   {
     "code": "9.98.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Pemigatinib (如Pemazyre)",
     "rule": "1. 適用於成人接受過全身性藥物治療、腫瘤具有FGFR2融合或重排、不可手術切除的局部晚期或轉移性肝內膽管癌。 2. 需經事前審查核准後使用，初次申請需檢附腫瘤組織具有FGFR2基因融合或重排之基因變異檢測報告，且需符合全民健康保險藥品給付規定之通則十二。(113/6/1) 3. 核准後每12週需再次申請，再次申請時需檢附療效評估資料證實無疾病惡化，才可繼續使用。 4. 每日限處方1粒。"
   },
   {
     "code": "9.99.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Gilteritinib(如Xospata)",
     "rule": "1.限單獨使用於具有FLT3突變的復發性或難治性急性骨髓性白血病(R/R AML)且計畫進行造血幹細胞移植的成年病人，限移植前使用，每位病人限給付6療程。病患須至少接受過一次 含anthracycline藥物的化學治療。 2.須事前審查核准後使用，初次申請時須檢附： (1)相關病歷資料。 (2)完整之造血幹細胞移植計畫，並詳細記載確認捐贈者名單及移植前調適治療等資料。需由具訓練血液及骨髓移植醫師能力之醫院申請，並由完成血液及骨髓移植訓練之醫師確認移植計畫。 (3)染色體檢驗報告，若為unfavorable karyotype(包含complex karyotype、-5、-5q、 -7、-7q、除t(9;11)外的11q23 abnormalities、inv(3)、(3;3)、t(6;9)以及t(9;22)等) 則不予給付。 (4)檢附之FLT3突變檢測結果報告，需符合全民健康保險藥品給付規定之通則十二。 3.每次申請為二個療程；續申請次二個療程時須檢附達到PR、CRi 或CR的證明方可續用。申請劑量以每日120mg為上限。"
   },
   {
     "code": "9.100.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Acalabrutinib(如Calquence)",
     "rule": "1.單獨使用於先前接受過至少一種化學或標靶治療方式無效或復發的被套細胞淋巴瘤成年病人。 - 需經事前審查核准後使用。首次申請事前審查之療程以4個月為限，之後每3個月需再次申請，再次申請時應檢附前次治療結果評估資料，如影像學檢查報告。 - 若疾病進展，則必須停止使用。 - 每位病人限給付20個月。 - 每日至多處方2粒。 - zanubrutinib、ibrutinib及acalabrutinib僅能擇一使用，唯有在出現無法忍受其副作用時方可互換。三者使用總療程合併計算，以全部20個月為上限。 2.單獨使用於慢性淋巴球性白血病(CLL)成年病人。 - ECOG 分數須≦2。 - 需符合下列任一情況： - 具有17p缺失。 - 非IGHV突變且曾接受至少1種包括alkylating agent與anti-CD20(如R-CVP、RCHOP、rituximab加bendamustine等)的治療2個療程以上仍惡化或復發者。 - CLL病人需先前曾接受至少2線治療(排除僅有口服藥物之療程)，治療中須包括alkylating agent與anti-CD20(如R-CVP、RCHOP、rituximab加bendamustine等)的治療，每線治療至少2個療程以上後，仍惡化或復發者。 - 開始使用前之疾病狀態需出現下列任一情形： - 進行性的血液相惡化至Hb < 10.0 gm/dL或PLT < 100 K/uL，且無其他原因可以解釋。 - 脾臟腫大超過左肋骨下緣6cm。 - 淋巴結腫大，最長徑超過10cm。 - 周邊血液淋巴球在2個月內增加50%以上，或倍增時間(doubling time)小於6個月。 - 出現自體免疫併發症，且經類固醇治療無效。 - 出現具症狀的淋巴結外病灶。 - 需經事前審查核准後使用，每3個月需再次申請。再次申請時需檢附療效評估資料，若未達iwCLL (International Workshop on CLL)最新定義之partial remission或complete remission，則不予給付。 - 在具有17缺失病人，acalabrutinib、ibrutinib、venetoclax與zanubrutinib四者僅能擇一使用，唯有在出現無法忍受其副作用時方可互換。四者使用總療程合併計算，以全部24個月為上限。 - 在非IGHV突變二線以"
   },
   {
     "code": "9.101.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Tepotinib (如Tepmetko):",
     "rule": "1.適用於治療轉移性非小細胞肺癌的成人病人，其腫瘤帶有導致間質上皮轉化因子外顯子14 跳讀式突變(MET exon 14 skipping mutation)。 2.須經事前審查核准後使用: (1)初次申請時需檢具確實患有非小細胞肺癌之病理或細胞檢查報告,以及符合診斷之間質上皮轉化因子外顯子14跳讀式突變(MET exon 14 skipping mutation)檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)每次申請事前審查之療程以3個月為限，每3個月需再次申請，再次申請時並需附上治療後相關臨床資料，若病情惡化即不得再次申請。 3.使用本品無效後則不再給付該適應症相關之免疫檢查點PD-1、PD-L1抑制劑。 4.每日最多處方2粒。"
   },
   {
     "code": "9.102.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Dinutuximab beta (如Qarziba)",
     "rule": "1.限用於年齡12個月以上的初診斷高危險神經母細胞瘤病人之初次使用GD2免疫治療；且在接受自體幹細胞移植前至少達到部分緩解，在自體幹細胞移植後，可申請以1次治療所需的5個療程為限。 2.限移植後12個月內開始使用。 3.自初診斷至使用本品前，出現復發、新轉移或疾病惡化者，不得申請給付。 4.經事前審查核准後使用。"
   },
   {
     "code": "9.103.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Tisagenlecleucel(如Kymriah)",
     "rule": "1.治療患有難治型、移植後復發、第二次或二次以上復發之B細胞急性淋巴性白血病（ALL），且需符合以下條件: (1)年齡25歲以下。 (2)為經過二線標準治療(包括TPOG protocol、GRAALL、Hyper-CVAD等或是造血幹細胞移植後)之復發型B細胞急性淋巴性白血病，或是需經過2位具有血液及造血幹細胞移植訓練之專科醫師確認無法進行造血幹細胞移植之難治型B細胞急性淋巴性白血病。 (3)若病人已接受過異體造血幹細胞移植後復發，則不論病人疾病狀態處於完全緩解、部分緩解或疾病惡化均可接受本藥品治療。 (4)病人預期壽命至少3個月以上，且完全符合以下條件: Ⅰ.ECOG < 2 (需有3次以上之醫療紀錄)。 Ⅱ.腎功能:腎絲球過濾速率Estimated Glomerular Filtration Rate (eGFR) ≥ 60 mL/min/1.73 m2或肌酸酐creatinine ≤1.5 x ULN。 Ⅲ.肝功能: ALT ≤ 5 x ULN且bilirubin <2.5mg；Gilbert-Meulengracht syndrome患者須符合total bilirubin is ≤ 3.0 x ULN 且 direct bilirubin ≤ 1.5 x ULN。 Ⅳ.心臟功能: 左心室射出率 > 50%，沒有心包膜積液，且過去一年無任何重大心臟疾病。 Ⅴ.肺功能:血氧 > 92% on room air (需有兩次以上的醫療紀錄)。 2.治療經二線或二線以上全身治療後之復發性或難治性瀰漫性大B細胞淋巴瘤（DLBCL）的成人病人。且需符合以下條件: (1)經自體造血幹細胞移植後疾病復發或惡化（不論其後續治療處於完全緩解、部分緩解或疾病惡化）。 (2)或需經過具有骨髓移植訓練的骨髓移植專科醫師確認無法進行造血幹細胞移植者，無法進行造血幹細胞移植之定義，符合以下五個條件之一： Ⅰ.年齡75歲以上。 Ⅱ.年齡70歲以上且HCT-CI分數在1分或以上。 Ⅲ.年齡65歲以上且HCT-CI分數在2分或以上。 Ⅳ.HCT-CI分數在4分或以上。 Ⅴ.經收集自體造血幹細胞2次後仍無法收集超過2*106 CD34+細胞/公斤。 (3)病人預期壽命至少3個月以上，且符合以下條件: Ⅰ. ECOG<2 (需有3次以上之醫療紀錄)。 Ⅱ Extranodal site ≤ 3 "
   },
   {
     "code": "9.104.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Zanubrutinib(如Brukinsa)",
     "rule": "- 單獨使用於先前接受過至少一種化學或標靶治療方式無效或復發的被套細胞淋巴瘤成年病人。 - 需經事前審查核准後使用(事審代碼：C83N2)。首次申請事前審查之療程以4個月為限，之後每3個月需再次申請，再次申請時應檢附前次治療結果評估資料，如影像學檢查報告。 - 若疾病進展，則必須停止使用。 - 每日至多處方4粒。 - Zanubrutinib、ibrutinib及acalabrutinib僅能擇一使用，使用zanubrutinib者無疾病惡化，可繼續使用，唯出現無法忍受其副作用時，與ibrutinib及acalabrutinib互換時限使用20個月，三者使用總療程合併計算。 - 單獨使用於曾接受含一種單株抗體及一種靜脈注射之alkylating agent之chemoimmunotherapy至少4個療程以上後復發者的華氏巨球蛋白血症成年病人。。 - 病患須具下列至少3種條件： - 年齡＞65歲。 - 血紅素計數≦11g/dL。 - 血小板計數≦100×109/L。 - β2-microglobulin>3mg/L。 - 免疫球蛋白IgM>7g/dL。 - 需經事前審查核准後使用(事審代碼：C88N3)。首次申請事前審查之療程以4個月為限，之後每3個月需再次申請，再次申請時應檢附前次治療結果評估資料，如影像學檢查報告。 - 若疾病進展，則必須停止使用。 - 每位病人限給付20個月。 - 每日至多處方4粒。 - 與obinutuzumab併用，治療先前曾接受至少兩線(每線至少4個療程)全身性治療無效或復發的濾泡性淋巴瘤成人病人。 - 需曾接受過至少一種anti-CD20 monoclonal antibody及一種靜脈注射型之alkylating agent治療。 - 需符合WHO 淋巴瘤分類為I、II或IIIa期的診斷。 - 開始使用前之疾病狀態需出現下列任一情形： - 有單一腫瘤直徑7公分以上者； - 有三顆以上之腫瘤其直徑大於3公分以上者； - 脾臟腫大，其長度16公分以上者； - 對vitalorgans造成擠壓者； - 周邊血中出現淋巴球增生超過5000/ mm3者； - 出現任一系列血球低下者（platelet<100,000/ mm3，或 Hb<10gm/dL，或absolute neutrophil count<1500/mm3)。 - B sympt"
   },
   {
     "code": "9.105.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Polatuzumab vedotin (如Polivy)",
     "rule": "1.限與bendamustine和rituximab併用，適用於第三線治療復發型（relapsed）或難治型（refractory）且未曾接受及不適合接受造血幹細胞移植的瀰漫性大型B細胞淋巴瘤（DLBCL）成年病人，並須完全符合下列條件： (1)ECOG分數≦2。 (2)未曾接受幹細胞移植且需先經兩位曾接受血液及骨髓移植訓練並合格之醫師評估為不適合接受移植之病人並滿足下列條件之一： Ⅰ.年齡在65歲（含）以上，且使用過的第二線治療含鉑類藥物（cisplatin、oxaliplatin、carboplatin）後，以影像學檢查證實疾病惡化中。 Ⅱ.年齡在65歲以下，符合HCT-CI≧3分，且使用過的第二線治療含鉑類藥物（cisplatin、oxaliplatin、carboplatin）後，以影像學檢查證實疾病惡化中。 Ⅲ.使用過第二線治療含鉑類藥物（cisplatin、oxaliplatin、carboplatin）後，在收集造血幹細胞時，即使使用plerixafor後收集的CD34陽性原始細胞仍未達每公斤體重200萬顆細胞，且以影像學檢查證實疾病惡化中。 (3)一線曾接受經兩次（含）以上rituximab合併化學治療，治療4個療程以上復發或是於治療中發生疾病惡化者。 (4)救援治療需符合以下任一條件： I. 治療2個療程以上復發或是於治療中發生疾病惡化者。 II. 經造血幹細胞移植治療失敗者。 2.需經事前審查核准後使用： (1)每次申請事前審查以3個療程為限，再次申請必須提出客觀證據（如：影像學）證實無惡化，若病情惡化即不得再次申請。 (2)每位病人終生限給付6個療程。 3.病人接受本藥物治療後，不給付造血幹細胞移植。 4.本藥品、glofitamab及epcoritamab僅得擇一給付，治療失敗後不得互換。"
   },
   {
     "code": "9.106.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Sacituzumab govitecan (如Trodelvy）",
     "rule": "1.用於治療先前已接受兩次以上全身性治療無效(其中一次需為治療晚期疾病)之無法切除的局部晚期或轉移性的三陰性乳癌成人病人。 (1)須符合下列各項條件： Ⅰ.病人身體狀況良好（ECOG≦1）。 Ⅱ.須使用過taxane類藥物至少1個療程。 Ⅲ.先前未接受過trastuzumab deruxtecan治療。 (2)須經事前審查核准後使用，每次申請之療程以3個月為限，初次申請時需檢附ER、PR、HER2皆為陰性之檢測報告。 (3)再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。 (4)Sacituzumab govitecan和trastuzumab deruxtecan僅能擇一給付，不得互換。。 2.用於治療患有無法切除的局部晚期或轉移性的HR陽性、HER2陰性之乳癌成人病人。 (1)須符合下列各項條件： Ⅰ.須排除活動性腦轉移。 Ⅱ.曾接受 CDK4/6 抑制劑≦12個月，並有內臟轉移。 Ⅲ.曾接受至少兩線(每線至少兩個完整療程或於第二個療程中產生疾病惡化)的轉移性乳癌化學治療。 (2)須經事前審查核准後使用，每次申請之療程以3個月為限，初次申請時需檢附HR陽性、HER2陰性(IHC 0、IHC 1+或 IHC 2+/ISH–)之檢測報告。 (3)再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。"
   },
   {
     "code": "9.107.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Abemaciclib (如Verzenio)",
     "rule": "1.併用內分泌療法(tamoxifen或芳香環酶抑制劑)，作為荷爾蒙受體(HR)陽性(ER或PR>30%)、第二型人類表皮生長因子受體(HER2)陰性、淋巴結陽性，高復發風險之早期乳癌成年女性病人的輔助療法，須符合下列高復發風險條件之一： (1)pALN (positive axillary lymph nodes，陽性腋下淋巴結) ≥4。 (2)pALN (陽性腋下淋巴結)為1-3 且腫瘤大小≥5 cm。 (3)pALN (陽性腋下淋巴結)為1-3 且腫瘤細胞分化第3級。 2.使用前，須接受標準之化學及放射輔助治療方可申請使用。使用中，若疾病惡化須停止使用且不得再使用其他CDK4/6抑制劑。 3.使用前，僅能接受最多12週的內分泌治療，且應於手術切除後16個月內接受本品治療。 4.須經事前審查核准後使用，每24週須再次申請並檢附療效評估資料，若疾病有惡化情形須停止使用。 5.每日至多使用2錠，使用不得超過2年。"
   },
   {
     "code": "9.108.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Isatuximab(如Sarclisa)",
     "rule": "1.限與carfilzomib/dexamethasone併用，治療先前曾接受至少1種含bortezomib或lenalidomide之療法治療失敗的多發性骨髓瘤成人患者，且須具有良好日常體能狀態(ECOG<2)者。 2.須經事前審查核准後使用： (1)首次申請為10次輸注，且需同時符合下列Ⅰ.、Ⅱ.與Ⅲ.的條件： Ⅰ.病人先前曾未接受過daratumumab之治療。 Ⅱ.具有下列任一疾病惡化的指標： 病患開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma 病患，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 iv.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 v.Plasmacytoma體積增加≧50%。 vi.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 Ⅲ.出現下列任一臨床症狀： ⅰ.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 ⅱ.Plasmacytoma 體積增加≧50%。 iii.高血鈣(corrected serum calcium＞11.0 mg/dL 或 2.75 mmol/L)。 iv.貧血(Hemoglobin 下降幅度≧ 2gm/dL且無其他原因可以解釋)。 v.腎功能惡化(eGFR需下降幅度≧25%)，且無其他原因可以解釋。 vi.出現其他end-organ dysfunctions。 (2)之後申請則為每次4次輸注，申請時必須確定paraprotein (M-protein)未上升(即表示對藥物有反應或為穩定狀態)，或對部分non-secretory type MM病人以骨髓檢查plasma cell為療效"
   },
   {
     "code": "9.109.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Enfortumab vedotin(如Padcev）",
     "rule": "1.適用於先前接受過含鉑化學治療，後續接受免疫檢查點抑制劑(如atezolizumab；nivolumab；pembrolizumab；avelumab；ipilimumab製劑)治療失敗後疾病惡化的局部晚期或轉移性泌尿道上皮癌成人病人，須檢附接受過含鉑化學治療之病歷報告。 2.使用條件： (1)病人身體狀況良好（ECOG≦2）且預期壽命至少3個月以上。 (2)病人之心肺與肝腎功能須符合下列所有條件： I.NYHA(the New York Heart Association) Functional Class I或II。 II.GOT<60U/L及GPT<60U/L，且T-bilirubin<1.5mg/dL。 III.腎功能: eGFR>30mL/min /1.73m2。 (3)無中樞神經系統(CNS)轉移。 (4)需排除病情控制不佳的糖尿病患者（HbA1c≧8%）。 3.須經事前審查核准後使用。初次申請時需檢附以下資料： (1)病人身體狀況良好(ECOG≦2)及心肺與肝腎功能之評估資料。 (2)病人12週內之疾病影像檢查及報告(如胸部X光、電腦斷層或其他可作為評估的影像)，此影像證明以可測量(measurable)的病灶為優先，如沒有可以測量的病灶，則可評估(evaluable)的病灶亦可採用。 (3)其他佐證病歷資料。 4.每次申請事前審查以3個療程為限，再次申請時需檢附療效評估資料，若病情惡化即不得再次申請，無效後或給付時程期滿後則不再給付該適應症相關之標靶藥物及免疫檢查點抑制劑。 5.每位病人限給付6個療程。"
   },
   {
     "code": "9.110.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Tirabrutinib(如Velexbru）",
     "rule": "1.適用於治療成人復發或難治型原發性中樞神經系統B細胞淋巴瘤，且符合下列各項條件： (1)復發頑固型，曾接受過至少兩個療程HD-MTX治療。 (2)細胞型態須為Large B cell。 (3)須排除HIV(+)及Burkitt lymphoma患者。 2.須經事前審查核准後使用。首次申請事前審查之療程以3個月為限，之後每3個月需再次申請，再次申請時應檢附前次治療結果評估資料，如影像學檢查報告。 3.每日至多處方6粒。 4.限給付9個月。 5.限單獨使用，不得同時使用單株抗體及化療。"
   },
   {
     "code": "9.111.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Elotuzumab(如Empliciti)",
     "rule": "1.與pomalidomide及dexamethasone併用，治療之前曾接受過至少兩種療法（包括lenalidomide和蛋白酶體抑制劑）的多發性骨髓瘤成年病人，且完全符合下列條件： (1)確認完成前次治療時或結束治療後六十天內發生疾病惡化(disease progression)。 (2)須具有良好日常體能狀態(ECOG < 2)。 2.需經事前審查核准後使用： (1)初次申請以3個療程為限，且需同時符合下列Ⅰ.與Ⅱ.的條件： Ⅰ.具有下列任一疾病惡化的指標： 病人開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： ⅰ.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ⅱ.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma 病人，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 iv.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 v.Plasmacytoma體積增加≧50%。 vi.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 Ⅱ.出現下列任一臨床症狀： ⅰ.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 ⅱ.Plasmacytoma 體積增加≧50%。 iii.高血鈣(corrected serum calcium＞11.0 mg/dL 或 2.75 mmol/L)。 iv.貧血(Hemoglobin 下降幅度≧ 2gm/dL且無其他原因可以解釋)。 v.腎功能惡化(eGFR需下降幅度≧25%)，且無其他原因可以解釋。 vi.出現其他end-organ dysfunctions。 (2)再次申請時必須確定paraprotein (M-protein)未上升(即表示對藥物有反應或為穩定狀態);或對部分non-secretory type 多發"
   },
   {
     "code": "9.112.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Pertuzumab與trastuzumab皮下注射複方製劑(如Phesgo):",
     "rule": "1.本藥品及化學療法併用於具HER2過度表現（IHC3+或FISH+），且具腋下淋巴結轉移但無遠處臟器轉移之早期乳癌病人 (1)使用於術前輔助治療，經外科手術後達病理上完全緩解者（pCR），得繼續使用至18個療程為上限。 (2)若未接受術前輔助治療，即先行手術者，可給予術後輔助治療，以18個療程為使用上限。 (3) 下列Ｉ~Ⅲ使用於外科手術前後之總療程合併計算，依藥品仿單記載以18個療程為上限： Ｉ：本藥品 Ⅱ：trastuzumab Ⅲ：pertuzumab與trastuzumab併用 (4) 須經事前審查核准後使用，核准後每24週須檢附療效評估資料再次申請，若疾病有惡化情形即不應再行申請。 2.轉移性乳癌 (1)與docetaxel併用於治療轉移後未曾以抗HER2或化學療法治療之HER2過度表現(IHC3+或FISH+)轉移性乳癌病人。 (2)須經事前審查核准後使用，核准後每18週須檢附療效評估資料再次申請，若疾病有惡化情形即不應再行申請，每位病人至多給付18個月為限。 (3)下列Ｉ~Ⅱ使用於轉移性乳癌總療程合併計算，以全部18個月為上限： Ｉ：本藥品 Ⅱ：pertuzumab與trastuzumab併用 (4)先前於早期乳癌已使用過本藥品或pertuzumab與trastuzumab併用者，不得再次申請本藥品，惟於早期乳癌治療結束至首次疾病復發轉移時間超過12個月以上者得再次申請。"
   },
   {
     "code": "9.113.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Gemtuzumab ozogamicin(如Mylotarg)",
     "rule": "1.限用於新診斷原發型CD33陽性的急性骨髓性白血病(AML)病人之標準前導與鞏固性化療時合併使用，且完全符合下列條件： (1)需為細胞遺傳學風險等級較佳(favorable)的病人。 (2)排除急性前骨髓性細胞白血病(acute promyelocytic leukemia,APL)病人。 2.需經事前審查核准後使用，用於誘導期時，以1個療程(3次輸注)為限，並需合併標準3+7緩解誘導化療使用。 3.若病患疾病達到完全緩解(即CR 或 CRi)，可續申請使用於鞏固治療期，每次申請以1個療程為限(1次輸注)，並最多給付2個鞏固治療療程(即2次輸注)。申請時需檢附前次治療結果評估資料證實無疾病惡化。 4.每人以給付5次輸注為上限。"
   },
   {
     "code": "9.114.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Fedratinib (如Inrebic)",
     "rule": "1.用於未曾接受Janus 激酶抑制劑（JAK inhibitor）治療或曾接受ruxolitinib 治療後不耐受或有禁忌症，且為International Working Group（IWG）Consensus Criteria 中度風險或高風險之骨髓纖維化，包括原發性骨髓纖維化、真性紅血球增多症後骨髓纖維化、或血小板增多症後骨髓纖維化等疾病所造成脾臟腫大（symptomatic splenomegaly）及/或其他相關全身症狀且不適於接受幹細胞移植的成人病人（stem cell transplantation）。 (1)需經事前審查核准後使用，每次申請之療程以6個月為限，送審時需檢送影像資料及症狀改善之病歷紀錄，每6個月評估一次。 (2)用藥後第一次評估時，需達到症狀反應(symptom response)或脾臟體積無惡化兩者之一，且同時無AML tranformation，方得以繼續使用。分別定義如下： Ⅰ.症狀反應：MPN-SAF-TSS分數或MPN-10與治療前基準值相比，需下降超過50%。 Ⅱ.脾臟體積無惡化：使用電腦斷層評估，脾臟長度未增加超過治療前基準值之40%以上(或體積增加未達25%以上)。 Ⅲ.AML transformation：骨髓中之芽細胞≥20%或血液中之芽細胞≥20%合併芽細胞數值≥1×109/L。 (3)用藥後第二次及其後的評估，必須顯示無疾病惡化（無症狀惡化且脾臟體積無惡化，並同時無AML transformation），方得以繼續使用。分別定義如下： Ⅰ.無症狀惡化：未出現新症狀，且MPN-SAF-TSS分數或MPN-10未超過治療前的基準值。 Ⅱ.脾臟體積無惡化：使用電腦斷層評估，脾臟長度未增加超過最佳反應(best response)時之脾臟長度40%以上(或體積增加未達25%以上)。 Ⅲ.AML transformation：骨髓中之芽細胞≥20%或血液中之芽細胞≥20%合併芽細胞數值≥1×109/L。 2.本藥品與ruxolitinib、momelotinib用於中度風險或高風險之骨髓纖維化治療時，僅得擇一給付。ruxolitinib、momelotinib治療後如疾病惡化不得換用本藥品。"
   },
   {
     "code": "9.115.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+   "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Trastuzumab deruxtecan (如Enhertu)",
     "rule": "1.單獨使用於具HER2過度表現(IHC3+或FISH+)之轉移性乳癌病人作為二線治療，並同時符合下列情形： (1)之前分別接受過 trastuzumab 與一種taxane 藥物治療，或其合併療法，或pertuzumab 與trastuzumab 與一種taxane藥物治療。 (2)之前已經接受過轉移性癌症治療，或在輔助療法治療期間或完成治療後6 個月內癌症復發。 (3)合併有主要臟器(不包含骨及軟組織)轉移。 (4)須經事前審查核准後使用，核准後每12週須檢附療效評估資料再次申請，若疾病有惡化情形即不應再行申請，每位病人至多給付18個療程為上限。 (5)Trastuzumab deruxtecan、trastuzumab emtansine 和lapatinib 僅能擇一給付，不得互換。 2.單獨使用於ER、PR皆陰性且具 HER2弱陽性(IHC 1+或IHC 2+/ISH-)表現之無法切除的局部晚期或轉移性乳癌病人，且符合下列各項條件： (1)病人身體狀況良好（ECOG≦1）。 (2)須接受過至少一種化學療法治療。 (3)須經事前審查核准後使用，每次申請之療程以12週為限，初次申請時需檢附ER、PR皆為陰性且HER2弱陽性(IHC1+或IHC2+/ISH-)之檢測報告。 (4)再次申請必須提出客觀證據（如：影像學）證實無惡化，才可繼續使用。 (5)Trastuzumab deruxtecan和sacituzumab govitecan僅能擇一給付，不得互換。 3.申報醫療費用時「總量」應依實際使用量申報，取至小數點第一位，第二位四捨五入。"
   },
   {
     "code": "9.116.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Selumetinib (如Koselugo)",
     "rule": "1.治療3歲以上至未滿18歲第1型神經纖維瘤(neurofibromatosis type1，NF1) 合併有叢狀神經纖維瘤（plexiform neurofibroma，PN）之兒童病人，且同時符合下列情形： (1)無法以手術切除。 (2)具有症狀且嚴重的PN。 2.無法以手術切除的定義為： (1)經專科醫師評估無法以外科手術治療或手術切除者，須包含下列情形其中之一： I.PN包裹住或靠近重要器官。 II.PN具侵襲性，或具高度血管分布，易導致術後大量出血、神經損傷或其他嚴重併發症者。 (2)需檢附經專科醫師評估後具名之手術風險評估報告。 (3)上述專科醫師包括：神經內科、神經外科、血液腫瘤科、整形外科、耳鼻喉科、一般外科、泌尿科、眼科、皮膚科、小兒神經科、小兒遺傳科或小兒血液腫瘤科。 3.具有症狀且嚴重的PN定義為因PN引起的嚴重症狀，且符合下列情況之一者： (1) 因腫瘤壓迫導致之中度至嚴重的疼痛，需檢附疼痛評估報告(pain scale score需≧7)。 (2)PN壓迫臟器、呼吸道、大血管或顱、脊椎、臂叢、腰叢區域神經等部位，以致影響器官功能或功能受損（如視力受損、聽力受損、下半身偏癱、大小便失禁等）。需檢附相關功能受損之評估檢驗報告。 4.需經事前審查核准後使用，每次申請以6個月為限，初次申請時須提供疾病相關檢驗及症狀證據，如照片、檢查影像、病理報告或評估報告；再次申請時應檢附前次治療結果評估資料，以RECIST標準評定藥物療效反應，如有下列情況之一，應停止使用： (1)病情惡化(PD，指與基準點或用藥後的最佳反應時相比時，目標PN最大直徑總和增加≥20%，或有新PN出現)。 (2)無法耐受藥品副作用。 (3)原無法手術切除的PN得以接受完整手術切除。 (4)經治療18個月後，初次申請之目標PN引起之症狀未改善且PN惡化。 5.每日最高劑量為100 mg。"
   },
   {
     "code": "9.117.",
-    "category": "Pemigatinib (如Pemazyre)：(112/5/1、113/6/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Selinexor(如Xpovio)",
     "rule": "1.與bortezomib及dexamethasone合併使用於先前已接受至少2種治療失敗之多發性骨髓瘤病人，且須具有良好日常體能狀態(ECOG<2)者。 2.須經事前審查核准後使用： (1)初次申請以4個療程(每療程為5週)為限，且需同時符合下列Ⅰ.與Ⅱ.的條件： I.具有下列任一疾病惡化的指標：病患開始治療前須在連續2次評估中均符合同一指標(但若為plamacytoma體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： i.若前一線治療中M component最低值≧5g/dL，血清M蛋白需增加≧1g/dL；若前一線治療中M component最低值＜5g/dL，血清M蛋白需增加≧0.5g/dL。 ii.Urine M-protein需增加≧0.2gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma病患，骨髓漿細胞(plasmacells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 iv.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 v.Plasmacytoma體積增加≧50%。 vi.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 II.出現下列任一臨床症狀： i.新產生的bone lesion(s)或plasmacytoma；且須經病理切片證實。 ii.Plasmacytoma體積增加≧50%。 iii.高血鈣(corrected serumcalcium＞11.0mg/dL或2.75mmol/L)。 iv.貧血(Hemoglobin下降幅度≧2gm/dL且無其他原因可以解釋)。 v.腎功能惡化(eGFR需下降幅度≧25%)，且無其他原因可以解釋。 vi.出現其他end-organ dysfunctions。 (2)再次申請時必須確定paraprotein(M-protein)未上升(即表示對藥物有反應或為穩定狀態)；或對部分non-secretory type MM病人以骨髓檢查plasma cell為療效依據，證明為對藥物有反應或為穩定狀態，方可繼續使用。續用時的申請每次以4個療程為限。 (3)每人終生以8個療程為上限。"
   },
   {
     "code": "9.118.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Elranatamab (如Elrexfio)",
     "rule": "1.適用於治療先前曾接受至少四線療法(包括一種蛋白酶體抑制劑、一種免疫調節劑和一種抗CD38單株抗體)並在最近治療後顯示為疾病惡化的復發性或難治性多發性骨髓瘤成人病人，且須具有良好日常體能狀態(ECOG≤2)。 2.須經事前審查核准後使用： (1)首次申請為13次輸注，且需同時符合下列Ⅰ.與Ⅱ.的條件： I.具有下列任一疾病惡化的指標：病人開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： i.若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component 最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 ii.Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 iii.在non-secretary myeloma病人，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 iv.新產生的bone lesion(s)或plasmacytoma，且須經病理切片證實。 v.Plasmacytoma體積增加≧50%。 vi.周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 II.出現下列任一臨床症狀： i.新產生的bone lesion(s)或plasmacytoma，且須經病理切片證實。 ii.Plasmacytoma 體積增加≧50%。 iii.高血鈣(corrected serum calcium＞11.0 mg/dL或2.75 mmol/L)。 iv.貧血(Hemoglobin 下降幅度≧ 2gm/dL 且無其他原因可以解釋)。 v.腎功能惡化(eGFR下降幅度≧25%)，且無其他原因可以解釋。 vi.出現其他end-organ dysfunctions。 (2)再次申請時必須確定paraprotein (M-protein)未上升(即表示對藥物有反應或為穩定狀態)，或對部分non-secretory type MM 病人以骨髓檢查plasma cell 為療效依據，方可繼續使用。續用申請每次以13次輸注為限。 3.每位病人終生限給付39次輸注"
   },
   {
     "code": "9.119.",
-    "category": "肌肉骨骼系統藥物 Drugs acting on the musculo-skeletal system",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Teclistamab (如Tecvayli)",
     "rule": "- 適用於治療先前曾接受至少四線療法(包括一種蛋白酶體抑制劑、一種免疫調節劑和一種抗CD38單株抗體)並在最近治療後顯示疾病惡化的復發性或難治性多發性骨髓瘤成人病人，且須具有良好日常體能狀態(ECOG ≤ 2)。 - 須經事前審查核准後使用： - 首次申請為30mg/3ml規格2次輸注與153mg/1.7ml規格11次輸注，且需同時符合下列Ⅰ.與Ⅱ.的條件： Ⅰ.具有下列任一疾病惡化的指標：病人開始治療前須在連續2次評估中均符合同一指標 (但若為plamacytoma 體積增加，或是新產生的bone lesion(s)或新plasmacytoma，則僅需1次評估)： - 若前一線治療中M component 最低值≧5 g/dL，血清M蛋白需增加≧1 g/dL；若前一線治療中M component 最低值＜5 g/dL，血清M蛋白需增加≧0.5g/dL。 - Urine M-protein需增加≧0.2 gm/24Hr，且需較前一線治療中的最低值增加≧25%。 - 在non-secretary myeloma病人，骨髓漿細胞 (plasma cells)之比例絕對值增加≧10%，且需較前一線治療中的最低值增加≧25%。 - 新產生的bone lesion(s)或plasmacytoma，且須經病理切片證實。 - Plasmacytoma體積增加≧50%。 - 周邊血液中漿細胞比例≧20%或漿細胞絕對值≧2000 cells/μL。 Ⅱ.出現下列任一臨床症狀： - 新產生的bone lesion(s)或plasmacytoma，且須經病理切片證實。 - Plasmacytoma 體積增加≧50%。 - 高血鈣(corrected serum calcium＞11.0 mg/dL 或2.75 mmol/L)。 - 貧血(Hemoglobin 下降幅度≧ 2gm/dL 且無其他原因可以解釋)。 - 腎功能惡化(eGFR下降幅度≧25%)，且無其他原因可以解釋。 - 出現其他end-organ dysfunctions。 - 再次申請時必須確定paraprotein (M-protein)未上升(即表示對藥物有反應或為穩定狀態)，或對部分non-secretory type MM 病人以骨髓檢查plasma cell 為療效依據，方可繼續使用。續用時的申請每次以153mg/1.7ml規格13次輸注為限。 - 每位病人終生限給付39次輸注(含30mg/3ml規格共2次輸注、153mg/1.7ml規格共37次輸注)。 - 執行醫師須完全符合下列資格： - 醫師必須為血液病或造血幹細胞移植專科醫師且須完成血液病和造血幹細胞移植的相關照護訓練。(114/5/1、114/8/1) - 每兩年接受至少6小時中華民國血液及骨髓移植學會或中華民國血液病學會舉辦之雙特異性抗體相關治療教育訓練。 Teclistamab與elranatamab僅能擇一給付，除因耐受性不良，不得互換。二者使用總療程合併計算，以全部39次輸注為上限。"
   },
   {
     "code": "9.120.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Glofitamab（如Columvi）",
     "rule": "1.用於治療先前曾接受至少兩線全身治療之復發性或難治性瀰漫性大B細胞淋巴瘤 (DLBCL) 的成人病人，且須完全符合以下條件： (1) 具CD20抗原陽性。 (2) 一線曾接受rituximab合併化學治療(包含CD20)，及含有anthracycline類藥物的治療，治療四個療程以上復發或是於治療中發生疾病惡化者。 (3) 救援治療需符合以下任一條件： Ⅰ.治療二個療程以上復發或是於治療中發生疾病惡化者。 Ⅱ.經造血幹細胞移植治療失敗者。 (4) ECOG為0或1。 (5) 病人不得有以下任一疾病: Ⅰ.中樞神經系統淋巴瘤或中樞神經疾病。 Ⅱ.嚴重的心血管疾病，如NYHA (New York Heart Association) Class Ⅲ或Ⅳ。 Ⅲ.自體免疫疾病正積極治療者。 2. 需經事前審查以核准使用，每次申請事前審查以3個療程為限；首次再申請須檢附達到CR或PR的證明方可續用；其後續申請須證明疾病無惡化方可續用。若病情惡化即須停用。 3. 總療程以12個療程為上限；每位病人一生限用一次連續療程(12個療程)，不得重複申請。 4. 限以obinutuzumab 1,000mg作為療程之前置治療，僅用以降低療程中誘導細胞激素釋放症候群(CRS)的風險。 5. 執行醫師須完全符合下列資格： (1)醫師必須為血液病或造血幹細胞移植專科醫師且須完成血液病或造血幹細胞移植的相關照護訓練。 (2)每兩年接受至少6小時中華民國血液及骨髓移植學會或中華民國血液病學會舉辦之雙特異性抗體相關治療教育訓練。 6. 本藥品、polatuzumab vedotin及 epcoritamab僅得擇一給付，治療失敗後不得互換。"
   },
   {
     "code": "9.121.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Epcoritamab (如Epkinly)",
     "rule": "1.適用於治療先前曾接受至少兩線全身治療之復發性或難治性瀰漫性大B細胞淋巴瘤 (DLBCL) 的成人病人，且須完全符合以下條件： (1)具CD20抗原陽性。 (2)一線曾接受rituximab合併化學治療(包含CD20)，及含有anthracycline類藥物的治療，治療四個療程以上復發或是於治療中發生疾病惡化者。 (3)救援治療需符合以下任一條件： Ⅰ.治療二個療程以上復發或是於治療中發生疾病惡化者。 Ⅱ.經造血幹細胞移植治療失敗者。 (4)ECOG為0或1。 (5)病人不得有以下任一疾病: Ⅰ.中樞神經系統淋巴瘤或中樞神經疾病。 Ⅱ.嚴重的心血管疾病，如NYHA (New York Heart Association) Class Ⅲ或Ⅳ。 Ⅲ.自體免疫疾病正積極治療者。 2.須經事前審查以核准使用，每次申請事前審查以3個療程為限；首次再申請須檢附達到CR或PR的證明方可續用；其後續申請須證明疾病無惡化方可續用。若病情惡化即須停用。 3.總療程以12個療程為上限；每位病人一生限用一次連續療程(12個療程)，不得重複申請。 4.執行醫師須完全符合下列資格： (1)醫師必須為血液病或造血幹細胞移植專科醫師且須完成血液病或造血幹細胞移植的相關照護訓練。 (2)每兩年接受至少6小時中華民國血液及骨髓移植學會或中華民國血液病學會舉辦之雙特異性抗體相關治療教育訓練。 5.本藥品、glofitamab、polatuzumab vedotin，三者僅得擇一給付，治療失敗後不得互換。"
   },
   {
     "code": "9.122.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Asciminib (如Scemblix)",
     "rule": "1.限用於治療先前曾接受2種以上的酪胺酸激酶抑制劑治療，且發生耐受性不良或治療無效的慢性期費城染色體陽性之慢性骨髓性白血病(Ph+CML-chronic phase)成年病人。 2.不能為具有T315I或V299L突變之BCR-ABL融合基因的疾病。 3.使用後無法耐受藥物副作用或發生疾病進展，須停止使用。 4.1~2項規定之疾病診斷或追蹤若為依據基因檢測報告，需符合全民健康保險藥品給付規定之通則十二。"
   },
   {
     "code": "9.123.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Ripretinib(如Qinlock）",
     "rule": "1.適用於治療已接受3種或以上激酶抑制劑(包括imatinib)治療的晚期胃腸道基質瘤(GIST)成人病人。 2.需經事前審查核准後使用，每次申請之療程以3個月為限，送審時需檢送影像資料，每3個月評估一次。治療期間出現疾病惡化，則不可繼續使用。 3.本藥品不得合併其他藥品，每日至多處方3粒。"
   },
   {
     "code": "9.124.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Tafasitamab（如Minjuvi）",
     "rule": "1.限與lenalidomide(限使用Leavdo、Lelimide及Revlimid)併用，適用於經一線全身治療含rituximab治療復發型，不適合接受造血幹細胞移植瀰漫性大型B細胞淋巴瘤(DLBCL)成人病人，且須完全符合以下條件： (1)具CD19抗原陽性。 (2)一線曾接受rituximab合併化學治療(包含CD20)，及含有anthracycline類藥物的治療，治療四個療程以上並於12個月內復發者。 (3)ECOG為0或1。 (4)病人不得有以下任一疾病: Ⅰ.中樞神經系統淋巴瘤或中樞神經疾病。 Ⅱ.嚴重的心血管疾病，如NYHA (New York Heart Association) Class Ⅲ或Ⅳ。 Ⅲ.自體免疫疾病正積極治療者。 2.須經事前審查核准以使用，每次申請事前審查以3個療程為限，首次再申請須檢附達到CR或PR的證明方可續用；其後續申請須證明疾病無惡化方可續用。若病情惡化即須停用。 3.總療程以12個療程為上限；每位病人一生限用一次 (12個療程)，不得重複申請。 4.執行醫師須為血液病或造血幹細胞移植專科醫師且須完成血液病或造血幹細胞移植的相關照護訓練。 5.病人接受本藥物治療後，不給付造血幹細胞移植。"
   },
   {
     "code": "9.125.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Quizartinib（如Vanflyta）",
     "rule": "1. 限用於新確診為FLT3-ITD 突變陽性的急性骨髓性白血病(AML)成人病人，於標準前導(cytarabine 和anthracycline)與鞏固性化療(cytarabine)時合併使用，及於維持治療時單獨使用。 2. 需排除急性前骨髓性細胞白血病（acute promyelocytic leukemia，APL）的病人。 3. 首次用於標準前導期，可免事前審查，且以2個療程為限。若在2個療程後仍未達完全緩解，則不得再使用。 4. 續用於鞏固治療時需經事前審查核准後使用，申請時須檢附FLT3 突變陽性檢測結果及日期、化學治療處方紀錄及療效評估，每次續用申請以2個療程為限，並需檢附前次治療結果評估資料證實無疾病進展，才可繼續使用。前導治療與鞏固治療每人以總共給付6個療程為上限。 5. 維持治療僅限於無疾病進展且尚未接受造血幹細胞移植的病人，病人接受造血幹細胞移植後即需停用。續用維持治療須經審查核准後使用，初次申請為3個療程，並須檢附前次治療結果評估資料證實無疾病進展才可繼續使用，每3個療程需再次申請，可治療至疾病復發或無法耐受藥物毒性為止。維持治療每人以24個療程為上限。 6. 前導治療與鞏固治療限與midostaurin僅得擇一使用，除因耐受性不良，不得互換。 7. 維持治療限與azacitidine擇一使用，除因耐受性不良，不得互換。"
   },
   {
     "code": "9.126.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Amivantamab(如Rybrevant)",
     "rule": "1.與carboplatin 及pemetrexed 併用，適用於罹患帶有表皮生長因子受體(EGFR) exon 20 插入突變之局部晚期或轉移性非小細胞肺癌(NSCLC)的成人病人，作為第一線治療。 2.需經事前審查核准後使用： (1)初次申請時需檢具確實患有非小細胞肺癌之病理或細胞檢查報告，及檢具表皮生長因子受體 (EGFR) exon 20插入突變分析檢測結果報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)每次申請事前審查之療程以3個月為限，每3個月需再次申請，再次申請時需檢附療效評估資料，若病情惡化即不得再次申請。"
   },
   {
     "code": "9.127.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Momelotinib (如Omjjara)",
     "rule": "1.用於未曾接受Janus激酶抑制劑（JAK inhibitor）治療或曾接受ruxolitinib、fedratinib治療後不耐受或有禁忌症，且為International Working Group（IWG）Consensus Criteria中度風險或高風險之骨髓纖維化，包括原發性骨髓纖維化、真性紅血球增多症後骨髓纖維化、或血小板增多症後骨髓纖維化等疾病所造成脾臟腫大（symptomatic splenomegaly）及/或其他相關全身症狀且不適於接受幹細胞移植（stem cell transplantation）且併有中至重度貧血之成人病人。 (1)需經事前審查核准後使用，每次申請之療程以6個月為限，送審時需檢送影像資料及症狀改善之病歷紀錄，每6個月評估一次。 (2)用藥後第一次評估時，需達到症狀反應(symptom response)或脾臟體積無惡化兩者之一，且同時無AML tranformation，方得以繼續使用。分別定義如下： Ⅰ.症狀反應：MPN-SAF-TSS分數或MPN-10與治療前基準值相比，需下降超過50%。 Ⅱ.脾臟體積無惡化：使用電腦斷層評估，脾臟長度未增加超過治療前基準值之40%以上(或體積增加未達25%以上)。 Ⅲ.AML transformation：骨髓中之芽細胞≥20%或血液中之芽細胞≥20%合併芽細胞數值≥1×109/L。 (3)用藥後第二次及其後的評估，必須顯示無疾病惡化（無症狀惡化且脾臟體積無惡化，並同時無AML transformation），方得以繼續使用。分別定義如下： Ⅰ.無症狀惡化：未出現新症狀，且MPN-SAF-TSS分數或MPN-10未超過治療前的基準值。 Ⅱ.脾臟體積無惡化：使用電腦斷層評估，脾臟長度未增加超過最佳反應(best response)時之脾臟長度40%以上(或體積增加未達25%以上)。 Ⅲ.AML transformation：骨髓中之芽細胞≥20%或血液中之芽細胞≥20%合併芽細胞數值≥1×109/L。 IV.每日限給付1粒。 2.本藥品與ruxolitinib、fedratinib用於中度風險或高風險之骨髓纖維化治療時，僅得擇一給付。Ruxolitinib、fedratinib治療後如疾病惡化不得換用本藥品。"
   },
   {
     "code": "9.128.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Tucidinostat (如Kepida)",
     "rule": "1.與exemestane併用，適用於曾接受過至少一種治療轉移性的內分泌併用CDK4/6抑制劑治療後復發或惡化，且未曾使用exemestane之荷爾蒙接受體陽性、HER2受體陰性，且尚未出現器官轉移危急症狀 (visceral crisis)之停經後轉移性乳癌病人。 2.需經事前審查核准後使用，每次申請之療程以3個月為限。初次申請時需檢送病理報告及影像報告，之後每3個月申請一次，再次申請時需檢附影像資料及前次治療結果評估資料證實無惡化，才可繼續使用。 3.本藥品與everolimus僅得擇一使用，除因耐受性不良，不得互換。"
   },
   {
     "code": "9.129.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Alpelisib (如Piqray）",
     "rule": "1.與fulvestrant併用於曾接受CDK4/6抑制劑治療但疾病惡化的停經後轉移性乳癌病人，且須完全符合下列條件： (1)荷爾蒙受體為：ER或PR＞30%。 (2)HER-2 檢測為陰性。 (3)具有PIK3CA基因突變。 2.需經事前審查核准後使用： (1)初次申請需檢附PIK3CA基因突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)核准後每12週需檢附療效評估資料再次申請，若疾病惡化及必須停止使用。 3.每日最多處方2粒。"
   },
   {
     "code": "9.130.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Fulvestrant(如 Fustron)",
     "rule": "1.單獨使用於患有雌激素受體陽性的局部晚期或轉移性乳癌之停經病人，其已接受輔助抗雌激素療法但疾病仍復發，或使用抗雌激素療法但疾病仍惡化。 2.與alpelisib併用於曾接受CDK4/6抑制劑治療但疾病惡化的停經後轉移性乳癌病人，且須符合alpelisib之藥品給付規定。 3.與CDK4/6抑制劑(限使用palbociclib)併用於曾接受過內分泌療法之局部晚期或轉移性乳癌病人，且須符合CDK4/6抑制劑之藥品給付規定。"
   },
   {
     "code": "9.131.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Repotrectinib(如Augtyro)",
     "rule": "1.單獨給付於在crizotinib或entrectinib治療中惡化之ROS1陽性之局部晚期或轉移性非小細胞肺癌的成人病人。 2.須經事前審查核准後使用： (1)需檢具確實患有非小細胞肺癌之病理或細胞檢查報告，以及符合診斷之ROS-1突變檢測報告，且需符合全民健康保險藥品給付規定之通則十二。 (2)每次申請事前審查以3個月為限，再次申請時需附上治療後相關臨床資料，如給藥4週後，需追蹤胸部X光或電腦斷層等影像檢查評估療效，往後每4週做胸部X光檢查，每隔8週需追蹤其作為評估藥效的影像(如胸部X光或電腦斷層)，若病情惡化即不得再次申請。 3.每日最大劑量限320mg。"
   },
   {
     "code": "9.132.",
-    "category": "Teclistamab (如Tecvayli) ：(114/5/1、114/8/1)",
+    "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Bosutinib(如Bostini)",
     "rule": "1.第一線使用： (1).治療新診斷的費城染色體陽性之慢性期慢性骨髓性白血病的成人病人。 (2).限每日最大劑量400mg。 2.第二線使用： (1).治療患有慢性、加速或急性期慢性骨髓性白血病，對先前經 imatinib 400mg(含)以上治療後有抗藥性或無耐受性的成人病人。 (2).需檢送病歷及對imatinib耐受性不良或無效的證明。 (3).每日最大劑量500mg，惟接受起始劑量而未達到維持血液學、細胞遺傳學或分子反應，且未出現第3級或以上不良反應的病人，可進行遞增劑量，每日以最大劑量600mg為限。 3.1~2項規定內之疾病診斷或追蹤若需依據基因檢測報告，則需符合全民健康保險藥品給付規定之通則十二。 4.Bosutinib、nilotinib與dasatinib不得合併使用。"
   },
   {
     "code": "9.133.",
-    "category": "抗微生物劑 Antimicrobial agents",
+     "category": "抗癌瘤藥物Antineoplastics drugs",
     "name": "Zolbetuximab (如Vyloy)",
     "rule": "- 限與含氟嘧啶（fluoropyrimidine）和含鉑的化療併用，適用於Claudin （CLDN） 18.2陽性、第二型人類表皮生長因子受體（HER2）陰性的局部晚期不可切除或轉移性胃腺癌病人的第一線治療，且符合下列條件： - 病人身體狀況良好（ECOG≦1）。 - 初次申請時需檢附確實患有局部晚期不可切除或轉移性胃腺癌之病理或細胞檢查報告，及以免疫組織化學染色法確定腫瘤為CLDN18.2陽性（定義為≥75%的腫瘤細胞顯示中至強染色強度的CLDN18.2）且第二型人類表皮生長因子受體（HER2）陰性之檢測報告。 - 須經事前審查核准後使用，每次申請事前審查之療程以12週為限，再次申請必須提出客觀影像學證據（如：RECIST criteria）證實無惡化，才可繼續使用。 - 本案藥品與免疫檢查點抑制劑僅能擇一給付，且治療失敗時不可互換。"
   },
@@ -3007,7 +3007,7 @@ const drugData = [
   },
   {
     "code": "10.2.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "盤尼西林類 Penicillins",
     "rule": ""
   },
@@ -3025,7 +3025,7 @@ const drugData = [
   },
   {
     "code": "10.3.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "頭孢子菌素 Cephalosporins",
     "rule": ""
   },
@@ -3079,7 +3079,7 @@ const drugData = [
   },
   {
     "code": "10.5.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "Carbapenem類抗微生物製劑",
     "rule": ""
   },
@@ -3109,13 +3109,13 @@ const drugData = [
   },
   {
     "code": "10.6.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "抗黴菌劑 Antifungal drugs",
     "rule": ""
   },
   {
     "code": "10.6.1.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "Fluconazole",
     "rule": ""
   },
@@ -3139,13 +3139,13 @@ const drugData = [
   },
   {
     "code": "10.6.2.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "刪除",
     "rule": ""
   },
   {
     "code": "10.6.3.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+   "category": "抗微生物劑 Antimicrobial agents",
     "name": "Itraconazole",
     "rule": ""
   },
@@ -3217,13 +3217,13 @@ const drugData = [
   },
   {
     "code": "10.7.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "抗病毒劑 Antiviral drugs",
     "rule": ""
   },
   {
     "code": "10.7.1.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+   "category": "抗微生物劑 Antimicrobial agents",
     "name": "抗疱疹病毒劑",
     "rule": ""
   },
@@ -3247,25 +3247,25 @@ const drugData = [
   },
   {
     "code": "10.7.3.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "Lamivudine 100mg(如Zeffix)；entecavir (如Baraclude)；telbivudine (如Sebivo)；tenofovir disoproxil (如Viread)；tenofovir alafenamide (如Vemlidy)",
     "rule": "用於慢性病毒性B型肝炎患者之條件如下： 1.HBsAg(+)且已發生肝代償不全者，以lamivudine 100mg、entecavir 1.0mg、telbivudine、tenofovir disoproxil或tenofovir alafenamide治療，其給付療程如下：（98/11/1、100/6/1、102/2/1、104/12/1、106/1/1、106/4/1、108/5/1、111/3/1） (1)HBeAg陽性病患治療至e抗原轉陰並再給付最多12個月治療。 (2)HBeAg陰性病患治療至少二年，治療期間需檢驗血清HBV DNA，並於檢驗血清HBV DNA連續三次，每次間隔6個月，均檢驗不出HBV DNA時停藥，每次療程至多給付36個月。 註： Ⅰ.肝代償不全條件為prothrombin time延長≧3秒或bilirubin (total)≧2.0mg/dL，prothrombin time延長係以該次檢驗control值為準。 Ⅱ.Entecavir每日限使用1粒。 2.慢性Ｂ型肝炎病毒帶原者HBsAg(+)，或HBsAg(-)但B型肝炎核心抗體(anti-HBc)陽性者：（98/11/1、110/3/1、114/6/1） (1)接受非肝臟之器官移植者，自移植前7天內可開始預防性使用，或接受非肝臟之器官移植後，B型肝炎發作者，可長期使用。(98/11/1、110/3/1) (2)接受癌症化學療法中，B型肝炎發作者，經照會消化系專科醫師同意後，可長期使用。(93/2/1、94/10/1、98/11/1) (3)接受肝臟移植者，可預防性使用。(95/10/1、98/11/1) (4)接受癌症化學療法，經照會消化系專科醫師同意後，可於化學療法前1週開始給付使用，直至化學療法結束後6個月，以預防Ｂ型肝炎發作。（98/11/1） (5)肝硬化病患，可長期使用。(99/7/1、110/3/1、114/6/1) 註：肝硬化條件為需同時符合下列二項條件: (99/7/1、110/3/1、114/6/1) I.HBsAg(+)且可檢驗到血清HBV DNA。(110/3/1) Ⅱ.診斷標準（99/7/1、114/6/1）： a.肝組織切片（Metavir F4或Ishak F5以上）（114/6/1）；或 b.超音波診斷為肝硬化併食道或胃靜脈曲張，或超音波診斷為肝硬化併脾腫大、超音波診斷為肝硬化且血小板< 120,000/μL，或肝硬度超音波診斷為肝硬化。若患者因其他臨床適應症接受電腦斷層或核磁共振檢查而被診斷為肝硬化時，可做為診斷依據。(110/3/1) 註：以肝硬度超音波證實等同METAVIR system纖維化等於F4之定義：transient elastography (Fibroscan)≧ 12 Kpa或Acoustic Radiation Force Impulse elastography (ARFI)≧ 1.98。(110/3/1) (6)在異體造血幹細胞移植時：(104/12/1) Ⅰ.捐贈者之HBsAg為陽性反應，則捐贈者可自其確認為移植捐贈者後開始使用預防性抗病毒藥物治療，原則上治療到血液中偵測不到HBV DNA；若捐贈者符合10.7.3之3至5項治療條件，則依其規範給付。 Ⅱ. 受贈者之HBsAg為陽性反應，或捐贈來源之HBsAg為陽性反應，則受贈者可在經照會消化系專科醫師同意後，於移植前一週起至移植後免疫抑制藥物停用後6個月內，給付使用抗B型肝炎病毒藥物以預防發作。 (7)血清HBV DNA≧ 2×105 IU/mL之懷孕者，可於懷孕滿27週後開始給付使用telbivudine、tenofovir disoproxil或tenofovir alafenamide，直至產後4週。（107/2/1、108/5/1、114/6/1） (8)確診為肝癌並接受根除性治療且可檢驗到血清HBV DNA，可長期使用，直至肝癌復發且未能再次接受根除性治療止。（108/2/1、110/3/1） 註： a.根除性治療包括手術切除、肝臟移植、射頻燒灼(radiofrequency ablation) 、局部酒精注射及微波消融(microwave ablation)、冷凍治療(cryotherapy)。(109/1/1) b.已符合肝硬化給付條件可長期使用者，不在此限。 (9)接受免疫抑制劑治療者：(110/3/1) Ⅰ.預防使用：HBsAg(+)者，於接受下列免疫抑制藥物治療前一週起，至免疫抑制藥物停用後6個月內，免疫抑制藥物如下列: i.Rituximab。 ii.Anthracycline類衍生物。 iii.中高劑量類固醇（指prednisolone≧ 20mg/day或相當之劑量，使用時問超過4週。） Ⅱ.HBsAg(+)者，或HBsAg(-)但B型肝炎核心抗體陽性者，於接受免疫抑制藥物治療後B型肝炎發作，開始給付使用抗病毒藥物治療，給付至免疫抑制劑停用後6個月。 3.HBsAg(+)超過6個月(或IgM anti-HBc為陰性)及HBeAg(+)，且符合以下條件之一者，其給付療程為治療至e抗原轉陰並再給付最多12個月：（93/8/1、95/11/1、98/11/1、99/5/1、106/1/1、110/3/1、114/6/1） (1)ALT值大於(或等於)正常值上限5倍以上(ALT≧5X)。 (2)ALT值介於正常值上限2至5倍之間(2X≦ALT<5X)，且血清HBV DNA≧20,000 IU/mL，或經由肝組織切片證實HBcAg陽性。（93/8/1、98/11/1、114/6/1） (3)經由肝組織切片或肝臟纖維化掃描或Fibrosis-4 (FIB-4)證實，等同METAVIR system纖維化大於或等於F3者，其ALT值半年有兩次以上（間隔大於3個月）大於正常值上限(ALT>X)，且血清HBV DNA≧ 20,000 IU/mL或經由肝組織切片證實HBcAg陽性之患者。(110/3/1、114/6/1) 註：以肝臟纖維化掃描或Fibrosis-4 (FIB-4)證實等同METAVIR system纖維化大於或等於F3之定義為： Ⅰ.肝臟纖維化掃描transient elastography (Fibroscan)≧9.5Kpa或Acoustic Radiation Force Impulse elastography (ARFI)≧1.81。 Ⅱ.Fibrosis-4 (FIB-4)≧3.25，計算公式為[Age(years) × AST(U/L)] / [Platelet count(109/L) × √ALT(U/L)]。 4.HBsAg(+)超過6個月(或IgM anti-HBc為陰性)及HBeAg(-)，且符合以下條件之一者，其療程至少二年，治療期間需檢驗血清HBV DNA，並於檢驗血清HBV DNA連續三次，每次間隔6個月，均檢驗不出HBV DNA時停藥，每次療程至多給付36個月：（93/8/1、95/11/1、98/11/1、106/1/1、106/4/1、110/3/1、112/10/1、113/1/1、113/4/1、114/6/1） (1)ALT值大於或等於正常值上限 2 倍以上(ALT≧ 2X)，且血清 HBV DNA≧2,000 IU/mL，或經由肝組織切片證實 HBcAg 陽性。惟Fofnir、Hepwin、Sebivo、Ricovir、Hepuri、Virclean、Teno B、Tenof、Viread、Livepro、Lamidine、Hepar-Pro、Hepato-Ease、Barazer、Becavir等除上述條件外，應符合ALT值半年有兩次以上(每次間隔 3 個月)大於或等於正常值上限 2 倍以上(ALT≧ 2X)。（93/8/1、 95/11/1、98/11/1、112/10/1、113/1/1、113/4/1、114/6/1） (2)肝纖維化程度大於或等於 F2，其 ALT 值半年有兩次以上（間隔大於 3 個月）大於正常值上限(ALT>X)，且血清HBV DNA≧ 20,000 IU/mL或經由肝組織切片證實 HBcAg陽性。惟Fofnir、Hepwin、Sebivo、Ricovir、Hepuri、Virclean、Teno B、Tenof、Viread、Livepro、Lamidine、Hepar-Pro、Hepato-Ease、Barazer、Becavir等除上述條件外，應符合肝纖維化程度大於或等於F3。(110/3/1、112/10/1、113/1/1、113/4/1、114/6/1) 註：以肝臟纖維化掃描或Fibrosis-4(FIB-4)證實等同METAVIR system纖維化大於或等於F2之定義為：(112/10/1) Ⅰ.肝臟纖維化掃描transient elastography (Fibroscan)≧8Kpa或Acoustic Radiation Force Impulse elastography (ARFI)≧1.5。 Ⅱ.Fibrosis-4 (FIB-4) ≧2.1，計算公式為[Age(years) × AST(U/L)] / [Platelet count(109/L) × √ALT(U/L)]。 5.若上述治療中出現lamivudine 100mg、entecavir、telbivudine抗藥性病毒株，可改換對於抗藥株有效之B型肝炎抗病毒藥劑治療，治療藥物及療程之規定詳如10.7.4.之 1至4項。（98/11/1、99/5/1、99/7/1、102/2/1、104/12/1） 6.符合第3至4項條件者，若使用entecavir，劑量為每日0.5mg。(104/12/1、110/3/1) 7.醫事服務機構及醫師資格：(109/7/1、111/9/1、114/6/1) (1)醫院： Ⅰ.有消化系內科或消化系兒科專科醫師之醫院。 Ⅱ.醫師資格為前開醫院之消化系內科專科醫師、消化系兒科專科醫師、血液病專科醫師、腫瘤內科專科醫師、癌症相關科醫師、符合器官移植手術資格及風濕免疫科專科醫師之專任或兼任專科醫師。(111/9/1) Ⅲ.前開非消化系專科醫師，需先照會消化系專科醫師，惟愛滋病毒感染患者併有B型或C肝炎感染者，得由其照護之感染症內科專科醫師開立處方；另懷孕滿 27 週直至產後 4 週之孕產婦接受第2次以後治療者，得由其婦產科專科醫師開立處方。（111/9/1、114/6/1）。 (2)基層院所： Ⅰ.須具有消化系內科或消化系兒科專任專科醫師之基層院所。 Ⅱ.肝炎治療醫療資源不足地區及山地離島地區，具有消化系內科或消化系兒科兼任專科醫師之基層院所，亦得開立處方，惟離島地區(如金門縣、連江縣、澎湖縣、台東縣蘭嶼鄉、台東縣綠島鄉)內科醫師之基層院所，亦得開立處方。 Ⅲ.懷孕滿 27 週直至產後 4 週之孕產婦接受第2次以後治療者，得由其婦產科專科醫師開立處方。（114/6/1） ◎附表三十四：肝炎治療醫療資源不足地區及山地離島地區一覽表"
   },
   {
     "code": "10.7.4.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "Adefovir dipivoxil (如Hepsera Tablets 10mg) ；Entecavir (如Baraclude 1.0mg)；tenofovir disoproxil (如Viread)；tenofovir alafenamide (如Vemlidy)",
     "rule": "用於慢性病毒性B型肝炎患者之條件如下： 1.經使用lamivudine 100mg、entecavir 0.5mg或1.0mg、telbivudine治療或預防B型肝炎發作出現抗藥株(指於治療中一旦HBV DNA從治療期間之最低值上升超過一個對數值（1 log IU/mL），以下條件擇一給付：（98/11/1、99/5/1、102/2/1、104/12/1、106/4/1） (1)得以原治療藥物再加上adefovir進行合併救援治療（rescue therapy）；(95/9/1、95/10/1、97/8/1、98/11/1、99/5/1、99/7/1、106/4/1) (2)改用entecavir 1.0mg(僅限於lamivudine產生抗藥性之病人)單一藥物治療；（98/11/1、99/5/1、99/7/1、106/4/1） (3)以Interferon alpha-2a（如Roferon-A）或interferon alpha-2b（如Intron A）或 peginterferon alfa-2a（如Pegasys）治療1年。（98/11/1、99/5/1、99/7/1） (4)改用tenofovir disoproxil或tenofovir alafenamide單一藥物治療。(104/12/1、106/4/1、108/5/1) (5)原已接受其他口服抗病毒藥物救援治療，治療期間出現抗藥株，或治療未達預期之病毒學反應，得改以tenofovir disoproxil或tenofovir alafenamide單一藥物救援治療。(104/12/1、106/4/1、108/5/1) 2.若停藥後復發，得以合併療法，或tenofovir disoproxil或tenofovir alafenamide單一藥物再治療，或以干擾素再治療1年。(99/7/1、104/12/1、106/1/1、106/4/1、108/5/1) 3.慢性B型肝炎表面抗原（HBsAg）帶原者： (1)肝硬化之病患。(99/7/1) (2)接受非肝臟之器官移植後發作或接受肝臟移植，須持續接受免疫抑制劑時。（95/10/1、97/8/1、99/5/1）上述病患長期使用lamivudine 100mg、entecavir 0.5mg、telbivudine，以治療或預防B型肝炎發作，若出現抗藥性病毒株者，治療藥物及療程之規定詳如10.7.4.之1項。（95/10/1、97/8/1、99/5/1、 99/7/1、102/2/1） 4.臨床上若產生多重抗藥病毒株時可給予tenofovir disoproxil或tenofovir alafenamide單一藥物治療，或合併entecavir 1.0mg及tenofovir disoproxil治療，或合併entecavir 1.0mg及tenofovir alafenamide治療。(104/12/1、106/4/1、108/5/1) 註：多重抗藥病毒株指病毒對lamivudine、telbivudine、entecavir或adefovir產生二種(含)藥物以上之抗藥性。(104/12/1) 5.前述以口服抗病毒藥物治療之給付療程依HBeAg(+)或HBeAg(-)而定：HBeAg(+)病患治療至e抗原轉陰並再給付最多12個月；HBeAg(-)病患治療至少二年，治療期間需檢驗血清HBV DNA，並於檢驗血清HBV DNA連續三次，每次間隔6個月，均檢驗不出HBV DNA時停藥，每次療程至多給付36個月。再次復發時得再接受治療，不限治療次數。(106/4/1) 6.醫事服務機構及醫師資格：(109/7/1、111/9/1) (1)醫院： Ⅰ.有消化系內科或消化系兒科專科醫師之醫院。 Ⅱ.醫師資格為前開醫院之消化系內科專科醫師、消化系兒科專科醫師、血液病專科醫師、腫瘤內科專科醫師、癌症相關科醫師、符合器官移植手術資格及風濕免疫科專科醫師之專任或兼任專科醫師。(111/9/1) Ⅲ.前開非消化系專科醫師，需先照會消化系專科醫師，惟愛滋病毒感染患者併有B型或C肝炎感染者，得由其照護之感染症內科專科醫師開立處方。 (2)基層院所： Ⅰ.須具有消化系內科或消化系兒科專任專科醫師之基層院所。 Ⅱ.肝炎治療醫療資源不足地區及山地離島地區，具有消化系內科或消化系兒科兼任專科醫師之基層院所，亦得開立處方，惟離島地區(如金門縣、連江縣、澎湖縣、台東縣蘭嶼鄉、台東縣綠島鄉)內科醫師之基層院所，亦得開立處方。 ◎附表三十四：肝炎治療醫療資源不足地區及山地離島地區一覽表"
   },
   {
     "code": "10.7.5.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "Daclatasvir（如Daklinza）及asunaprevir（如Sunvepra）(106/1/24、106/5/15、107/6/1、108/1/1、108/6/1、109/1/1）：(刪除)",
     "rule": ""
   },
   {
     "code": "10.7.6.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "Ombitasvir/paritaprevir/ ritonavir（如Viekirax）及dasabuvir (如Exviera) (106/1/24、106/5/15、107/6/1、108/1/1、108/6/1、109/1/1、109/7/1、110/6/1）：（刪除）",
     "rule": ""
   },
@@ -3319,13 +3319,13 @@ const drugData = [
   },
   {
     "code": "10.8.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "其他 Miscellaneous",
     "rule": ""
   },
   {
     "code": "10.8.1.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "Teicoplanin及vancomycin",
     "rule": ""
   },
@@ -3379,7 +3379,7 @@ const drugData = [
   },
   {
     "code": "10.8.4.",
-    "category": "呼吸系統藥物 Drugs acting on the respiratory system",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "(本項刪除)。",
     "rule": ""
   },
@@ -3421,25 +3421,25 @@ const drugData = [
   },
   {
     "code": "10.9.",
-    "category": "解毒劑 Antidotes in poisoning",
+    "category": "抗微生物劑 Antimicrobial agents",
     "name": "抗人類免疫缺乏病毒藥品使用規定",
     "rule": "1.限在台灣地區確診且服藥兩年以上之病患使用。 2.依衛生福利部疾病管制署最新版「抗人類免疫缺乏病毒藥品處方使用規範」之建議辦理。"
   },
   {
     "code": "11.1.",
-    "category": "感覺器官藥物 Sensory organs",
+    "category": "解毒劑 Antidotes in poisoning",
     "name": "一般解毒劑 General antidotes",
     "rule": ""
   },
   {
     "code": "11.1.1.",
-    "category": "感覺器官藥物 Sensory organs",
+    "category": "解毒劑 Antidotes in poisoning",
     "name": "Carbomix限藥物中毒急救使用。",
     "rule": ""
   },
   {
     "code": "11.2.",
-    "category": "感覺器官藥物 Sensory organs",
+    "category": "解毒劑 Antidotes in poisoning",
     "name": "特定解毒劑 Specific antidotes",
     "rule": ""
   },
@@ -3469,7 +3469,7 @@ const drugData = [
   },
   {
     "code": "11.2.5.",
-    "category": "耳鼻喉科製劑 ENT and dental preparations",
+    "category": "解毒劑 Antidotes in poisoning",
     "name": "Fomepizole (如Fomeject)",
     "rule": "1.限下列病例使用： (1)甲醇中毒： Ⅰ. 確認甲醇服用病史。 Ⅱ. 血中甲醇濃度>20mg/dL。 Ⅲ. 食入已達中毒劑量的甲醇且osmolal gap (OG) >10mOsm/L。 Ⅳ. 臨床高度懷疑為甲醇中毒且下面三項指標中至少符合兩項： i.血液pH <7.3； ii.血中bicarbonate <20meq/L； iii. Osmolal gap (OG) >10mOsm/L。 (2)乙二醇中毒： Ⅰ. 確認乙二醇服用病史。 Ⅱ. 血中乙二醇濃度>20mg/dL。 Ⅲ. 食入已達中毒劑量的乙二醇且osmolal gap (OG) >10mOsm/L。 Ⅳ. 臨床高度懷疑食入乙二醇且造成下列四項表徵中之三項： i.血液pH <7.3； ii.血中 bicarbonate <20meq/L； iii. Osmolal gap (OG) >10mOsm/L； iv.尿液檢查結果有草酸結晶。 (3)上述檢驗資料應於病歷詳細記載。 2.需排除或停止使用之情形如下： (1)血中甲醇或乙二醇濃度濃度低於20mg/dL； (2)已知對fomepizole或其他pyrazoles過敏。"
   },
@@ -3493,13 +3493,13 @@ const drugData = [
   },
   {
     "code": "12.4.",
-    "category": "皮膚科製劑 Dermatological preparations",
+    "category": "耳鼻喉科製劑 ENT and dental preparations",
     "name": "Ciprofloxacin +hydrocortisone (如Siproxan Otic Drops)",
     "rule": "1.耳部感染症如外耳炎等，若經使用第一線抗微生物製劑無效，且有病歷詳細記載者方得使用 2.每次處方以一瓶為原則。"
   },
   {
     "code": "13.1.",
-    "category": "血液及造血器官用藥 Blood and blood forming organs",
+    "category": "皮膚科製劑 Dermatological preparations",
     "name": "(刪除)",
     "rule": ""
   },
@@ -3511,7 +3511,7 @@ const drugData = [
   },
   {
     "code": "13.3.",
-    "category": "血液及造血器官用藥 Blood and blood forming organs",
+    "category": "皮膚科製劑 Dermatological preparations",
     "name": "Calcipotriol外用製劑",
     "rule": ""
   },
@@ -3529,7 +3529,7 @@ const drugData = [
   },
   {
     "code": "13.3.3.",
-    "category": "血液及造血器官用藥 Blood and blood forming organs",
+   "category": "皮膚科製劑 Dermatological preparations",
     "name": "與tazarotene併用，兩者合計總量每星期不超過30gm或30mL，若因病情需要兩者合併使用量需超過每星期30gm 者，應於病歷詳細記錄理由。",
     "rule": ""
   },
@@ -3613,7 +3613,7 @@ const drugData = [
   },
   {
     "code": "13.17.",
-    "category": "血液及造血器官用藥 Blood and blood forming organs",
+   "category": "皮膚科製劑 Dermatological preparations",
     "name": "Dupilumab (如Dupixent) ; upadacitinib(如Rinvoq) ; abrocitinib (如Cibinqo)",
     "rule": ""
   },
@@ -3637,7 +3637,7 @@ const drugData = [
   },
   {
     "code": "13.19.",
-    "category": "眼科製劑 Ophthalmic preparations",
+    "category": "皮膚科製劑 Dermatological preparations",
     "name": "Centella asiatica extract, plectranthus amboinicus extract外用製劑(如Fespixon cream)",
     "rule": "1.限整形外科或皮膚科專科醫師使用。 2.限用於糖尿病足部傷口潰瘍(Wagner grade 2級)，接受積極血糖控制及清創手術後，其治療最大傷口面積不超過5cm2，且應符合下列所有條件： (1)糖尿病足部傷口潰瘍，傷口深及肌肉層且經抗生素藥膏或燙傷藥膏治療及使用傷口敷料12週後，該傷口癒合面積小於50%。 (2)HbA1c<8.5%、albumin ≧ 3.0 g/dL。 (3)治療前ABI（Ankle Brachial Index）≧0.9。 3.每年限申請1次，每次申請為2支，每次處方限1支。 4.排除條件: (1)急性發炎感染不穩定之傷口。 (2)周邊動脈阻塞(peripheral artery disease,PAD)病人未施行經皮血管擴張術 (percutaneous transluminal angioplasty,PTA)治療者。 5.需經事前審查核准後使用；應附有HbA1c、albumin、ABI資料及相隔12週以上清創前後照片。 6.再次申請時除前條所需資料外，需加附前次治療後該傷口完全癒合之照片。 備註:積極血糖控制，係指糖化血色素不高於個別目標值1.5%以上，惟一般病人的糖化血色素目標值為7.0%以下，因此8.5%為指標。"
   },
@@ -3769,7 +3769,7 @@ const drugData = [
   },
   {
     "code": "14.9.9.",
-    "category": "婦科製劑 Gynecological preparations",
+     "category": "眼科製劑 Ophthalmic preparations",
     "name": "Cysteamine（如Cystadrops）",
     "rule": "1.限用於經衛生福利部國民健康署認定之2歲以上兒童及成人胱胺酸血症（cystinosis）之病人，且符合下列所有條件： (1)經基因檢測確診為胱胺酸血症CTNS基因發生致病變異(Pathogenic Variants)。 (2)裂隙燈生體顯微鏡檢查(slit lamp biomicroscope)有角膜胱胺酸（cystine）結晶堆積且角膜胱胺酸晶體裂隙燈檢查分級(CCCS)2.0(含)以上。 (3)病人自我評估畏光度及醫師檢測畏光度2.0(含)以上。 2.限由眼科專科醫師處方和評估療效及副作用。 3.需經事前審查核准後使用，期滿需提出療效評估項目資料再次申請並經核准後使用： (1)第一次申請，核給3個月(12瓶)的藥量，期滿需經裂隙燈生體顯微鏡證實CCCS降低0.5(含)以上，得第二次申請，並核給6個月(24瓶)的藥量。 (2)第三次(含)後申請，需與前次申請間隔至少半年始得提出，每次申請核給24瓶的藥量並符合下列所有條件，始得續用： - 經裂隙燈生體顯微鏡證實CCCS仍在2.0(含)以上且較第一次申請時降低1.0(含)以上。 - 病人自我評估畏光度及醫師檢測畏光度仍在2.0(含)以上且較第一次申請時降低1.0(含)以上。 4.經裂隙燈生體顯微鏡證實CCCS在1.0(含)以下且病人自我評估畏光度及醫師檢測畏光度1.0(含)以下應先暫停用藥，得視病情需要重新申請使用。 5.每年最多給付52瓶。 6.療效評估項目： (1)角膜胱胺酸晶體裂隙燈檢查分級（Gahl’s Corneal Cystine Crystal Score, CCCS）。 (2)病人自我評估畏光度（Self-Assessed Photophobia）。 (3)醫師檢測畏光度（Clinician-Assessed Photophobia）。 7.停藥條件： (1)產生不良反應。 (2)無法忍受局部藥物不良反應(如：眼睛刺激、灼熱、刺痛等)。 備註： 1.病人自我評估畏光度分級：等級 0，無畏光，無不適；等級 1，輕微對光線敏感導致偶爾眨眼；等級 2，輕微對光線敏感導致經常眨眼；等級 3，中度對光線敏感需戴太陽眼鏡；等級 4，嚴重對光線敏感需長期戴太陽眼鏡；等級 5，極端對光線敏感需待在室內，即便戴太陽眼鏡也無法忍受自然光。 2.醫師檢測畏光度分級：等級 0，即使在裂隙燈生體顯微鏡檢查使用最大狹縫光束下也"
   },
